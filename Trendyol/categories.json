@@ -494,7 +494,7 @@
       {
         "name": "Giyim",
         "slug": "erkek-giyim",
-        "subCategorie": [
+        "subCategories": [
           {
             "name": "Tişört",
             "slug": "tisort"
