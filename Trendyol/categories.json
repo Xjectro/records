@@ -3254,7 +3254,7 @@
       {
         "name": "Lüks & Designer",
         "slug": "lüks-designer",
-        "subCategorie": [
+        "subCategories": [
           {
             "name": "Lüks Çanta",
             "slug": "luks-canta"
