@@ -1859,14 +1859,11 @@ name,phone,address,website,rating,user_ratings_total
 "Solar Building","","Residential Building (Wind and Solar Blocks) - Masdar City - SE45 05 - Abu Dhabi - United Arab Emirates","",4,1
 "Ville 12","800 2225","Masdar City - SE45 01 - Abu Dhabi - United Arab Emirates","http://burtville.com/",5,1
 "Bab Al Qasr Resort Residence","","Khalifa City - Masdar City - Abu Dhabi - United Arab Emirates","",5,6
-"Masdar city 1 block A","","CJG7+MX9 - Masdar City - SE45 02 - Abu Dhabi - United Arab Emirates","","",""
-"Apartment","","63 Al Wafir St - Khalifa City - SE45 - Abu Dhabi - United Arab Emirates","","",""
 "Masdar Phase 2 Block 4A2","","CJM9+JPG - Masdar City - SE45 05 - Abu Dhabi - United Arab Emirates","",5,1
 "Inteva Realestate","050 375 8900","Villa No. 3 - Mohamed Bin Zayed City - Zone 13 - Abu Dhabi - United Arab Emirates","https://intevarealestate.com/","",""
 "Masdar Phase 2 Retail Plaza","","CJMC+95C - Khalifa City - SE45 05 - Abu Dhabi - United Arab Emirates","",4.3,12
 "bloom.","","CJJC+CVF - Khalifa City - SE45 05 - Abu Dhabi - United Arab Emirates","",5,2
 "Leonardo Residence - Block A","","CJJC+HR9 - Al Ibda‘ St - Masdar City - SE45 05 - Abu Dhabi - United Arab Emirates","",3.8,8
-"Abu Dhabi Home","","CJMC+95C - Masdar City - SE45 05 - Abu Dhabi - United Arab Emirates","","",""
 "S3oody Home","","CJJC+36C - Masdar City - SE45 05 - Abu Dhabi - United Arab Emirates","",2.3,3
 "Masdar 1 Block D","","CJPC+76C - Masdar City - SE45 05 - Abu Dhabi - United Arab Emirates","","",""
 "Madinat Al riyad","","8P27+GR - Madinat Al Riyad - RD96 - Abu Dhabi - United Arab Emirates","",5,2
@@ -1883,15 +1880,12 @@ name,phone,address,website,rating,user_ratings_total
 "Villa madinat Al Riyadh 197","","8PPV+F24 - Al Muraheb St - Madinat Al Riyad - RD32 - Abu Dhabi - United Arab Emirates","",1,1
 "Villa 65 Madinat Al Riyad","","8PCJ+M4F - Al Ma'had St - Madinat Al Riyad - RD31 - Abu Dhabi - United Arab Emirates","",5,1
 "بيت بو عامر حمد المري","","Al Madeenah St - Madinat Al Riyad - RD23 - Abu Dhabi - United Arab Emirates","",5,1
-"حميد ناصر الأنصاري","","185 Al Mi-dhanah St - Madinat Al Riyad - العِبَيان - Abu Dhabi - United Arab Emirates","","",""
 "Mohsin Alharthi","","9QH3+R24 - Madinat Al Riyad - RD7 - Abu Dhabi - United Arab Emirates","",5,1
 "Ahmed Tareq Al Hosani","","8PQ4+CX9 - Madinat Al Riyad - RD34 - Abu Dhabi - United Arab Emirates","",5,1
-"Se","","8QW9+CRX - Al Khuzama St - Madinat Al Riyad - RD19 - Abu Dhabi - United Arab Emirates","","",""
 "S S ALEFARI","","5 Al Maymoun St - Madinat Al Riyad - RD21 - Abu Dhabi - United Arab Emirates","",5,3
 "سالم محمد بن الطير العامري","","8PC4+Q69 - Madinat Al Riyad - RD65 - Abu Dhabi - United Arab Emirates","",5,1
 "بوذياب@ سلطان الظاهري","","13 Al Farabai St - Madinat Al Riyad - RD23 - Abu Dhabi - United Arab Emirates","",5,1
 "Mohamed Humaidan Hammad فيلا محمد حميدان حماد","050 444 6423","Al Diwan - Al Bilad St - Abu Dhabi - United Arab Emirates","",5,1
-"Gehad Darwish جهاد درويش","","8P98+58G - Madinat Al Riyad - Al-Wathba North - Abu Dhabi - United Arab Emirates","","",""
 "almarzooqi","","92 Al Minbar St - Madinat Al Riyad - RD24 - Abu Dhabi - United Arab Emirates","",5,1
 "راشد النقبي","","9Q2P+Q5G - Madinat Al Riyad - RD18 - Abu Dhabi - United Arab Emirates","",5,2
 "خليفه علي الحمادي","","30 شارع السَّارِي - Madinat Al Riyad - RD29 - Abu Dhabi - United Arab Emirates","","",""
@@ -1905,7 +1899,6 @@ name,phone,address,website,rating,user_ratings_total
 "Mohamed alali","","7 Al Yakht St - Madinat Al Riyad - العِبَيان - Abu Dhabi - United Arab Emirates","",1,1
 "Mussafah Garden","","9GMF+J47 - Musaffah - Musaffah Industrial - Abu Dhabi - United Arab Emirates","",3.2,17
 "BIN FADEL HOLDING LLC","02 632 2215","شارع ١٦ - Musaffah - M43 - Abu Dhabi - United Arab Emirates","https://binfadelholding.ae/",4.6,29
-"Gorry Home 🏡","","53 Al Abbarah St - Madinat Al Riyad - ME2 - Abu Dhabi - United Arab Emirates","","",""
 "Abu Dhabi tourist club","","18 Damrah Al Juhayni St - Al Zahiyah - E16 01 - Abu Dhabi - United Arab Emirates","",4,1
 "K. M. Hypermarket Tourist Club Area","02 678 6070","Tourist Club Area, Near City Terminal - 11 Al Masayid St - Al Zahiyah - E16 01 - Abu Dhabi - United Arab Emirates","http://www.kmt-group.com/",4.1,3019
 "Accommodation","","15 Ad Dibsi St - Al Zahiyah - E16 02 - Abu Dhabi - United Arab Emirates","",5,1
@@ -1922,12 +1915,9 @@ name,phone,address,website,rating,user_ratings_total
 "Al Suweidi Building","","G92H+W5F - As Seedaf St - Al Zahiyah - E14 - Abu Dhabi - United Arab Emirates","",3,2
 "Omer Tower","02 441 6399","25 - شارع As Sindan St - Al Zahiyah - E14 - Abu Dhabi - United Arab Emirates","https://gilltravelodoocom.odoo.com/",4.9,7
 "Shamma tower","","9 Al Nathr St - Al Zahiyah - E16 - Abu Dhabi - United Arab Emirates","",5,2
-"Blue Water Real Estate","02 626 0624","Khalidiyah, Behind Al Muheiry centre Al Rahma Pharmacy building - Abu Dhabi - United Arab Emirates","","",""
 "Bedspace","055 299 0432","Electra street - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates","",3.3,9
 "Dollar Building","050 965 9632","10th St - Al Zahiyah - E14 - Abu Dhabi - United Arab Emirates","",4.3,7
-"Limra Apartments","056 347 7778","14 شارع المِيدار - Al Zahiyah - E16 - Abu Dhabi - United Arab Emirates","","",""
 "Al khaili building","050 660 9132","Al Mirji St - Al Zahiyah - E14 - Abu Dhabi - United Arab Emirates","",3.2,9
-"Mohamed Habroush AL Suwaidi Building","","Zone 1E18-03 - 10 Al Amthal St - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates","","",""
 "Renad Tower - Tiger Properties","","G92V+4J - Al Reem Island - Tamouh - Abu Dhabi - United Arab Emirates","",4.6,10
 "Reem Village","02 650 2363","Abdullah Omran Taryam St - Al Reem Island - Tamouh - Abu Dhabi - United Arab Emirates","https://www.colliers.com/en-ae",2.8,98
 "Reem Eight by SAAS","800 27","FCX5+7M4 - Ad Dajaya St - Al Reem Island - RS5 - Abu Dhabi - United Arab Emirates","https://saasproperties.com/en",5,3
@@ -1963,7 +1953,6 @@ name,phone,address,website,rating,user_ratings_total
 "The Executive Centre - Al Maryah Tower","02 411 0500","Tower - Level 6 & 7 - Al Maryah Island - Abu Dhabi Global Market Square - Abu Dhabi - United Arab Emirates","https://executivecentre.ae/al-maryah-tower-adgm",4.9,14
 "ADGM","02 333 8888","Island - ADGM Authorities Building - Al Maryah Island - Abu Dhabi Global Market Square - Abu Dhabi - United Arab Emirates","https://www.adgm.com/",3.8,117
 "ADGM Academy - أكاديمية أبوظبي العالمي","02 333 8500","Al Maqam Tower - Sheikh Zayed Bin Sultan St - الفلاح - MI1 - Abu Dhabi - United Arab Emirates","https://www.adgmacademy.com/",4.3,24
-"Abu Dhabi Global Market Square","","Al Maryah Island - Abu Dhabi Global Market Square - Abu Dhabi - United Arab Emirates","","",""
 "The Executive Centre - ADGM Serviced Office and Workspace","02 411 0500","Level 12 & 25, Al Sila Tower - Abu Dhabi Global Market - First St - Al Maryah Island - Abu Dhabi Global Market Square - Abu Dhabi - United Arab Emirates","https://executivecentre.ae/",5,23
 "ADGM Courts","02 333 8888","3rd Floor ADGM Authorities Building, Al Maryah Island - Abu Dhabi - United Arab Emirates","https://adgmcourts.com/",4.5,20
 "Global Heritage Properties & General Trading","02 627 9088","F9R7+4R7 - Hamdan Bin Mohammed St - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates","",3,2
@@ -1976,25 +1965,13 @@ name,phone,address,website,rating,user_ratings_total
 "Yas Acres - Aspens - Gate 1","","GJ23+7PX - Yas Island - Yas North - Abu Dhabi - United Arab Emirates","",4.9,9
 "Yas acres community club","","GJ24+QJP - Yas IslandYas North - Abu Dhabi - United Arab Emirates","",4.9,14
 "The Dahlias Gate 3 - Yas Acres","","GJ56+6R - Yas Island - Yas North - Abu Dhabi - United Arab Emirates","",5,2
-"Villa 26 Magnolias - Yas Acres","","GJ64+MRW - Yas Island - Yas North - Abu Dhabi - United Arab Emirates","","",""
 "Yas Acres - The Magnolias Gate 1","","GJ65+9XW - Street - Yas Island - YN2 - Abu Dhabi - United Arab Emirates","",5,1
-"Yas Acres - The Cedars villa number 165","","GJ53+HVG - Yas Island - YN4 - Abu Dhabi - United Arab Emirates","","",""
-"Yas Acres Magnolias - Villa 241","","GJ44+2M - Yas Island - YN5 - Abu Dhabi - United Arab Emirates","","",""
 "Yas Acres - Aspens - Gate 2","","GJ35+J75 - Yas Island - Yas North - Abu Dhabi - United Arab Emirates","",4,4
 "Yas Acres - The Magnolias Gate 2","","GJ35+J75 - Yas Island - Yas North - Abu Dhabi - United Arab Emirates","",4.5,8
-"Yas Acres Magnolias - Villa 163","","GJ44+J63 - Yas Island - YN5 - Abu Dhabi - United Arab Emirates","","",""
-"Yas Acres - The Cedars","","GJ43+583 - Yas Island - YN4 - Abu Dhabi - United Arab Emirates","","",""
-"Yas Acres - The Cedars villa number 18","","351 Al Ahfad St - Yas Island - YN3 - Abu Dhabi - United Arab Emirates","","",""
-"The Magnolias Yas Acres by aldar properties","","FJP5+P6H - Yas Island - YS1 - Abu Dhabi - United Arab Emirates","","",""
-"Yas Acres - The Cedars - Villa 226","","GJ43+V2G - North - Yas Island - YN4 - Abu Dhabi - United Arab Emirates","","",""
 "Yas Acres - Aspens Community Center","","Yas Island - Yas North - Abu Dhabi - United Arab Emirates","",4.9,11
-"Villa 204, Yas Acres - Cedars","","GJ43+45R - Yas Island - YN4 - Abu Dhabi - United Arab Emirates","","",""
-"Yas Acres - The Cedars villa number 247","","GJ43+JC4 - Yas Island - YN4 - Abu Dhabi - United Arab Emirates","","",""
 "West yas","","F93G+HW5 - Al Manhal - W15 01 - Abu Dhabi - United Arab Emirates","",5,1
-"West yas","","8 Al Mansouʹ St - Yas Island - YS3 01 - Abu Dhabi - United Arab Emirates","","",""
 "West Yas Waterfront Park","","FHVH+8GX - Yas Island - YS3 02 - Abu Dhabi - United Arab Emirates","",4.5,69
 "Mangrove parking Yas west","","West - 60 Al Bustan St - Yas Island - YS3 03 - Abu Dhabi - United Arab Emirates","",3,2
-"West yas vila omar bastaki","","75 شارع الأنْدَلُس - Yas Island - YS3 02 - Abu Dhabi - United Arab Emirates","","",""
 "Ohana Development","054 222 2000","Corniche, Landmark Tower - 64th Floor - Al Hisn - Al Markaziyah West - Abu Dhabi - United Arab Emirates","http://www.ohana.ae/",5,12
 "Property Shop Investment","","FJJ8+2P4 - Yas Island - YS1 - Abu Dhabi - United Arab Emirates","",5,2
 "Noya Luma","","FJXF+W6P - Yas Island - YN7 - Abu Dhabi - United Arab Emirates","",5,3
@@ -2030,16 +2007,13 @@ name,phone,address,website,rating,user_ratings_total
 "Manarat Al Saadiyat","02 657 5800","Sheikh Khalifa Bin Zayed Al Nahyan Hwy - Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates","http://manaratalsaadiyat.ae/",4.5,3119
 "Grove Art House","054 466 4553","Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates","http://grovearthouse.com/",5,1
 "Grove Museum Views","","GCP3+5CV - Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates","",5,2
-"Victor Sadygov Real Estate","054 204 4777","Block 5 Shati Al Sa'diyat St - Al Saadiyat Island - SDN1 - Abu Dhabi - United Arab Emirates","https://sadygovestate.com/","",""
 "Jawaher al Saadiyat","","GCMG+RRC - Laffan St - Al Saadiyat Island - SDN1 - Abu Dhabi - United Arab Emirates","",4.9,13
 "Saadiyat villa 008","","GCMF+M4W - Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates","",3,2
 "Mamsha Palm","","GCQ5+57C - Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates","",5,1
 "Lilac 6 - Mamsha Al Saadiyat","","GCQ5+FWG - Jacques Chirac St - Al Sa'DiyatCultural - SDN1 - Abu Dhabi - United Arab Emirates","",4.5,15
 "Asgc Site Office AD115 The Grove","054 718 4799","GCP5+JW7 - Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates","https://www.asgcgroup.com/projects/residential/the-grove",4.6,14
 "Turquoise 9","","GCQ4+FQ6 - Jacques Chirac St - Al Sa'DiyatCultural - SDN1 - Abu Dhabi - United Arab Emirates","http://www.aldar.com/",4.5,152
-"Mamsha Gardens","","GCQ6+2W - Al Saadiyat Island - SDN1 - Abu Dhabi - United Arab Emirates","https://offers.saadiyathomes.com/mamsha-gardens/","",""
 "Grove Fountain Views","","GCP3+5CV - Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates","",5,1
-"The Source II","","GCP3+5CV - Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates","","",""
 "Azure 2 - Mamsha Al Saadiyat","","GCQ7+G53 - Jacques Chirac St - Al Saadiyat Island - SDN1 - Abu Dhabi - United Arab Emirates","",4.7,23
 "Turquoise 7 - Mamsha Al Saadiyat","","GCQ5+FJJ - Jacques Chirac St - Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates","",5,3
 "Cultural District","","Al Saadiyat Island - Cultural District - Abu Dhabi - United Arab Emirates","http://www.saadiyat.ae/en/masterplan/saadiyat-cultural-district.html","",""
@@ -2081,15 +2055,9 @@ name,phone,address,website,rating,user_ratings_total
 "Al Jurf Development Projects LLC","02 671 7331","salam street - Al Danah - Zone 1 - Abu Dhabi - United Arab Emirates","http://www.aljurf.com/",4,68
 "Al-Jurf Gardens","","VR34+VJG - Ghadeer Al Tayr - Al Jarf - Abu Dhabi - United Arab Emirates","https://al-jurfgardens.com/",4.4,37
 "SILA Inventory","054 558 5726","al wasseta - Al Sila' - Bayah West 2 - Abu Dhabi - United Arab Emirates","",5,1
-"Al sila","","2P3J+WJ4 - Al Sila - Barqa Al Sila' - Abu Dhabi - United Arab Emirates","","",""
 "SILA Real Estate Agency","04 552 1647","Silver Tower - office 908 Marasi Dr - Business Bay - Dubai - United Arab Emirates","https://realsila.ae/",5,7
 "نادر","","196 Al Bawakhir St - Al Sila' - Al Sila' Harbour - Abu Dhabi - United Arab Emirates","",5,1
-"Sila room","","3P9V+WH9 - 308 Ln - Al Sila' - Bayah Farms - Abu Dhabi - United Arab Emirates","","",""
-"Al Silla 108 Villas Project WBG","","3Q23+W75 - Al Sila' - Bayah West 5 - Abu Dhabi - United Arab Emirates","","",""
-"مجلس صالح راشد الحمادي","","20 شارع الزمن - Al Sila' - Baya Al Sila - Abu Dhabi - United Arab Emirates","","",""
 "Mewa khel surrani","","15 شارع الأَحْلَام - Al Sila' - Baya Al Sila - Abu Dhabi - United Arab Emirates","",5,1
-"Building 5 Sila Hospital Staff Accommodation","","2QV4+QVR - Al Sila' - Baya Al Sila - Abu Dhabi - United Arab Emirates","","",""
-"Room rental","055 872 2113","sanaya, plot no 95 - Al Sila' - Baya Al Sila - Abu Dhabi - United Arab Emirates","","",""
 "Dalma Homes Real Estate LLC","04 570 5957","Sama Building - Office Number 803 - Al Barsha 1 - Dubai - United Arab Emirates","https://dalmahomes.com/",5,6
 "عتيق السويدي Ateeq Alsuwaidi","","F7QQ+WGQ Island - Delma - Delma Island - Abu Dhabi - United Arab Emirates","",5,1
 "Dalma Island","","Dalma Island - Delma - Abu Dhabi - United Arab Emirates","",4.3,359
@@ -2104,23 +2072,3 @@ name,phone,address,website,rating,user_ratings_total
 "Delma village","","7 Al Musnad St - Delma - Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","","",""
 "Delma Museum","","F8J3+VR9 - Delma - Heritage Area - Abu Dhabi - United Arab Emirates","https://abudhabiculture.ae/en/cultural-sites/museums/delma-museum",4.4,132
 "Delma Island Airport","02 505 5000","G83M+36C - Delma Island - Abu Dhabi - United Arab Emirates","http://www.adac.ae/arabic/what-we-do/airports/delma-airport",4.4,118
-"نعيـم الحمادي","","6 شارع المُنِير - Delma - Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","",5,2
-"عيسى بن مهير المزروعي","","13 Al Nabtiyah St - Delma - Shabiat Delma - Abu Dhabi - United Arab Emirates","","",""
-"شعبية الحوامد","","2 Al Ruways St - Delma - Shabiat Delma - Abu Dhabi - United Arab Emirates","","",""
-"AL Mariah United Group Accommodation","","12 Fayiz St - Delma - Heritage Area - Abu Dhabi - United Arab Emirates","","",""
-"ضاعن سالم القبيسي","","11 Al Nabtiyah St - Delma - Shabiat Delma - Abu Dhabi - United Arab Emirates","",1,1
-"بشير خلف العبري","","2 شارع البَاشِق - Delma - Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","",5,1
-"سالم بشير العبري","","6 شارع البَاشِق - Delma - Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","",5,1
-"بيت بحريني","","6 شارع الهَنُّوف - Delma - Shabiat Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","","",""
-"مجلس جاسم الحمادي","","12 Al Shuweehat St - Delma - Shabiat Delma - Abu Dhabi - United Arab Emirates","",5,5
-"Delma","","Delma - Abu Dhabi - United Arab Emirates","","",""
-"سالم ضاعن القبيسي","","20 شارع المُنِير - Delma - Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","","",""
-"کرمجوان","","G845+78M - Delma - Delma Island - Abu Dhabi - United Arab Emirates","","",""
-"Camp","","170 Al Huwad St - Delma - Delma Farms - Abu Dhabi - United Arab Emirates","","",""
-"Abo mallk","","31 شارع المُنِير - Delma - Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","","",""
-"بيت ابو عبدالله","","G864+54G جزيرة دلما - Delma - Delma Island - Abu Dhabi - United Arab Emirates","","",""
-"سلطان بشير العبري","","8 شارع البَاشِق - Delma - Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","","",""
-"صباح المحيربي","","F8WF+34H - Delma - Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","","",""
-"عزيز الشايب","","G8HF+G66 - Delma - Delma Island - Abu Dhabi - United Arab Emirates","","",""
-"عادل علي الحوسني","","19 Al Nuzha St - Delma - Shabiat Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","","",""
-"عبدالله بشير العبري","","10 شارع البَاشِق - Delma - Delma Al Jadeedah - Abu Dhabi - United Arab Emirates","","",""
