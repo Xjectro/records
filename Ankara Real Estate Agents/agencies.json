@@ -1,0 +1,5042 @@
+[
+  {
+    "name": "ALTAN EMLAK",
+    "phone": "0530 933 13 14",
+    "address": "Tuzluçayır, Abidin Aktaş Sk. 6/C, Mamak",
+    "website": "https://altanemlakk.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 103
+  },
+  {
+    "name": "RE/MAX Ankara Çankaya Emlak Gayrimenkul Ofisi",
+    "phone": "(0312) 985 02 95",
+    "address": "Gaziosmanpaşa, Nenehatun Cd No:124 D:4A, Çankaya",
+    "website": "https://www.remaxerhanyilmaz.com/",
+    "rating": 4.9,
+    "user_ratings_total": 130
+  },
+  {
+    "name": "ÇAĞNES GAYRİMENKUL",
+    "phone": "0532 386 71 25",
+    "address": "Göktürk, Seyran Cd. No:78, Çankaya",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 222
+  },
+  {
+    "name": "MARTI CEBECİ EMLAK",
+    "phone": "0532 282 43 99",
+    "address": "Cebeci, Yeni Ankara Sk. No:27/B, Çankaya",
+    "website": "https://marticebeciemlak.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 121
+  },
+  {
+    "name": "Kuzey Emlak - Bahattin Güney",
+    "phone": "0535 830 28 72",
+    "address": "Gazi, Şenol Cd. 22 / 6, Yenimahalle",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 110
+  },
+  {
+    "name": "Fora Emlak",
+    "phone": "0535 526 29 22",
+    "address": "Tınaztepe, Yaprak Sokaği 49/B, Çankaya",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 162
+  },
+  {
+    "name": "Göral Emlak Dikmen",
+    "phone": "(0312) 476 27 26",
+    "address": "Sokullu Mehmet Paşa, Sokullu Mehmet Paşa Cd. No:56B, Çankaya",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 45
+  },
+  {
+    "name": "DOĞUŞ BEY GAYRİMENKUL",
+    "phone": "0538 602 86 25",
+    "address": "Balkiraz, Sakinler Sk. 12/A, Mamak",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 376
+  },
+  {
+    "name": "AHMET YALÇIN GAYRİMENKUL YATIRIM OFİSİ",
+    "phone": "(0312) 472 72 47",
+    "address": "Huzur, 1066. Cadde No:23/A, Çankaya",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 264
+  },
+  {
+    "name": "Ayrancı Güleryüz Emlak Danışmanlık",
+    "phone": "0543 346 17 07",
+    "address": "Ayrancı, Elçi Sokağı 17/D, Çankaya",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 112
+  },
+  {
+    "name": "HAFIZOĞLU EMLAK",
+    "phone": "0555 537 21 42",
+    "address": "D.bahçe mahallesi, Uzgörenler Sk. No: 25/D, Mamak",
+    "website": "http://planet.port724.net/1qehy12vzzpa3c4au3nq",
+    "rating": 5,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "HF Group FAKIOĞLU / Merkez Emlak",
+    "phone": "0532 768 50 62",
+    "address": "Balgat, 1413. Sk. 1/1, Çankaya",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/hf-group-fakioglu-merkez-emlak-28250",
+    "rating": 5,
+    "user_ratings_total": 78
+  },
+  {
+    "name": "Barsam Real Estate",
+    "phone": "(0312) 419 99 05",
+    "address": "Esatoğlu, Esat Cd. 85/3, Çankaya",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/borse-kucukesat-8790?campaignid=20161232326&adgroupid&adid&gclid=Cj0KCQjwk96lBhDHARIsAEKO4xaUs8FsA33iNf0AqlbjeFmyul1C20G3BkmnoD0veM4sk1ggLXJKvaQaArWiEALw_wcB",
+    "rating": 4.9,
+    "user_ratings_total": 33
+  },
+  {
+    "name": "YÜCEL EMLAK OFİSİ - FAKIOĞLU MFO GRUP",
+    "phone": "0536 584 33 48",
+    "address": "Balgat Mahallesi Ceyhun Atuf Kansu Cd. &, Oğuzlar, 1384. Sk. 5/D, Çankaya",
+    "website": "https://www.hurriyetemlak.com/emlak-ofisi/yucel-emlak-ofisi-17197",
+    "rating": 4.8,
+    "user_ratings_total": 50
+  },
+  {
+    "name": "FADEN EMLAK",
+    "phone": "0543 926 43 75",
+    "address": "Erzurum, Soysal Sk. 7/A, Çankaya",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 43
+  },
+  {
+    "name": "Bayindir Emlak",
+    "phone": "(0312) 365 40 50",
+    "address": "Akdere, 356. Cd. No:20 D:B, Mamak",
+    "website": "https://bayindiremlakk.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 110
+  },
+  {
+    "name": "AREL EMLAK",
+    "phone": "(0312) 212 99 33",
+    "address": "BAHÇELİEVLER MAH.TAŞKENT CADDESİ 36/C ÇANKAYA/ANKARA YÜCETEPE MH.AKDENİZ CD.39/1 ŞB, Çankaya",
+    "website": "http://www.arelemlakankara.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 73
+  },
+  {
+    "name": "Kayalılar Emlak",
+    "phone": "0530 644 44 64",
+    "address": "Çamlıtepe, Dede Efendi Cd. No:68, Çankaya",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "Çağdaş Emlak Yatırım Hizmetleri",
+    "phone": "0535 212 08 75",
+    "address": "Kızılay, Mithatpaşa Cd. No: 47.6, Çankaya",
+    "website": "http://www.cagdasyatirim.com.tr/",
+    "rating": 4.9,
+    "user_ratings_total": 54
+  },
+  {
+    "name": "Anadolu Emlak",
+    "phone": "(0312) 222 03 24",
+    "address": "Prof Dr, Prof. Muammer Aksoy Cd no: 62, Çankaya",
+    "website": "http://www.anadoluemlak.com.tr/",
+    "rating": 4.6,
+    "user_ratings_total": 286
+  },
+  {
+    "name": "Taşcı Emlak",
+    "phone": "(0312) 417 03 04",
+    "address": "Kızılay, Şht. Adem Yavuz Sk. No:3 D:3, Çankaya",
+    "website": "https://tasciemlakankara.sahibinden.com/",
+    "rating": 4.6,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "Kartal Emlak",
+    "phone": "0552 546 46 00",
+    "address": "Kırkkonaklar, 329. Cadde 29/D, Çankaya",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 14
+  },
+  {
+    "name": "BİRCAN PROPERTY",
+    "phone": "0552 223 62 23",
+    "address": "Mh FARUK EKİN KARŞISI, Yukarı Bahçelievler, Aşkabat Cd. 37/2, Çankaya",
+    "website": "http://www.bircanemlak.com.tr/",
+    "rating": 4.7,
+    "user_ratings_total": 93
+  },
+  {
+    "name": "Birkan Emlak",
+    "phone": "0532 383 01 10",
+    "address": "Harbiye, Hürriyet Cd. No:44, Çankaya",
+    "website": "http://sahibinden.com/",
+    "rating": 4.7,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "Missi Emlak",
+    "phone": null,
+    "address": "Fakülteler, Cemal Gürsel Cad. No:86, Çankaya",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 41
+  },
+  {
+    "name": "Ankara Çankaya Ayrancı Hoşdere Emlakçı - Remax Gayrimenkul Danışmanı - Ev Sat - Ev Kirala - Zilan Maskan",
+    "phone": "0507 440 94 42",
+    "address": "Defne apartmanı, Ayrancı, Hoşdere Cd., Çankaya",
+    "website": "https://www.zilanremaxemlak.com.tr/",
+    "rating": 4.9,
+    "user_ratings_total": 42
+  },
+  {
+    "name": "DİZAYN EMLAK & GAYRİMENKUL",
+    "phone": "0554 148 29 19",
+    "address": "Kırkkonaklar, Şemsettin Günaltay Cd. 255/B, Çankaya",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/dizayn-emlak-gayrimenkul-50790",
+    "rating": 4.8,
+    "user_ratings_total": 28
+  },
+  {
+    "name": "Çiçek Emlak",
+    "phone": "(0312) 223 91 37",
+    "address": "Emek Mahallesi, 25. Sokak & Bişkek Caddesi 25/A, Çankaya",
+    "website": "http://www.hurriyetemlak.com/cicek-emlak/tanimsiz/emlak-ofisleri/8VtmuNdHasA=/DjCVhESiNJk=&new=1",
+    "rating": 5,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "TAŞ İNŞAAT TADİLAT VE EMLAK OFİSİ",
+    "phone": "(0312) 804 62 51",
+    "address": "İleri, 2. Dede Efendi Cad. 42/B, KurtuluşÇankaya/Çankaya",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "M.Selçuk Emlak",
+    "phone": "0535 294 00 19",
+    "address": "Aşıkpaşa, Vedat Dalokay Cd. No:69, Çankaya",
+    "website": "https://www.hurriyetemlak.com/emlak-ofisi/m.selcuk-emlak-23233",
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "BERSAN EMLAK-ilknur Çelik",
+    "phone": "0539 503 28 85",
+    "address": "Yücetepe, Ordular Sk. No:7, Çankaya",
+    "website": null,
+    "rating": 4.1,
+    "user_ratings_total": 44
+  },
+  {
+    "name": "Ankara Remax Emlak Uzman Gayrimenkul Danışmanlığı",
+    "phone": "0507 440 94 42",
+    "address": "Güvenevler, Güvenlik Cd. no:89/A, Çankaya",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 27
+  },
+  {
+    "name": "Er Emlak",
+    "phone": "(0312) 223 99 99",
+    "address": "Bahçelievler, 35. Cadde, Çankaya",
+    "website": "http://www.eremlak.com.tr/",
+    "rating": 4.6,
+    "user_ratings_total": 52
+  },
+  {
+    "name": "Borsem Kuleli Gaziosmanpaşa Çankaya",
+    "phone": "(0312) 447 00 90",
+    "address": "Kazım Özalp, Kuleli Sokağı No:89, Çankaya",
+    "website": "https://www.hurriyetemlak.com/emlak-ofisi/borsem-kuleli-temsilciligi-4537",
+    "rating": 3.4,
+    "user_ratings_total": 14
+  },
+  {
+    "name": "Taci Emlak Çankaya Küçükesat Seyranbağları Ankara",
+    "phone": "0555 990 23 70",
+    "address": "Seyranbağları, Bağlar Cd. No:104, Çankaya",
+    "website": "http://www.taciemlak.com/",
+    "rating": 4.7,
+    "user_ratings_total": 32
+  },
+  {
+    "name": "Alber Emlak",
+    "phone": "0532 525 51 57",
+    "address": "GÜVENEVLER MAHALLESİ KUVEYT CADDESİ.17/1 AŞAĞI, Ayrancı, Çankaya",
+    "website": "http://www.alberemlak.com/",
+    "rating": 4.2,
+    "user_ratings_total": 73
+  },
+  {
+    "name": "Mevsim Emlak",
+    "phone": "(0312) 427 37 73",
+    "address": "Ayrancı, Meneviş Sk. No:27, Çankaya",
+    "website": "https://www.hurriyetemlak.com/emlak-ofisi/mevsim-emlak-53653",
+    "rating": 4.9,
+    "user_ratings_total": 134
+  },
+  {
+    "name": "BU İLK GAYRİMENKUL",
+    "phone": "0532 158 62 33",
+    "address": "Bahçelievler, Yeni 44.Sk No :19 D:B, Çankaya",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 64
+  },
+  {
+    "name": "Çayır Emlak",
+    "phone": "0530 324 06 80",
+    "address": "3,, Fakülteler, Kutlugün Cd. No:16, Çankaya",
+    "website": "http://cayiremlak06.sahibinden.com/",
+    "rating": 3.9,
+    "user_ratings_total": 35
+  },
+  {
+    "name": "ANKARA GARDEN GAYRİMENKUL",
+    "phone": "0536 435 48 55",
+    "address": "Bahçelievler, 49. Sk. No:10/B, Çankaya",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 35
+  },
+  {
+    "name": "Çankaya Emlakçı RE/MAX DENİZ Emlak Ofisi",
+    "phone": "(0312) 446 46 40",
+    "address": "Gaziosmanpaşa, Nenehatun Cd No:124 No:4, Çankaya",
+    "website": "https://www.remaxdeniz.com/",
+    "rating": 4,
+    "user_ratings_total": 115
+  },
+  {
+    "name": "Mebusevleri As Emlak",
+    "phone": "0505 646 17 23",
+    "address": "Mebusevleri, Önder Cd. 14-1, Çankaya",
+    "website": "http://www.mebusevleriasemlak.com/",
+    "rating": 4.5,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "MERKEZ EMLAK GULVEREN",
+    "phone": "(0312) 319 58 84",
+    "address": "Gülveren, 73.Cadde No:25 D:E, Mamak",
+    "website": "https://merkezemlakmamak.sahibinden.com/",
+    "rating": 4.4,
+    "user_ratings_total": 30
+  },
+  {
+    "name": "PASHA REAL ESTATE",
+    "phone": "0542 767 67 22",
+    "address": "Abidinpaşa, Balkiraz, Esenler Sk. no:27, Mamak",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 119
+  },
+  {
+    "name": "Hocanım Emlak",
+    "phone": "(0312) 439 92 92",
+    "address": "Cinnah Caddesi 114/7, Cinnah Cd. No:114 D:7, Çankaya",
+    "website": null,
+    "rating": 4.5,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Gayem Emlak",
+    "phone": "0541 887 84 83",
+    "address": "Zübeyde Hanım, Sarma Sk. 30/A, Altındağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Bağlar Emlak Danışmanlık",
+    "phone": "0552 692 80 81",
+    "address": "Küçükesat, Bağlayan Sk. 31/A, Çankaya",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Emek Özdemir Emlak",
+    "phone": "(0312) 213 97 74",
+    "address": "Emek, Şht. Meryem Yılmaztürk Cd. No:5/A, Çankaya",
+    "website": "http://www.ozdemiremlak.com/",
+    "rating": 4.3,
+    "user_ratings_total": 32
+  },
+  {
+    "name": "Fikret Bey Emlak",
+    "phone": "0532 510 56 37",
+    "address": "ömür apt, Cebeci, Tellikaya Sk. no:11/A, Çankaya",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 22
+  },
+  {
+    "name": "Poyraz emlak",
+    "phone": "0542 580 52 21",
+    "address": "Saimekadın, Cami Sk. No:7, Mamak",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "Barış Emlak Anıttepe",
+    "phone": "0532 732 66 88",
+    "address": "Anıttepe, Eti, Gazi Mustafa Kemal Blv. 114-13, Çankaya",
+    "website": null,
+    "rating": 4.1,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "Adil Selim Emlak",
+    "phone": "0535 553 47 68",
+    "address": "Esat Cad. Esatoğlu Mah, Küçükesat, Bağlayan Sk. No:19/C, Çankaya",
+    "website": "http://adilselimemlak.com/",
+    "rating": 4.7,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "ÖZİPEK EMLAK OFİSİ",
+    "phone": "(0312) 368 08 10",
+    "address": "Aşıkpaşa, Vedat Dalokay Cd. NO:40/B, Çankaya",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 11
+  },
+  {
+    "name": "Atik Emlak",
+    "phone": "(0312) 365 05 65",
+    "address": "Aşıkpaşa, Vedat Dalokay Cd. 13a, Çankaya",
+    "website": "http://atikemlak.biz/",
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "TEM EMLAK OFİSİ",
+    "phone": "(0312) 417 70 30",
+    "address": "Kavaklıdere mah Esat Cad. Sirkecioğullar İş Merkezi, No:67/43, Çankaya",
+    "website": null,
+    "rating": 4.2,
+    "user_ratings_total": 9
+  },
+  {
+    "name": "YILDIRIM EMLAK",
+    "phone": "0535 553 80 90",
+    "address": "A, Çankaya Mahallesi, Bağlar Caddesi, Çankaya",
+    "website": null,
+    "rating": 4.4,
+    "user_ratings_total": 31
+  },
+  {
+    "name": "ATAK EMLAK OFİSİ",
+    "phone": "(0312) 466 68 37",
+    "address": "Güvenevler, Ayrancı, Yeşilyurt Sk. 21/C A, Çankaya",
+    "website": null,
+    "rating": 3.9,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "DOĞAN EMLAK SOKULLU DİKMEN",
+    "phone": "0532 647 32 18",
+    "address": "B, Sokullu Mehmet Paşa, Sokullu Mehmet Paşa Cd. No:84, Çankaya",
+    "website": "http://www.hurriyetemlak.com/dogan-emlaksokullu/konut-satilik/ankara-cankaya-sokullu-mehmet-pasa/emlak-ofisleri-ilanlari?&sParam=nyyuhHfuFKg=&sType=9wZEBZ-ivFgmrA3ENMCIfQ==&ListIsBig=qh.BgsUoTK4=&sortType=GmMGgVD5Wcc=&pageSize=GmMGgVD5Wcc=&new=1",
+    "rating": 3.9,
+    "user_ratings_total": 23
+  },
+  {
+    "name": "Filiz Emlak",
+    "phone": "(0312) 222 44 13",
+    "address": "Emek, 19. Sk. no:92/b, Çankaya",
+    "website": null,
+    "rating": 4.5,
+    "user_ratings_total": 17
+  },
+  {
+    "name": "Cemax Emlak İnşaat Turizm Tic.Ltd.Şti.",
+    "phone": "(0312) 365 51 51",
+    "address": "Balkiraz Mahallesi Mamak Caddesi 54/AZafer Apartmanı No:, Mamak",
+    "website": null,
+    "rating": 4.3,
+    "user_ratings_total": 33
+  },
+  {
+    "name": "ÖZKARDEŞLER PROPERTY",
+    "phone": "(0312) 321 73 21",
+    "address": "Etlik, Etlik Cd No:186, Keçiören",
+    "website": "http://ozkardesleremlakgayrimenkul.com/",
+    "rating": 4.9,
+    "user_ratings_total": 1172
+  },
+  {
+    "name": "Solfasol Çavuş Emlak HASAN ÇAVUŞ",
+    "phone": "0536 223 06 08",
+    "address": "Solfasol, Hacı Bayram Veli Cd. No:103, Altındağ",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 25
+  },
+  {
+    "name": "UZMAN EMLAK",
+    "phone": "(0312) 352 50 20",
+    "address": "İncirli, Refik Saydam Cd. No:4/C, Keçiören",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 199
+  },
+  {
+    "name": "7 EMLAK GAYRİMENKUL DANIŞMANLIĞI",
+    "phone": "(0312) 325 11 00",
+    "address": "Etlik, Etlik Cd NO:138, Keçiören",
+    "website": "http://www.7emlak.com.tr/",
+    "rating": 4.8,
+    "user_ratings_total": 86
+  },
+  {
+    "name": "Fikirli Emlak",
+    "phone": "0535 620 51 56",
+    "address": "Karargahtepe, Sanatoryum Cd. No:71-A, Keçiören",
+    "website": "https://www.sahibinden.com/emlak/ankara-kecioren-kalaba-kalaba-mah.",
+    "rating": 4.8,
+    "user_ratings_total": 128
+  },
+  {
+    "name": "KuzeyKent Uzman Emlak",
+    "phone": "0532 359 66 76",
+    "address": "Reyhan Camii, Baraj, Çağrıbey Cd Altı C Blok No:3, Altındağ",
+    "website": "https://kuzeykentuzman.sahibinden.com/",
+    "rating": 4.8,
+    "user_ratings_total": 114
+  },
+  {
+    "name": "Serhat Emlak Ofisi",
+    "phone": "(0312) 318 26 48",
+    "address": "Aydınlıkevler, Şht. Mustafa Baş Cd. No:56 B D:C, Altındağ",
+    "website": "http://serhatemlak.com.tr/",
+    "rating": 4.7,
+    "user_ratings_total": 57
+  },
+  {
+    "name": "Oğul Emlak Gayrimenkul Yıldıztepe Mah. No:187/B",
+    "phone": "0554 154 07 78",
+    "address": "Hasköy, Yıldıztepe, Celal Esat Arseven Cd. No:187 B/D, Altındağ",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 54
+  },
+  {
+    "name": "Güvenoğlu Emlak Ofisi",
+    "phone": "0542 134 54 74",
+    "address": "Etlik, Ayvalı Cd. 60/A, Keçiören",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 51
+  },
+  {
+    "name": "Hedef Emlak Hasköy Güneşevler",
+    "phone": "0537 480 84 80",
+    "address": "Yıldıztepe, Celal Esat Arseven Cd. No:307/A, Altındağ",
+    "website": "https://www.sahibinden.com/emlak-konut?query_text_mf=hedef+emlak+hask%C3%B6y&query_text=hedef+hask%C3%B6y",
+    "rating": 4.6,
+    "user_ratings_total": 29
+  },
+  {
+    "name": "Servet Emlak",
+    "phone": "(0312) 314 09 09",
+    "address": "Tepebaşı, Mustafa Asım Köksal Cd. 19-A, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "TURYAP KEÇİÖREN KURUMSAL EMLAK TEMSİLCİLİĞİ",
+    "phone": "(0312) 364 77 77",
+    "address": "Şenlik, Şht. Tayfun Sümer Sk. 13/D, Keçiören",
+    "website": "https://www.turyap.com.tr/ankarakecioren",
+    "rating": 4.9,
+    "user_ratings_total": 215
+  },
+  {
+    "name": "Mert Kardeşler Emlak",
+    "phone": "0501 131 44 09",
+    "address": "Kuşcağız, Kartaltepe Cd. 33/A, Keçiören",
+    "website": "https://mertkardesleremlak.sahibinden.com/",
+    "rating": 4.7,
+    "user_ratings_total": 29
+  },
+  {
+    "name": "PUSULA EMLAK",
+    "phone": "0542 331 25 23",
+    "address": "Doğantepe, Şht. Hacı Osman Dugan Cd. No:12/B, Altındağ",
+    "website": "https://pusulaemlakankara.com/",
+    "rating": 4.5,
+    "user_ratings_total": 109
+  },
+  {
+    "name": "Gonul Real Estate Office",
+    "phone": "(0312) 326 97 98",
+    "address": "Ayvalı, Gazze Cd. NO:32 D:1.KAT OFİS, Keçiören",
+    "website": "http://gonul-emlak.sahibinden.com/",
+    "rating": 4.4,
+    "user_ratings_total": 50
+  },
+  {
+    "name": "Ankara incirli eren emlak",
+    "phone": "0532 287 38 90",
+    "address": "KEÇİÖREN İncirli Mahallesi Refik Saydam Caddesi No:74/A, Barış Taksinin Karşısı, Keçiören",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/eren-emlak-111476",
+    "rating": 4.6,
+    "user_ratings_total": 85
+  },
+  {
+    "name": "Sungur Emlak",
+    "phone": "(0312) 323 00 87",
+    "address": "Etlik Mahallesi Bağcı Caddesi Nu:27/B, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "KORU EMLAK",
+    "phone": "(0312) 378 28 88",
+    "address": "Esertepe, Çambaşı Cd. 59/A, Keçiören",
+    "website": "http://www.koruemlak.tr/",
+    "rating": 4.8,
+    "user_ratings_total": 123
+  },
+  {
+    "name": "Global Emlak",
+    "phone": "0555 015 46 64",
+    "address": "Etlik, Adnan Yüksel Caddesi 45/C, Keçiören",
+    "website": "https://www.emlakjet.com/emlak-ofisleri-detay/global-realty-emlak-danismanligi-muhendislik-ofisi-1572305/",
+    "rating": 4.8,
+    "user_ratings_total": 21
+  },
+  {
+    "name": "AĞAÇÖREN EMLAK OFİSİ",
+    "phone": "0552 357 68 68",
+    "address": "Atapark, 340. Cd 100/B, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "METİNLER EMLAK ETLİK",
+    "phone": "(0312) 323 34 54",
+    "address": "Ayvalı, Ayvalı Cd. No:121/B, Keçiören",
+    "website": "https://metinleremlak1.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "Ayvalı Emlak Gayrimenkul",
+    "phone": "0501 042 85 00",
+    "address": "Ayvalı, Ayvalı Cd. 133/b D:06120, Keçiören",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 44
+  },
+  {
+    "name": "Çözüm Emlak",
+    "phone": null,
+    "address": "Esertepe Ahmet şefik kolaylı caddesi, 270. Sk. no 7 A, Keçiören",
+    "website": "https://hesabim.hepsiemlak.com/portfoy/detay?realtyId=41704472",
+    "rating": 4.9,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "GALERIA EMLAK",
+    "phone": "(0312) 325 10 00",
+    "address": "Etlik, Gen. Dr. Tevfik Sağlam Cd No:144 C, Keçiören",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 52
+  },
+  {
+    "name": "Vega Emlak Güneşevler",
+    "phone": null,
+    "address": "Yıldıztepe, 166. Cd. no:3/a, Altındağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "Sezgin Emlak ofisi",
+    "phone": "(0312) 321 16 66",
+    "address": "Aydınlıkevler, Şht. Cemalettin Cd. No:13, Altındağ",
+    "website": "http://www.sezginemlak.org/",
+    "rating": 4.5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "TİRYAKİ EMLAK İNŞAAT",
+    "phone": "0534 563 11 79",
+    "address": "Ufuktepe, Baltacılar Cd. no:12/A, Keçiören",
+    "website": "https://tiryakiinsaatemlak.sahibinden.com/",
+    "rating": 4.8,
+    "user_ratings_total": 144
+  },
+  {
+    "name": "KERİMOĞLU EMLAK OFİSİ",
+    "phone": "0545 554 84 69",
+    "address": "Yayla, Seyitler Cd 59/A, Keçiören",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Gayrimenkul 312 Emlak Ofisi",
+    "phone": "(0312) 380 49 49",
+    "address": "Bağlarbaşı Kızlarpınarı Caddesi 134 /B 06 300, Keçiören",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Bizim Emlak",
+    "phone": "(0312) 322 04 33",
+    "address": "Aşağı Eğlence, Karlıova Sk. No:9, Keçiören",
+    "website": "http://www.bizim-emlak.com/",
+    "rating": 4.9,
+    "user_ratings_total": 22
+  },
+  {
+    "name": "Buse Emlak",
+    "phone": "(0312) 325 26 98",
+    "address": "Etlik, Kuyuyazısı Cd. No:36/C, Keçiören",
+    "website": "http://www.buseemlak.com/",
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "OYMAKLAR EMLAK OFİSİ",
+    "phone": "(0312) 325 47 07",
+    "address": "Emrah, Yunus Emre Cd. 62-A, Keçiören",
+    "website": null,
+    "rating": 3.6,
+    "user_ratings_total": 26
+  },
+  {
+    "name": "Safir Gayrimenkul",
+    "phone": "(0312) 325 03 33",
+    "address": "Etlik, Bağcı Cd. No:57, Keçiören",
+    "website": "https://safirgayrimenkul06.sahibinden.com/",
+    "rating": 4.8,
+    "user_ratings_total": 64
+  },
+  {
+    "name": "Saber Emlak",
+    "phone": "(0312) 378 93 78",
+    "address": "incirli sezgin caddesi sümbüllü sokak 14-a, Keçiören",
+    "website": "http://sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 83
+  },
+  {
+    "name": "Bülent EMLAK",
+    "phone": "(0312) 321 65 36",
+    "address": "No:62/C, Etlik, Adnan Yüksel Caddesi, Keçiören",
+    "website": null,
+    "rating": 4.5,
+    "user_ratings_total": 85
+  },
+  {
+    "name": "Metropol Gayrimenkul",
+    "phone": "0543 150 06 04",
+    "address": "Yayla, 1540. Sk. 13/D, Keçiören",
+    "website": "https://ofisim.sahibinden.com/ilanlarim",
+    "rating": 4.9,
+    "user_ratings_total": 39
+  },
+  {
+    "name": "SEYMEN EMLAK",
+    "phone": "(0312) 430 06 00",
+    "address": "Yıldıztepe, 183. Sk. No:3 D:B, Altındağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "PRESTİJ EMLAK YATIRIM",
+    "phone": "0535 218 19 03",
+    "address": "Etlik, Adnan Yüksel Caddesi no:71, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Kadir Aydıntepe Emlak",
+    "phone": null,
+    "address": "Aktepe, 951. Cd. 18/A, Keçiören",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 43
+  },
+  {
+    "name": "ETAP GAYRİMENKUL EMLAK",
+    "phone": "(0312) 338 97 97",
+    "address": "Şenyuva, Defne Cd. No:1/5, Keçiören",
+    "website": "http://etapgayrimenkul.sahibinden.com/",
+    "rating": 4.5,
+    "user_ratings_total": 29
+  },
+  {
+    "name": "ALTINKENT YATIRIM",
+    "phone": "0505 041 00 06",
+    "address": "Aktepe, 951. Cd. 21/A-B, Keçiören",
+    "website": "https://altinkentyatirim.com/",
+    "rating": 5,
+    "user_ratings_total": 117
+  },
+  {
+    "name": "Ismail Karadeniz Emlak",
+    "phone": "(0312) 360 00 00",
+    "address": "Tepebaşı, Fatih Cd. No:102 D:G, Keçiören",
+    "website": "http://www.ismailkaradenizemlak.com/",
+    "rating": 3.2,
+    "user_ratings_total": 68
+  },
+  {
+    "name": "Cicek Emlak",
+    "phone": "0544 322 97 93",
+    "address": "Etlik, Ayvalı Cd. 128/B, Keçiören",
+    "website": null,
+    "rating": 4.5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Danışman Emlak Yatırım",
+    "phone": "0533 237 67 16",
+    "address": "Karargahtepe, Sanatoryum Cd. No:29, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Uzman Emlak AYDINLIKEVLER",
+    "phone": "(0312) 317 85 00",
+    "address": "Aydınlıkevler, Çevreli Cd. NO 23, Altındağ",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 74
+  },
+  {
+    "name": "Akçaoğlu Real Estate",
+    "phone": "(0312) 339 82 17",
+    "address": "Güneşevler Mh, Hasköy, Şht. Pilot Fatih Korçam Cd No: 30/b, Altındağ",
+    "website": null,
+    "rating": 4.4,
+    "user_ratings_total": 34
+  },
+  {
+    "name": "Güneşevler Emlak",
+    "phone": "(0312) 338 29 29",
+    "address": "Güneşevler, Yıldıztepe, Celal Esat Arseven Cd. No:185 C, 06140, Altındağ",
+    "website": "https://gunesevleremlak006.sahibinden.com/",
+    "rating": 4.3,
+    "user_ratings_total": 32
+  },
+  {
+    "name": "MARKA EMLAK",
+    "phone": "0507 727 20 03",
+    "address": "Güneşevler, 132. Sk. 11/B, Altındağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "Burak Emlak",
+    "phone": "(0312) 357 32 23",
+    "address": "Şenlik, Kızlarpınarı Cd. No:127 D:A, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 9
+  },
+  {
+    "name": "Ogulbey Emlak",
+    "phone": "0552 697 06 06",
+    "address": "Esertepe, Gen. Dr. Tevfik Sağlam Cd No:139 D:C, Keçiören",
+    "website": "https://ofisim.sahibinden.com/ilanlarim",
+    "rating": 4.4,
+    "user_ratings_total": 23
+  },
+  {
+    "name": "Güven Emlak",
+    "phone": "(0312) 380 88 03",
+    "address": "Bağlarbaşı Mahallesi Kızlarpınarı Caddesi, Bağlarbaşı, kızlarpınarı cadtesi No:142, Keçiören",
+    "website": null,
+    "rating": 4.3,
+    "user_ratings_total": 52
+  },
+  {
+    "name": "Acarlar Emlak",
+    "phone": "0541 326 27 00",
+    "address": "Etlik, Atadan Cd. 14/B, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "FETİH 1453 GAYRİMENKUL",
+    "phone": "(0312) 355 14 53",
+    "address": "Aktepe, 956. Cd. 46/B, Keçiören",
+    "website": "https://fetih1453gayrimenkul.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 69
+  },
+  {
+    "name": "Yukselen Emlak",
+    "phone": "(0312) 322 56 56",
+    "address": "Yayla, Porsuk Sk. 20. Sk D:8, Keçiören",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 12
+  },
+  {
+    "name": "Doğuş Emlak",
+    "phone": "(0312) 364 04 00",
+    "address": "Tepebaşı, Fatih Cd. No:118 D:E, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "ATAPARK EMLAK",
+    "phone": "(0312) 378 01 80",
+    "address": "Atapark, Aşık Veysel Cd. NO:48/A, Keçiören",
+    "website": "http://ataparkemlak.sahibinden.com/",
+    "rating": 4.4,
+    "user_ratings_total": 19
+  },
+  {
+    "name": "BURAK EMLAK",
+    "phone": "0533 366 59 58",
+    "address": "YENİ ADRESİM ÖRNEK MH.KURTDERELİ SK /47 B ALTINDAĞ /ANK, Altındağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Emlâkçi Hakan Güngör",
+    "phone": "(0312) 318 44 88",
+    "address": "Kavacık Subayevleri, Fahrettin Altay Cd. No:4 D:7, Keçiören",
+    "website": "http://www.hakangungor.com/",
+    "rating": 4.7,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "Emlakçı Nevzat (Doğan Özdemir)",
+    "phone": "0532 742 92 29",
+    "address": "Esentepe, Esentepe Sk. 4/A, Yenimahalle",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 200
+  },
+  {
+    "name": "Ali bey 29 emlak",
+    "phone": "0544 404 05 05",
+    "address": "Özkan Pasajı, Demetevler, İvedik Cd. No: 109/1-12, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 25
+  },
+  {
+    "name": "BİLİCİ EMLAK İNŞAAT",
+    "phone": "0543 672 08 14",
+    "address": "Demetevler, 361. Cd. 7/B, Yenimahalle",
+    "website": "https://www.emlakjet.com/emlak-ofisleri-detay/bilici-emlak-1116138/",
+    "rating": 4.8,
+    "user_ratings_total": 52
+  },
+  {
+    "name": "REK EMLAK YATIRIM OFİSİ",
+    "phone": "0546 636 04 06",
+    "address": "Esentepe, Ragıp Tüzün Cd. No:270 D:A, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "MEVA EMLAK GAYRİMENKUL",
+    "phone": "0507 707 90 94",
+    "address": "NEVŞEHİR CADDESİ, Ayvalı, Yağmur Sk. 29/a, Keçiören",
+    "website": "https://meva.sahibinden.com/",
+    "rating": 4.6,
+    "user_ratings_total": 20
+  },
+  {
+    "name": "Hedef Emlak",
+    "phone": "(0312) 326 78 38",
+    "address": "Esertepe, Şht. Furkan Yayla Sok. No:3/B, Keçiören",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 22
+  },
+  {
+    "name": "Evdeyiz Emlak - Ankara Emlak Ofisi",
+    "phone": null,
+    "address": "Etlik, Ayvalı Cd. No:60/A, Keçiören",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Yenimahalle Emlak",
+    "phone": "(0312) 343 44 44",
+    "address": "Işınlar, İvedik Cd. No:74, Yenimahalle",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "06 Burak Emlak",
+    "phone": "(0312) 343 43 42",
+    "address": "Ayvalı mahallesi 209.sokak İmren apt no:9/4, 209. Sk. No:9 D:4, Keçiören",
+    "website": "http://www.06burakemlak.com/",
+    "rating": 3.7,
+    "user_ratings_total": 55
+  },
+  {
+    "name": "İnanç Emlak Ofisi",
+    "phone": "0532 660 13 11",
+    "address": "Demetevler, 358. Cd. No:50/A, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 9
+  },
+  {
+    "name": "ALPER EMLAK GAYRİMENKUL OFISI",
+    "phone": "0530 408 40 43",
+    "address": "PAMUKLAR, 06210, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Cem Emlak Demetevler",
+    "phone": "0544 204 84 87",
+    "address": "Demetevler, 370. Sk. No : 13-B, Yenimahalle",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/cem-emlak-71575",
+    "rating": 4.8,
+    "user_ratings_total": 9
+  },
+  {
+    "name": "Park Real Estate",
+    "phone": "(0312) 343 91 94",
+    "address": "Ragıp Tüzün, Çarşı Cd. 17/B, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Km İnşaat Evim Emlak Ofisi",
+    "phone": "(0312) 330 04 44",
+    "address": "Şehit Kubilay, Özlem Cd. 41/A, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "VİP EMLAK YATIRIM OFİSİ",
+    "phone": "0532 456 08 47",
+    "address": "Ayvalı, Gazze Cd. NO:19/A, Keçiören",
+    "website": "https://www.vipemlakofisi.com/",
+    "rating": 4.7,
+    "user_ratings_total": 119
+  },
+  {
+    "name": "HİRA EMLAK",
+    "phone": "0533 240 29 30",
+    "address": "Demetevler, 366. Sk. 11/B, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 35
+  },
+  {
+    "name": "AYŞİN GAYRİMENKUL",
+    "phone": "(0312) 336 99 99",
+    "address": "Demetgül, Şehit Cem Ersever Cd. No:22, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 94
+  },
+  {
+    "name": "ROTA GAYRİMENKUL",
+    "phone": "0552 711 32 96",
+    "address": "Ayvalı, Mehtap Cd. 2/C, Keçiören",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/rota-gayrimenkul-131239",
+    "rating": 4.9,
+    "user_ratings_total": 78
+  },
+  {
+    "name": "BULVAR GAYRİMENKUL",
+    "phone": "0544 383 83 00",
+    "address": "SANCAKTEPE MAHALLESİ YOZGAT BULVARI, 1586/2. Sk. NO:17/D, Keçiören",
+    "website": "https://bulvargayrimenkul.com.tr/",
+    "rating": 4.9,
+    "user_ratings_total": 154
+  },
+  {
+    "name": "ANKARA GAYRİMENKUL",
+    "phone": "(0312) 335 23 29",
+    "address": "Avcılar, 1009. Sk. No:6 D:A, Yenimahalle",
+    "website": "https://ankaragayrimenkull06.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 54
+  },
+  {
+    "name": "Family World Gayrimenkul",
+    "phone": "(0312) 397 86 84",
+    "address": "Macun, 196. Cd. No:19, Yenimahalle",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "CİHAN EMLAK GAYRİMENKUL DANIŞMANLIK MERKEZİ",
+    "phone": "0542 237 19 31",
+    "address": "Burç, Seval Cd. No:105/A, Yenimahalle",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 118
+  },
+  {
+    "name": "Kuzey Emlak",
+    "phone": "0507 015 63 48",
+    "address": "Demetlale, 3. Cd. No:8, Yenimahalle",
+    "website": "https://kuzeyyildiziemlak.sahibinden.com/",
+    "rating": 4.8,
+    "user_ratings_total": 24
+  },
+  {
+    "name": "ZİRWE Yatırım Gayrimenkul",
+    "phone": "0554 501 48 06",
+    "address": "Sancaktepe, 1572. Cd. 17/A, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 68
+  },
+  {
+    "name": "İMREN EMLAK Arsa Ofisi",
+    "phone": "(0312) 336 00 21",
+    "address": "Demetevler, 369. Sk. No:35/b, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Yükseller Emlak",
+    "phone": null,
+    "address": "Güzelyaka, Yenimahalle",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 34
+  },
+  {
+    "name": "Yunus Emlak",
+    "phone": "(0312) 358 00 56",
+    "address": "19 Mayıs, Karaelmas Sk No:56, Keçiören",
+    "website": null,
+    "rating": 4.4,
+    "user_ratings_total": 31
+  },
+  {
+    "name": "RE/MAX Erhan YILMAZ Emlak Gayrimenkul Ofisi",
+    "phone": "(0312) 985 02 95",
+    "address": "Ege, 788. Cd No:3/B, Mamak",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "Türküm Arsa ve Emlak Ofisi",
+    "phone": "(0312) 368 76 76",
+    "address": "Bahçeleriçi, Mamak Cd. 257/D, Mamak",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "Ery Gayrimenkul",
+    "phone": "0532 282 06 58",
+    "address": "General Zeki Doğan, Natoyolu Caddesı No:74 D:b, Mamak",
+    "website": "http://www.eraytuncer.com/",
+    "rating": 5,
+    "user_ratings_total": 93
+  },
+  {
+    "name": "ÖZ İNOKS ANKARA GAYRİMENKUL",
+    "phone": "(0312) 435 86 28",
+    "address": "Seyranbağları, İncesu Cd. 4/1, Çankaya",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/oz-inoks-ankara-gayrimenkul-8972",
+    "rating": 4.9,
+    "user_ratings_total": 125
+  },
+  {
+    "name": "Karaca Emlak Ofisi",
+    "phone": null,
+    "address": "Kırkkonaklar, Şemsettin Günaltay Cd. No:263 D:A, Çankaya",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Erçetin Emlak",
+    "phone": "0539 245 96 73",
+    "address": "Aşık Veysel, Şadırvan Sk. No:7, Mamak",
+    "website": "https://ercetinemlak.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "REMAX Nata | Emlak Ofisi | MAMAK",
+    "phone": "0553 178 00 97",
+    "address": "Akşemsettin, Doğukent Cd. No:117 D:C, Mamak",
+    "website": "https://www.remaxnata.com.tr/",
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Uzunyıl Emlak Danışmanlık ltd.şti",
+    "phone": "0537 268 10 15",
+    "address": "Cengizhan, Şehitler Cd. 64/A, Mamak",
+    "website": "https://uzunyil.sahibinden.com/",
+    "rating": 4.7,
+    "user_ratings_total": 68
+  },
+  {
+    "name": "Krc Property",
+    "phone": "(0312) 370 19 10",
+    "address": "Çağlayan, Tıp Fakültesi Cd. No:252 D:16, Mamak",
+    "website": null,
+    "rating": 4.4,
+    "user_ratings_total": 166
+  },
+  {
+    "name": "EGE GAYRİMENKUL YATIRIM DANIŞMANLIĞI - Premium Ofis",
+    "phone": "0532 390 45 19",
+    "address": "Fahri Korutürk, Neşet Ertaş Cd No:78/C, Mamak",
+    "website": "https://egegayrimenkulmamak.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 61
+  },
+  {
+    "name": "Atabay Property",
+    "phone": "0530 311 14 77",
+    "address": "Türközü, 438. Sk. no:4, Mamak",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 41
+  },
+  {
+    "name": "Şahbaz Emlak",
+    "phone": "(0312) 391 17 33",
+    "address": "Akşemsettin, Doğukent Cd. No:161 A, Mamak",
+    "website": null,
+    "rating": 4.1,
+    "user_ratings_total": 14
+  },
+  {
+    "name": "Akgül İnşaat Emlak Ofisi",
+    "phone": "(0312) 389 20 55",
+    "address": "28/B, Peyami Safa, Dereboyu Cd., Mamak",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "MAYCAN EMLAK",
+    "phone": "0531 373 47 07",
+    "address": "Cebeci, Yargıç Sk. 1/B, Çankaya",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Pera Elite Gayrimenkul",
+    "phone": "0544 235 57 66",
+    "address": "Durali Alıç, Şehitler Cd. no:1 D:E, Mamak",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "Aydemir Gayrimenkul",
+    "phone": "0541 239 77 88",
+    "address": "Fahri Korutürk, Natoyolu Caddesı NO:161/D, Mamak",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 42
+  },
+  {
+    "name": "Ethem ünlü gayrimenkul",
+    "phone": "(0312) 369 68 80",
+    "address": "Boğaziçi, Neşet Ertaş Cd 41/D, Mamak",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "RE/MAX Hüseyin Sevgi Gayrimenkul Emlakçı Mamak",
+    "phone": "0532 523 48 22",
+    "address": "Cengizhan, 823 Cd No:4/1, Mamak",
+    "website": "http://www.sevgihuseyin.com/",
+    "rating": 5,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "Seçilmiş Gayrimenkul",
+    "phone": "0533 509 67 44",
+    "address": "Bahçeleriçi, Mamak Cd. No:251 D:233, Mamak",
+    "website": "https://secilmisgayrimenkul.sahibinden.com/?userId=a90JCzHOxTHb1aACfBgw7RQ",
+    "rating": 5,
+    "user_ratings_total": 20
+  },
+  {
+    "name": "Star Emlak",
+    "phone": "0532 155 77 55",
+    "address": "Şahintepe, Hocalı Cd No:10, Mamak",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "EMLAK ŞEHRİ",
+    "phone": "(0312) 391 92 00",
+    "address": "FAHRİ KORUTÜRK MAHALLESİ 169/E, Mamak",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/emlak-sehri-53138",
+    "rating": 3.9,
+    "user_ratings_total": 60
+  },
+  {
+    "name": "Güven Emlak",
+    "phone": "(0312) 433 51 96",
+    "address": "Çamlıtepe Mahallesi, Kurtuluş Mahallesi, Taşkent Sk. kurtulus 26/A, Çankaya",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 26
+  },
+  {
+    "name": "Enes Emlak",
+    "phone": "(0312) 318 68 65",
+    "address": "Gültepe, Ziraat Cd., Altındağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "TURGUT EMLAK",
+    "phone": "(0312) 447 00 66",
+    "address": "Aşıkpaşa, Ziya Oralay Cd. No:310 D:C, Çankaya",
+    "website": "https://turgutemlak06.sahibinden.com/",
+    "rating": 2,
+    "user_ratings_total": 27
+  },
+  {
+    "name": "Hk Gayrimenkul",
+    "phone": "0533 639 53 40",
+    "address": "Akşemsettin, 928. Cd No:77, Mamak",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Valentia Gayrimenkul",
+    "phone": "0538 681 17 81",
+    "address": "Cengizhan, Ozan Rehberi Cd. 12/D, Mamak",
+    "website": "https://www.instagram.com/valentiagayrimenkul?igsh=MTcxcDRncnI5cWhsdA==",
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Serkan Real Estate Office",
+    "phone": "(0312) 446 26 76",
+    "address": "Küçükesat, Bülbülderesi Cd. 117/D, Çankaya",
+    "website": "http://www.serkanemlak.net/",
+    "rating": 4,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "BORSEM GAZİOSMANPAŞA",
+    "phone": "(0312) 446 00 33",
+    "address": "Büyükesat, Uğur Mumcu Cd. No:101 D:11, Çankaya",
+    "website": null,
+    "rating": 4.2,
+    "user_ratings_total": 20
+  },
+  {
+    "name": "Borsem Köşk Emlak Borsası",
+    "phone": "(0312) 441 41 70",
+    "address": "Mahallesi, Kazım Özalp, Koza Sk. 20/2, Çankaya",
+    "website": null,
+    "rating": 4.1,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Batıkent Emlak & Gayrimenkul Ltd. Şti.",
+    "phone": "0542 567 62 22",
+    "address": "Kentkoop Mahallesi 1864. Cadde Anıt İş Merkezi Cumhuriyet Sitesi, Kentkoop, Batıkent Blv. 9/B, Yenimahalle",
+    "website": "http://www.batikentemlak.com/",
+    "rating": 4.9,
+    "user_ratings_total": 257
+  },
+  {
+    "name": "ETİMESGUT EMLAK OFİSİ",
+    "phone": "0541 851 06 00",
+    "address": "İstasyon, Güzelyurt Sk. No: 6/A, Etimesgut",
+    "website": "https://www.etimesgutemlakofisi.com/",
+    "rating": 4.8,
+    "user_ratings_total": 70
+  },
+  {
+    "name": "Batıkent Nur Emlak",
+    "phone": "0507 745 44 03",
+    "address": "Batı Sitesi, Huzur Mekan Sitesi Sk. Coşkunırmak İş Merkezi No:3 Z14, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 144
+  },
+  {
+    "name": "ETİMESGUT METROPOL EMLAK",
+    "phone": "0545 554 11 78",
+    "address": "Piyade, 1818. Sk. 37/A, Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 11
+  },
+  {
+    "name": "MUSTAFA KARADENİZ EMLAK ETİMESGUT EMLAK UZMANI",
+    "phone": "0543 369 33 43",
+    "address": "Süvari, 1682. Cd. No:14 A OFİS, Etimesgut",
+    "website": "https://www.mustafakaradenizemlak.com/",
+    "rating": 5,
+    "user_ratings_total": 200
+  },
+  {
+    "name": "AİLE EMLAK",
+    "phone": "(0312) 255 15 71",
+    "address": "Yeni Batı, Şht. Mehmet Kolcu Sk. No:14, 06370, Yenimahalle",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 47
+  },
+  {
+    "name": "SEVİNDİK EMLAK",
+    "phone": "0543 806 52 06",
+    "address": "Piyade, Atilla Eşer Cd. No:67 D:B, Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "Sözgenler Emlak",
+    "phone": "0505 802 23 33",
+    "address": "Piyade, 2022. Cd. 14/A, Etimesgut",
+    "website": "https://sozgenlergayrimenkul.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 27
+  },
+  {
+    "name": "Canbaba Emlak",
+    "phone": "(0312) 256 90 88",
+    "address": "Yeni Batı, Şht. Mehmet Kolcu Sokak, Uğrak Çarşısı 14/52, Yenimahalle",
+    "website": "https://canbabaemlak.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Emlak Sanatı Eryaman",
+    "phone": "0501 378 29 40",
+    "address": "Şehit Osman Avcı, Kaplan Cd. 18/C, Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 26
+  },
+  {
+    "name": "BATIKENT GÖNÜLDEN EMLAK",
+    "phone": "0535 549 10 23",
+    "address": "Güldem sitesi, İlkyerleşim, 1992. Sk. No:9 D:2D, Yenimahalle",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 36
+  },
+  {
+    "name": "Altın Emlak Ankara Yenimahalle",
+    "phone": "(0312) 566 05 55",
+    "address": "Yeni Batı mahallesi , Şehit Kaymakam Muhammed Fatih Safitürk Bulvarı ,, 2429. sokak , No:27/3C, Yenimahalle",
+    "website": "http://www.altinemlak.com.tr/ankarayenimahalle",
+    "rating": 4.3,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Grand Gayrimenkul Ankara",
+    "phone": "0501 376 53 00",
+    "address": "Yeni Batı, Mülk Cd. NO:20A D:A, Yenimahalle",
+    "website": "https://grandgayrimenkul.com.tr/",
+    "rating": 4.9,
+    "user_ratings_total": 66
+  },
+  {
+    "name": "Good İnvest Gayrimenkul",
+    "phone": "(0312) 557 12 82",
+    "address": "Yeni Batı Mahallesi Sezai Karakoç Caddesi, Başakşehir, 2. Etap Dükkanları 3F, Yenimahalle",
+    "website": "https://www.goodinvestgayrimenkul.com/",
+    "rating": 4.6,
+    "user_ratings_total": 116
+  },
+  {
+    "name": "TREND EMLAK",
+    "phone": "0542 819 39 02",
+    "address": "Kentkoop, 1862. Sk. NO: 12/C, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Polat Kardeşler Emlak Ofisi",
+    "phone": "(0312) 226 70 71",
+    "address": "Süvari, 1681. Cd. 10A, Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Erdem Real Estate",
+    "phone": "0555 995 39 55",
+    "address": "Kardelen, 2090. Sk. yeni emek çarşısı no:1/23, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Lider Emlak",
+    "phone": "(0312) 270 58 00",
+    "address": "Kardelen, 1940. Cd No: 16 / C, Yenimahalle",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 151
+  },
+  {
+    "name": "Çağdaş Emlak Elvankent",
+    "phone": "0537 450 15 52",
+    "address": "Ahi Mesut, İrem çarşısı kat 1, Etimesgut",
+    "website": "https://www.sahibinden.com/arama?address_country=1&language=tr&userId=byL6SdGAytPyUxXDu-PNoPw&address_city=6",
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "EYSA Gayrimenkul",
+    "phone": "0554 011 42 07",
+    "address": "Alsancak, Mehmet Akif Ersoy Cd. 31/A, Etimesgut",
+    "website": "http://www.eysagayrimenkul.com/",
+    "rating": 5,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "Nevadium Emlak (Kiralık ve Satılık) * * * * * * ** ** ANKARA nın MOBİLYALI KİRALIK Daire UZMANI **",
+    "phone": "0552 505 42 22",
+    "address": "Ergazi, Batı Blv no:109, Yenimahalle",
+    "website": "https://nevadiumemlak.sahibinden.com/",
+    "rating": 4.8,
+    "user_ratings_total": 46
+  },
+  {
+    "name": "Güner Arı Gayrimenkul",
+    "phone": "0553 903 90 22",
+    "address": "Şehit Osman Avcı, Etimesgut",
+    "website": null,
+    "rating": 4.3,
+    "user_ratings_total": 83
+  },
+  {
+    "name": "Happy Homes",
+    "phone": "(0312) 279 13 33",
+    "address": "9/C, Eryaman, 317. Sk., Etimesgut",
+    "website": "https://happyhomesgayrimenkul.sahibinden.com/",
+    "rating": 4.2,
+    "user_ratings_total": 12
+  },
+  {
+    "name": "Alp emlak",
+    "phone": "(0312) 257 01 04",
+    "address": "Kardelen, 2091 Aşağı Emek Konut Sitesi No:12, Yenimahalle",
+    "website": null,
+    "rating": 3.8,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "MEYDAN EMLAK",
+    "phone": "0532 426 60 33",
+    "address": "Kentkoop, 1865 Siyasal 92 Sitesi No:14, Yenimahalle",
+    "website": null,
+    "rating": 4.1,
+    "user_ratings_total": 22
+  },
+  {
+    "name": "GENÇ EMLAK",
+    "phone": "0554 258 65 25",
+    "address": "Piyade, 1681. Cd. No:22 D:B, Etimesgut",
+    "website": "https://etimesguttasatilikdaire.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 196
+  },
+  {
+    "name": "MURAT TÜRKMEN EMLAK - TÜRKMEN YAPI İNŞAAT",
+    "phone": "0532 361 93 56",
+    "address": "Murat Türkmen Apartmanı, Piyade, 1990. Sk. No: 24/2, Etimesgut",
+    "website": "https://muratturkmenemlak.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 9
+  },
+  {
+    "name": "Duygu Emlak",
+    "phone": "(0312) 280 72 62",
+    "address": "Şehit Osman Avcı, Şht. Sinan Özarslan Sk. No:7 D:2, Etimesgut",
+    "website": "https://duygugayrimenkul.sahibinden.com/",
+    "rating": 4.4,
+    "user_ratings_total": 105
+  },
+  {
+    "name": "Anıt Emlak",
+    "phone": "(0312) 250 61 65",
+    "address": "14/A, Siyasal 93 Sitesi, Kentkoop, 1864. Cad., Yenimahalle",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 36
+  },
+  {
+    "name": "Görgülü Emlak",
+    "phone": "(0312) 280 22 11",
+    "address": "Altay, 1.Etap Aktürk İş Merkezi D:34, Eryaman/Etimesgut/Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Good Invest KAYNAK Gayrimenkul",
+    "phone": "0545 193 20 06",
+    "address": "Ahi Mesut, 1905. Sk. Altınöz çarşısı No. 2C/A 29, Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 22
+  },
+  {
+    "name": "Gayem Emlak",
+    "phone": "(0312) 268 60 68",
+    "address": "Sinan Mahallesi, Atilla Eşer Cd. No:87, Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "GÜNER EMLAK FİNANSAL DANIŞMANLIK",
+    "phone": "0532 702 39 91",
+    "address": "Kazım Karabekir, İstasyon Cad. No:125, Etimesgut",
+    "website": null,
+    "rating": 4.2,
+    "user_ratings_total": 12
+  },
+  {
+    "name": "BAŞAK EMLAK OFİSİ",
+    "phone": "0544 539 67 46",
+    "address": "Piyade, 1963. Sk. No:5 D:2, Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "EMLAK AKADEMI ETİMESGUT",
+    "phone": "0553 793 84 66",
+    "address": "Alsancak, 2158. Cad. 6/C, Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 14
+  },
+  {
+    "name": "EMLAKÇI AYTEKİN",
+    "phone": "0554 838 13 60",
+    "address": "Piyade, 2017. Sk. 6/A, Etimesgut",
+    "website": "https://emlakciaytekin.sahibinden.com/",
+    "rating": 4,
+    "user_ratings_total": 24
+  },
+  {
+    "name": "Tarabya Gayrimenkul Yatirim",
+    "phone": null,
+    "address": "Demetevler Mahallesi, Vatan Cd. 25/8, Yenimahalle",
+    "website": "https://tarabyaemlak.sahibinden.com/",
+    "rating": 3.1,
+    "user_ratings_total": 11
+  },
+  {
+    "name": "Koctas Real Estate",
+    "phone": "0505 549 12 29",
+    "address": "Yeni Batı, Cengiz Aytmatov Caddesi & Şehit Mehmet Kolcu Sokak Uğrak Carşısı D:14/43, Batıkent-Yenimahalle/Yenimahalle",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Dünyam Emlak Ofisi",
+    "phone": null,
+    "address": "Süvari, 1739. Cad. 27 / A, Etimesgut",
+    "website": "http://dunyamemlak06.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "EV AÇ EMLAK",
+    "phone": "(0312) 280 44 47",
+    "address": "Şehit Osman Avcı, Selçuklular Cd., Etimesgut",
+    "website": null,
+    "rating": 3.8,
+    "user_ratings_total": 21
+  },
+  {
+    "name": "Polat Emlak Etimesgut",
+    "phone": "0545 330 31 41",
+    "address": "Kazım Karabekir, 2061. Cad., Etimesgut",
+    "website": null,
+    "rating": 2.1,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "Arma Emlak",
+    "phone": "0544 250 30 99",
+    "address": "Kentkoop, 1862. Sk., Yenimahalle",
+    "website": "https://armaemlak06.sahibinden.com/",
+    "rating": 4.4,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "Batı Emlak",
+    "phone": "(0312) 256 55 05",
+    "address": "Ergazi, 1820. Cd. İpekyolu İş Merkezi No:111, Yenimahalle",
+    "website": "https://www.hurriyetemlak.com/emlak-ofisi/bati-emlak-18154",
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "AÇILGAYRİMENKUL",
+    "phone": "0542 749 69 01",
+    "address": "Eski Tapu Karşisi, Süvari, Ahi Mesut Blv No:21 D:B, Etimesgut",
+    "website": "http://www.acilgayrimenkul.net/",
+    "rating": 4.8,
+    "user_ratings_total": 33
+  },
+  {
+    "name": "KIRMIZI EMLAK",
+    "phone": "0532 440 63 99",
+    "address": "FAR BATIKENT, Yenibatı Mahallesi Necip Fazıl F NO: 13, Yenimahalle",
+    "website": "https://kirmiziemlakankarayenibati.sahibinden.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZ3167R1oHZm-4ktdYJOJe_SK9UBtSkbl5-trHe8clwhP7Vl1e7nS-nXFY_aem_u_RM2wX4nQoCloz8ps7ghw",
+    "rating": 4,
+    "user_ratings_total": 30
+  },
+  {
+    "name": "Unsal property and Decoration",
+    "phone": "0536 895 25 74",
+    "address": "ünsal emlak, Batı Sitesi, 2333. Cadde no:18/67, Yenimahalle",
+    "website": "http://www.batikentunsalemlak.net/",
+    "rating": 4.5,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "Prestige Real Estate Investment Consulting",
+    "phone": "0532 427 57 66",
+    "address": "Ozan City, Bağlıca, Kızılelma Caddesi No 32, Etimesgut",
+    "website": "https://prestigegyd.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 109
+  },
+  {
+    "name": "AÇIL GAYRİMENKUL AHİ MESUT ŞUBESİ",
+    "phone": "0534 229 06 25",
+    "address": "Ahi Mesut, 1906. Sk. No:11-C D:17 06794, Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 38
+  },
+  {
+    "name": "Aradigin Ev Gayrimenkul",
+    "phone": "(0312) 280 48 00",
+    "address": "Şehit Osman Avcı Mahallesi Selçuklular Caddesi, Eryaman, İntes Blokları Lale Apartman 65. Sokak No:1/1, Etimesgut",
+    "website": "http://aradiginevgayrimenkul.com/",
+    "rating": 4.8,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "Zirve Emlak",
+    "phone": "(0312) 245 12 46",
+    "address": "Kazım Karabekir, İstasyon Cad. 1/A, Etimesgut",
+    "website": null,
+    "rating": 3.8,
+    "user_ratings_total": 31
+  },
+  {
+    "name": "Ankira Emlak - Koçoğulları Grup",
+    "phone": "(0312) 244 74 44",
+    "address": "Kazım Karabekir, 2052. Sk. No:12 D:B, Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Soylu Emlak",
+    "phone": "(0312) 256 64 69",
+    "address": "Ergazi, 1820. Cd. No:101 D:110, Yenimahalle",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Arslan Efe Emlak",
+    "phone": "(0312) 228 02 92",
+    "address": "30 Ağustos, 2076. Sk. 6/A, Etimesgut",
+    "website": null,
+    "rating": 4.5,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "Güngör Real Estate",
+    "phone": "0532 794 41 47",
+    "address": "İlkyerleşim Mahallesi, Batıkent, 1992. Sk. Güldem Sitesi NO: 9/3B, Yenimahalle",
+    "website": null,
+    "rating": 3.5,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "EMLAK BORSASI ERYAMAN",
+    "phone": "(0312) 999 95 97",
+    "address": "ŞEHİT OSMAN AVCI MAHALLESİ .KAPLAN CADDESİ, MİA CONCEPT RECİDANCE KAT1 DAİRE NO 25, Eryaman, Etimesgut",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Emporis Gayrimenkul | Eryaman Emlak | Ticari Mülk | Konut | Ofis | Arsa | Satılık & Kiralık",
+    "phone": "0532 542 48 97",
+    "address": "Ata Yıldız Platinium, Altay Mahallesi, Eryaman, Ankara Ayaş Bulvarı No: 212 Kat: 6 D: 27, Etimesgut",
+    "website": "https://www.emporisgayrimenkul.com/",
+    "rating": 5,
+    "user_ratings_total": 15
+  },
+  {
+    "name": "Emir Emlak Gayrimenkul",
+    "phone": "0552 923 50 06",
+    "address": "Yeni Batı Mahallesi Kalem Caddesi Fatih Sultan Mehmet Bulvarı No 14 İstway, Yenimahalle",
+    "website": "https://www.emlakcim.info/",
+    "rating": 2.5,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "Özvarlık Emlak",
+    "phone": "0536 505 80 34",
+    "address": "16/A, Şeker, 1408. Cadde, Etimesgut",
+    "website": null,
+    "rating": 3.2,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Borsem Eryaman Emlak Ofisi",
+    "phone": "0542 712 08 48",
+    "address": "Şehit Osman Avcı Mahallesi. Selçuklular Caddesi 45, Şehit Osman Avcı, nolu sokak 5/1, Etimesgut",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 39
+  },
+  {
+    "name": "Bi’Hanem| Yenilikçi Gayrimenkul Ofisi",
+    "phone": "(0312) 514 47 76",
+    "address": "Eryaman, Şehit Osman Avcı, Karabağ Şehitleri Bulvarı No: 12/6, Etimesgut",
+    "website": "http://www.bihanem.com/",
+    "rating": 5,
+    "user_ratings_total": 118
+  },
+  {
+    "name": "Eryaman Emlakçı Tekinşahlar Gayrimenkul",
+    "phone": "0545 838 33 77",
+    "address": "Eryaman Mahallesi Dildevrimi caddesi Çatal apt, D:21/3, Etimesgut",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 84
+  },
+  {
+    "name": "ERYAMAN ŞİRİN GAYRİMENKUL - EMLAK DANIŞMANLIĞI -EMLAKÇI",
+    "phone": "0532 363 96 60",
+    "address": "Tunahan, 208. Sk. 4. Etap Çarşı, Etimesgut",
+    "website": "https://siringayrimenkul06.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 346
+  },
+  {
+    "name": "AHS GAYRİMENKUL",
+    "phone": "0545 588 46 84",
+    "address": "Pınarbaşı, Zafer İçyer Cd. 59/A, Sincan",
+    "website": "https://ahsgayrimenkul.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 20
+  },
+  {
+    "name": "Sincan Emlakçı ZenTa Gayrimenkul",
+    "phone": "0554 312 87 37",
+    "address": "Andiçen Mahallesi Ahi Mesut bulvarı Haritacılar Sitesi, D:228/A, Sincan",
+    "website": null,
+    "rating": 4.2,
+    "user_ratings_total": 11
+  },
+  {
+    "name": "Alfa Emlak | Sincan & Etimesgut Satılık-Kiralık Konut Arsa ve Dükkan",
+    "phone": "(0312) 276 19 06",
+    "address": "Plevne, Bosna Cd. No:149, Sincan",
+    "website": "http://www.alfaemlaksincan.com/",
+    "rating": 5,
+    "user_ratings_total": 75
+  },
+  {
+    "name": "OKA EMLAK SATIŞ OFİSİ",
+    "phone": "0538 017 43 00",
+    "address": "Eryaman, 312. Sk., Etimesgut",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Taş Konak Emlak",
+    "phone": "0532 270 17 26",
+    "address": "Devlet, 262. Sk. Akcenter AVM No:6 D:138, Etimesgut",
+    "website": "https://taskonakemlak.sahibinden.com/",
+    "rating": 4.7,
+    "user_ratings_total": 24
+  },
+  {
+    "name": "ANKARA EMLAK DOKTORU",
+    "phone": "0552 501 14 61",
+    "address": "Andiçen, Gönlübol Cd 30/a, Sincan",
+    "website": "http://ankaranınemlakdoktoru.com.tr/",
+    "rating": 5,
+    "user_ratings_total": 123
+  },
+  {
+    "name": "BE-KA Emlak Gayrimenkul",
+    "phone": "0532 230 59 19",
+    "address": "Pınarbaşı, Malazgirt karayolu caddesi 8/a, Sincan",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 11
+  },
+  {
+    "name": "YİĞİT EMLAK",
+    "phone": "(0312) 270 09 29",
+    "address": "Atatürk, Mohaç Sk. 14/A, Sincan",
+    "website": "https://yigitemlaksincan.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 27
+  },
+  {
+    "name": "Akif Real Estate",
+    "phone": "(0312) 261 22 55",
+    "address": "Atakent, 1522. Sk No:10, Etimesgut",
+    "website": "http://akifgayrimenkuletimesgut.com/",
+    "rating": 4.9,
+    "user_ratings_total": 238
+  },
+  {
+    "name": "Neva inşaat gayrimenkul",
+    "phone": "0546 132 19 10",
+    "address": "Sincan pınarbaşı mah 126 sk 10 /b /12 Çorum cd ve zafer iç yer cd kesişimi, Sincan",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 25
+  },
+  {
+    "name": "Emre Emlak Elvankent",
+    "phone": "0506 420 36 35",
+    "address": "Atakent, 1478. Cad. no:58/A, Etimesgut",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 380
+  },
+  {
+    "name": "Sincan EMLAK",
+    "phone": "0546 816 26 26",
+    "address": "Mareşal Çakmak, Ankara Cd. No:162 D:B, Sincan",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 29
+  },
+  {
+    "name": "İbicek Sincan Emlak Gayrimenkul",
+    "phone": "0551 427 24 06",
+    "address": "Tandoğan mah Zeki Uğur cad billur Sokak, Sincan",
+    "website": "http://www.ibicekgayrimenkul.com/",
+    "rating": 4.1,
+    "user_ratings_total": 23
+  },
+  {
+    "name": "ARASBEY GAYRİMENKUL",
+    "phone": "(0312) 275 00 01",
+    "address": "Mareşal Çakmak, Ankara Cd. 112/A, Sincan",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 51
+  },
+  {
+    "name": "Efor Gayrimenkul",
+    "phone": "0533 255 26 88",
+    "address": "Tunahan mah.219.cadde 17634 ada, Eryaman, Açelya AP no:7/1, Etimesgut",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 250
+  },
+  {
+    "name": "Höyük Emlak",
+    "phone": "(0312) 272 58 24",
+    "address": "Gazi Osmanpaşa, Mehmet Akif Ersoy Cd. No:45/B, Sincan",
+    "website": "http://www.hoyukemlak.com/",
+    "rating": 4.4,
+    "user_ratings_total": 33
+  },
+  {
+    "name": "Eryaman Doğa Emlak",
+    "phone": "0543 623 66 35",
+    "address": "Şeyh Şamil, 147. Sk. 17332 Ada B3/3 Blok 1/2, Etimesgut",
+    "website": null,
+    "rating": 4.3,
+    "user_ratings_total": 23
+  },
+  {
+    "name": "Selin Emlak Ofisi",
+    "phone": "0533 747 07 78",
+    "address": "İstasyon, Akşemsettin, Polatlı 1. Cd. 23/A, Sincan",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "YD EMLAK",
+    "phone": "0543 554 60 06",
+    "address": "Tandoğan, Ata Cd. No: 26, Sincan",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 11
+  },
+  {
+    "name": "UĞUR EMLAK",
+    "phone": "(0312) 269 54 54",
+    "address": "Mareşal Çakmak, Şht. Ali Çalışır Sk. No:53, Sincan",
+    "website": null,
+    "rating": 4.3,
+    "user_ratings_total": 28
+  },
+  {
+    "name": "HALK EMLAK GAYRİMENKUL",
+    "phone": "0553 457 00 45",
+    "address": "Plevne, Bosna Cd. 51.A, Sincan Osb/Sincan",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 22
+  },
+  {
+    "name": "Detay Emlak",
+    "phone": "(0312) 666 21 61",
+    "address": "Eray Çarşısı, Oğuzlar, 1599. Sk. No:106, Etimesgut",
+    "website": "http://detaygrupankara.com.tr/",
+    "rating": 5,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "ARMEDA EMLAK",
+    "phone": "(0312) 261 01 11",
+    "address": "Topçu, 1515. Sk. No:12, Etimesgut",
+    "website": "http://armedaemlak.sahibinden.com/",
+    "rating": 4.5,
+    "user_ratings_total": 20
+  },
+  {
+    "name": "Dekor Emlak",
+    "phone": "(0312) 282 02 62",
+    "address": "Eryaman, Etimesgut",
+    "website": "http://www.dekoremlak.com/",
+    "rating": 4.2,
+    "user_ratings_total": 19
+  },
+  {
+    "name": "Bilgi Ofisi Emlak 2",
+    "phone": "(0312) 282 22 00",
+    "address": "Eryaman Mah SAMSUN 19 MAYIS CAD., 235.CADDE BETİM1SİTESİ NO:3, Etimesgut",
+    "website": "http://www.bilgiemlak.com.tr/",
+    "rating": 3.7,
+    "user_ratings_total": 26
+  },
+  {
+    "name": "Efor Emlak",
+    "phone": "(0312) 283 77 88",
+    "address": "Haznedaroğlu Blocks, Eryaman Tunahan Mahallesi Üç Şehitler Caddesi, Tunahan, 17633 Ada 3 /1, Etimesgut",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 55
+  },
+  {
+    "name": "Altinsoy Emlak",
+    "phone": "(0312) 270 86 83",
+    "address": "İstasyon, Polatlı 1. Cd. No:5/B, Sincan",
+    "website": "http://altinsoyemlak.sahibinden.com/",
+    "rating": 4.4,
+    "user_ratings_total": 46
+  },
+  {
+    "name": "O BİR EMLAK",
+    "phone": "(0312) 434 00 08",
+    "address": "Yeşilova, Prof. Dr. Necmettin Erbakan Cd Eryaman Port AVM D:3. KAT No: 29, Etimesgut",
+    "website": "http://www.obiremlak.com/",
+    "rating": 4.5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Eryaman White Property (Real Estate)",
+    "phone": "(0312) 283 00 55",
+    "address": "Eryaman 3.Etap Tınaztepe Caddesi Alarko Blokları 17362 ada C blok No:3 Beyaz Emlak Eryaman - Emlakçı Eryaman 3-4 etap taksi durağı karşısı Eryaman, Etimesgut",
+    "website": "http://www.beyazemlak.com.tr/",
+    "rating": 4.8,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "ULAŞ EMLAK",
+    "phone": "0555 820 56 56",
+    "address": "Oğuzlar Mahallesi, Atakent, 1589. Sk. Elvanköy 91 Sitesi, Etimesgut",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 81
+  },
+  {
+    "name": "EPA A.Ş. CENGİZ EREN EMLAK SİNCAN TOKİ ŞUBESİ",
+    "phone": "(0312) 557 83 83",
+    "address": "Saraycık, 2436. Cad. No: 2/25 D:G, Sincan",
+    "website": "http://www.epaemlak.com.tr/sincan",
+    "rating": 4.8,
+    "user_ratings_total": 98
+  },
+  {
+    "name": "Yıldırımlar Emlak",
+    "phone": "(0312) 264 44 74",
+    "address": "Andiçen, Oğuz Yılmaz Cd. 96/A, Sincan",
+    "website": "https://yildirimlaremlaksincan.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "SR Emlak",
+    "phone": "(0312) 275 03 00",
+    "address": "Mareşal Çakmak, Ankara Cd. 2-13, Sincan Osb/Sincan",
+    "website": "http://www.sremlak.com.tr/",
+    "rating": 3.8,
+    "user_ratings_total": 20
+  },
+  {
+    "name": "ÇAĞRI EMLAK OFİSİ",
+    "phone": "(0312) 283 00 00",
+    "address": "Tunahan Mah. 4. Etap Öztaş Blokları 17652 Ada 3. Bl. No:2, Eryaman",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Galaxy Emlak",
+    "phone": "(0312) 282 12 27",
+    "address": "Eryaman, 7. Cad. Galaxy Alışveriş Merkezi No:16 D:34, Etimesgut",
+    "website": null,
+    "rating": 3.9,
+    "user_ratings_total": 28
+  },
+  {
+    "name": "Seray",
+    "phone": "0532 741 99 25",
+    "address": "Atakent Mahallesi 804 Cad.TK1 Çarşisı 3B, D:G, Etimesgut",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 17
+  },
+  {
+    "name": "KIRMIZI EMLAK (Merkez Ofis)",
+    "phone": "0532 631 93 47",
+    "address": "Şeyh Şahmil Mahallesi, Eryaman, Tınaztepe Cd. D:17334 ada blok 3 no:1, Etimesgut",
+    "website": "https://shbd.io/s/WeXjFUCj",
+    "rating": 4.1,
+    "user_ratings_total": 31
+  },
+  {
+    "name": "Elvankent Gayrimenkul",
+    "phone": "(0312) 263 14 44",
+    "address": "Ayyıldız Mahallesi 1624. Sokak, Elvankent 3/A No :102, elvankent, Etimesgut",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 112
+  },
+  {
+    "name": "TEMEL KARDEŞLER EMLAK",
+    "phone": "0530 878 03 76",
+    "address": "Saraycık, 1705. Sk. NO:7/A, Sincan",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 12
+  },
+  {
+    "name": "Koza Emlak",
+    "phone": "0506 242 85 30",
+    "address": "Akşemsettin, Fırat Cd. 47/B, Sincan",
+    "website": null,
+    "rating": 4.5,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Hisar Emlak",
+    "phone": "0552 579 21 43",
+    "address": "Topçu, 1512. Cd. No:66, Etimesgut",
+    "website": "https://www.alsatankara.com/",
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Emlak Danışmanım",
+    "phone": null,
+    "address": "Andiçen, Ahi Mesut Blv No:216-1-A, Sincan",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 115
+  },
+  {
+    "name": "Atabey Emlak Gayrimenku",
+    "phone": "(0312) 270 50 89",
+    "address": "Atatürk, Peçenek Cd. No:47, Sincan",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "RS Emlak Ve Danışmanlık Ofisi",
+    "phone": "0543 240 65 66",
+    "address": "İstasyon, Bosna Cd. NO:54/B, Sincan",
+    "website": "https://rsemlakofisisincan.sahibinden.com/",
+    "rating": 4.2,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Tercih Emlak",
+    "phone": "(0312) 268 00 88",
+    "address": "Akşemsettin, Çağlayan Cd. 15/A, Sincan",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Kapadokya Emlak",
+    "phone": "(0312) 283 92 83",
+    "address": "4, eryaman tunahan mahallesi 4.etap Soyak Blokları 4. Etap & 191. Sk. & 17656 Ada D:R-8 Blok, 1, Etimesgut",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "Miray Emlak",
+    "phone": "(0312) 268 68 68",
+    "address": "1 Atatürk, Melek Sk. 23-3, Sincan",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "MUTLU EMLAK",
+    "phone": "0506 753 48 38",
+    "address": "NO:, Mareşal Çakmak, Ankara Cd. No:132, Sincan",
+    "website": null,
+    "rating": 4.1,
+    "user_ratings_total": 19
+  },
+  {
+    "name": "Eryaman Emlakçı Ayyıldız Gayrimenkul",
+    "phone": "0552 222 95 89",
+    "address": "Çatal Ap, Eryaman Mahallesi Dil Devrimi Cad, 324. Sk. No:21 D:1, Etimesgut",
+    "website": "https://ayyildizgayrimenkulll.sahibinden.com/",
+    "rating": 4.8,
+    "user_ratings_total": 47
+  },
+  {
+    "name": "Zaman Emlak",
+    "phone": "(0312) 264 03 12",
+    "address": "Pınarbaşı, Muammer Aksoy Sokağı 23/A, Sincan",
+    "website": "https://zamanemlaksincan.sahibinden.com/",
+    "rating": 4.1,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "KOCAKUŞAK EMLAK",
+    "phone": "0533 549 20 09",
+    "address": "Mareşal Çakmak, Şht. Ahmet Doğan Sk. 20-A, Sincan Osb/Sincan",
+    "website": "https://kocakusakemlak.sahibinden.com/https://hesabim.hepsiemlak.com/anasayfa",
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Çelen Emlak",
+    "phone": "0535 938 06 39",
+    "address": "Atatürk, Gönül Sk. 10/C, Sincan",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "AYAZ EMLAK",
+    "phone": "0540 002 19 10",
+    "address": "Andiçen, Oğuz Yılmaz Cd. 108/C, Sincan",
+    "website": "https://ayazemlak.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "Yılmaz Emlak",
+    "phone": "0506 661 86 87",
+    "address": "Törekent, 316. Sk. Köprü Sitesi C Blok No: 39/E, Sincan",
+    "website": "https://yilmazgymdanismanligi.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "ANGORA EMLAK",
+    "phone": "0543 712 44 72",
+    "address": "Akşemsettin, Bosna Cd. 94/A, Sincan",
+    "website": "https://angoraemlak.sahibinden.com/emlak?sorting=date_desc",
+    "rating": 4.6,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "Site Emlak",
+    "phone": "0537 984 59 75",
+    "address": "Akşemsettin, Bosna Cd. 90/A, Sincan",
+    "website": null,
+    "rating": 3.4,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "Gündoğdu Gayrimenkul",
+    "phone": "0553 543 28 82",
+    "address": "Tandoğan, Mah:156 Sokak No:20/A, Sincan",
+    "website": "https://www.emlakjet.com/emlak-ofisleri-detay/gundogdu-gayrimenkul-1441355?siralama=4",
+    "rating": 4.9,
+    "user_ratings_total": 29
+  },
+  {
+    "name": "Eryaman Marka Gayrimenkul",
+    "phone": "(0312) 282 11 62",
+    "address": "Eryaman, Etimesgut",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 12
+  },
+  {
+    "name": "Azelya Emlak Gayrimenkul",
+    "phone": "0543 670 50 45",
+    "address": "Güçlükaya, Kızlarpınarı Cd. No:27, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "Yazıcı Emlak Mustafa Eş",
+    "phone": "(0312) 375 49 44",
+    "address": "Battalgazi, Orhan Kemal Cd. No:284/C, Altındağ",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 32
+  },
+  {
+    "name": "Şerifoğlu Emlak",
+    "phone": "(0312) 430 00 53",
+    "address": "shell, Tınaztepe Mahallesi ahmetler postanesi Libya Cd, benzinlik karşısı 13/F, Çankaya",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 51
+  },
+  {
+    "name": "Emir Emlak Ofisi",
+    "phone": "(0312) 316 88 18",
+    "address": "Aydınlıkevler, Uzayan Sk. No:143, Altındağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "EMLAK BAŞKENTİ ALTINDAĞ",
+    "phone": "(0312) 350 44 50",
+    "address": "Feridun Çelik, Orhan Kemal Cd., Altındağ",
+    "website": "https://emlakbaskenti.com/",
+    "rating": 5,
+    "user_ratings_total": 80
+  },
+  {
+    "name": "𝗔𝗡𝗞𝗔𝗥𝗔 𝗚𝗔𝗥𝗔𝗡𝗧𝗜̇ 𝗘𝗠𝗟𝗔𝗞",
+    "phone": "0532 559 79 56",
+    "address": "Battalgazi, Bostancık Cd. 145/E, Altındağ",
+    "website": "http://ankaragarantiemlakk.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "SARITAŞ GAYRİMENKUL",
+    "phone": "0532 311 70 41",
+    "address": "Kocatepe, Selanik Cd No:23/6, Çankaya",
+    "website": "https://www.saritasgayrimenkul.com.tr/",
+    "rating": 4.9,
+    "user_ratings_total": 99
+  },
+  {
+    "name": "Beyazıt Inşaat Emlak",
+    "phone": "(0312) 350 32 45",
+    "address": "Önder, Çamlıtepe Cd. No:123 D:A, Siteler - Altındağ/Altındağ",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "Öz & Yıl Emlak Ofisi",
+    "phone": "(0312) 375 73 73",
+    "address": "Çamlık, Hüseyingazi, Orhan Kemal Cd. 252-1 D:B, Altındağ",
+    "website": "http://ozyilemlakofis.wordpress.com/",
+    "rating": 5,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "Gökyüzü Emlak",
+    "phone": "0553 065 16 24",
+    "address": "Kızılay, Bayındır-1 Sk. 25/9, Çankaya",
+    "website": null,
+    "rating": 4.1,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "Birsen Emlak",
+    "phone": "(0312) 338 99 55",
+    "address": "Meriç Kültür Merkezi Yanı, Başpınar, Şht. Hacı Osman Dugan Cd. D:91, Altındağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Yıldız İnşaat & Emlak",
+    "phone": "(0312) 340 51 51",
+    "address": "Yıldıztepe, Celal Esat Arseven Cd. No:259, Altındağ",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 14
+  },
+  {
+    "name": "İLGİM EMLAK AJANSI",
+    "phone": "(0312) 433 43 55",
+    "address": "Kızılay, Kültür, Yüksel Cd. No:36 D:2, Çankaya",
+    "website": "https://www.ilgimemlak.com/",
+    "rating": 4.6,
+    "user_ratings_total": 23
+  },
+  {
+    "name": "GÜVEN EMLAK",
+    "phone": "0535 379 61 24",
+    "address": "Güneşevler, 125/3. Sk. NO:15/A, Altındağ",
+    "website": null,
+    "rating": 4.1,
+    "user_ratings_total": 28
+  },
+  {
+    "name": "GÖLBAŞI YİĞİT EMLAK",
+    "phone": "0505 252 62 10",
+    "address": "Seğmenler, 936. Sk. 40/A, Gölbaşı",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 94
+  },
+  {
+    "name": "Hatipoğlu Gayrimenkul",
+    "phone": "(0312) 484 24 82",
+    "address": "Seğmenler, Oğuz Kağan Usta Cd 62/A, Gölbaşı",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 26
+  },
+  {
+    "name": "Gölbaşı Emlak",
+    "phone": "(0312) 484 25 65",
+    "address": "Gaziosmanpaşa, Ankara Cd. 70/3, Gölbaşı",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "GÖLBAŞI AKTİF EMLAK DANIŞMANLIK",
+    "phone": "(0312) 484 99 55",
+    "address": "Bahçelievler, 317. Sk. No:3 D:5, Gölbaşı",
+    "website": "http://golbasiaktifemlak.com/",
+    "rating": 4.7,
+    "user_ratings_total": 35
+  },
+  {
+    "name": "ARSAKENT",
+    "phone": null,
+    "address": "Karşıyaka, 804. Sk. No:3/2, Gölbaşı",
+    "website": "http://arsakent.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 17
+  },
+  {
+    "name": "ÇINAR EMLAK OFİSİ",
+    "phone": "0546 218 06 43",
+    "address": "Eymir, Dalaman Sk. No:276 D:274, Gölbaşı",
+    "website": null,
+    "rating": 3.7,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "GÖLBAŞI GÖRAL EMLAK",
+    "phone": "0532 596 56 67",
+    "address": "TAPU ARKASI, Bahçelievler, 321. Sk. 8/D, Gölbaşı",
+    "website": "http://www.golbasigoralemlak.com/",
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Gölbaşı Batuhan Emlak gayrimenkul",
+    "phone": "0532 618 36 85",
+    "address": "Seğmenler, 939. Sk. 10/2.A, Gölbaşı",
+    "website": "https://www.facebook.com/golbasibatuhanemlakk?mibextid=ZbWKwL",
+    "rating": 5,
+    "user_ratings_total": 131
+  },
+  {
+    "name": "Tayfur Kale Gayrimenkul Danışmanlığı Emlak Ofisi",
+    "phone": "0555 086 85 97",
+    "address": "Seğmenler, Cemal Gürsel Cd. No:149, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Omar Apça Emlak Danışmanlığı",
+    "phone": null,
+    "address": "Seğmenler, Oğuz Kağan Usta Cd, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "ÖZGÜR TEKiN GAYRİMENKUL Gölbaşı",
+    "phone": "0532 375 57 07",
+    "address": "Bahçelievler, Cumhuriyet Cd. No:13/2, Gölbaşı",
+    "website": "http://ozgurtekin.com.tr/",
+    "rating": 4.9,
+    "user_ratings_total": 14
+  },
+  {
+    "name": "Oğulbey Emlak",
+    "phone": "0534 635 21 21",
+    "address": "Bahçelievler, 274. Sk. 13-a, Gölbaşı",
+    "website": "http://www.ogulbeyemlak.com/",
+    "rating": 5,
+    "user_ratings_total": 15
+  },
+  {
+    "name": "Mülkiyet Emlak Gayrimenkul",
+    "phone": "0542 716 40 86",
+    "address": "948 Sokak, Seğmenler, Cumhuriyet Cd. NO:62/2, Gölbaşı",
+    "website": null,
+    "rating": 3.7,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "GÖLHAN EMLAK",
+    "phone": "0507 118 32 61",
+    "address": "Seğmenler, 930. Sk. No: 4, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "KAYA GAYRİMENKUL",
+    "phone": "0553 774 86 53",
+    "address": "Bahçelievler, 281. Cadde No:121, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "Karadeniz Emlak",
+    "phone": "0554 777 97 36",
+    "address": "Gaziosmanpaşa, Ankara Cd. No:100 D:23, Gölbaşı",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 69
+  },
+  {
+    "name": "Gölbası Goral Emlak tapu arkası",
+    "phone": "0532 596 56 67",
+    "address": "Bahçelievler, 321. Sk. 8/D, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "EYM YUVAM EMLAK",
+    "phone": "0554 199 78 79",
+    "address": "Şafak, Şht. Selami Atabey Cd. No:42, Gölbaşı",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Kerem Emlak - Galeri",
+    "phone": "(0312) 484 91 38",
+    "address": "Bahçelievler, 321. Sk. No:12 D:B, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Gerd Property",
+    "phone": "(0312) 432 39 55",
+    "address": "Bahçelievler, 317. Sk. No:1/9, Gölbaşı",
+    "website": "https://www.bizebiproje.com/",
+    "rating": 4.6,
+    "user_ratings_total": 27
+  },
+  {
+    "name": "YILMAZ EMLAK",
+    "phone": "0537 714 79 94",
+    "address": "Seğmenler, 938. Sk. No:1 D:B, Gölbaşı",
+    "website": "https://hesabim.hepsiemlak.com/portfoy/hepsiemlak",
+    "rating": 5,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Emlakhane Gayrimenkul",
+    "phone": "0543 445 99 06",
+    "address": "Bahçelievler, Cemal Gürsel Cd. No: 118/B, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Keskin Emlak Gölbaşı",
+    "phone": "(0312) 484 28 55",
+    "address": "Bahçelievler, 281. Cadde 63/A, Gölbaşı",
+    "website": "http://keskinemlakgolbasi.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "HB Gayrimenkul",
+    "phone": "0538 561 66 77",
+    "address": "Bahçelievler, 317. Sk. No:7 D:4, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Mest Gayrimenkul",
+    "phone": "0530 824 78 06",
+    "address": "Seğmenler, 952. Sk. no: 7A, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 19
+  },
+  {
+    "name": "Necip Oglu Emlak Ofisi",
+    "phone": "(0312) 484 80 69",
+    "address": "Bahçelievler, 321. Sk. 12/2, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Al-Zer Emlak",
+    "phone": "(0312) 484 77 71",
+    "address": "Bahçelievler, Cumhuriyet Cd. No:3 D:B, Gölbaşı",
+    "website": "http://topakli06.blogspot.com/",
+    "rating": 3.4,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "GÖLBAŞI ARSA OFİSİ",
+    "phone": "0532 738 04 29",
+    "address": "Karşıyaka, Haymana Yolu Blv., Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "DOĞANOĞLU GRUP GAYRİMENKUL",
+    "phone": "(0312) 484 33 32",
+    "address": "Gaziosmanpaşa, 412. Sk. NO:4 DAİRE:1, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 34
+  },
+  {
+    "name": "Delikanlıoğlu İnşaat emlak",
+    "phone": "0507 106 29 72",
+    "address": "Gaziosmanpaşa, Plevne Sk. no15A, Gölbaşı",
+    "website": "https://www.instagram.com/canerdelknloglu/profilecard/?igsh=MXZ1dHJ6Z2M0ZjB2YQ==",
+    "rating": 5,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Aksakal İnşaat Emlak",
+    "phone": "0532 346 84 08",
+    "address": "Bahçelievler mahallesi Cumhuriyet caddde, Bahçelievler, 282. Sk. No: 3/A, Gölbaşı",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 9
+  },
+  {
+    "name": "TEPEYURT EMLAK",
+    "phone": "0536 208 03 93",
+    "address": "Gaziosmanpaşa, 378. Sk. No:4, Gölbaşı",
+    "website": "https://tepeyurtgayrimenkul.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Koray Real Estate",
+    "phone": "0532 396 32 99",
+    "address": "Bahçelievler, 71. Cd. No:1, Gölbaşı",
+    "website": "http://www.korayyatirim.com/",
+    "rating": 5,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Damla Gayrimenkul",
+    "phone": "(0312) 485 22 20",
+    "address": "16, Seğmenler, 914. Sk., Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Pehlivan Gayrimenkul",
+    "phone": "0532 386 73 08",
+    "address": "Karşıyaka, 803. Sk. No:8 D:2, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Ahsen Emlak Rent A Car Inşaat",
+    "phone": null,
+    "address": "Seğmenler, Cumhuriyet Cd. No:84, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Şükrü Erceyiş Arsa Ofisi",
+    "phone": "0536 935 95 68",
+    "address": "Yaylabağ, Beyşehir Gölü Cd., Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "GÖL YILMAZ İNŞAAT EMLAK",
+    "phone": "0554 459 67 32",
+    "address": "Şafak, Şht. Selami Atabey Cd. 17/B, Gölbaşı",
+    "website": "https://golyilmazinsaatemlak.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Yön Emlak",
+    "phone": null,
+    "address": "no:4/1, Bahçelievler Sitesi, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "KUZEY EMLAK",
+    "phone": "0544 633 24 87",
+    "address": "Seğmenler, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "ERDOĞANLAR ARSA OFİSİ YATIRIM DANIŞMANLIK",
+    "phone": "(0312) 485 06 66",
+    "address": "Bahçelievler, 319. Sk. No:9, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "DÜNYALIK YATIRIM A.Ş",
+    "phone": null,
+    "address": "Dünyalık Yatırım, Bahçelievler, 281/1. Sk. No: 8 D:5, Gölbaşı",
+    "website": "http://www.dunyalikyatirim.com/",
+    "rating": 5,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "KC Yatırım",
+    "phone": "(0312) 484 60 75",
+    "address": "Seğmenler, Cumhuriyet Cd. 116A/C, Gölbaşı",
+    "website": null,
+    "rating": 4.4,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "Dost Emlak",
+    "phone": "0505 299 98 50",
+    "address": "Karşıyaka, Haymana Yolu Blv. 43/A, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "GÜNGÖR GRUP EMLAK GAYRİMENKUL TURİZM İNŞAAT.LTD .ŞTİ",
+    "phone": "0535 928 20 38",
+    "address": "Ankara, Bezirhane mah, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Farida Tuncer",
+    "phone": "0530 692 27 79",
+    "address": "Şafak Mah Şht. Selami Atabey Cd.887 sk 21/A, Şafak, 887. Sk. No:23, Gölbaşı",
+    "website": null,
+    "rating": 4.2,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Güven Emlak Mimarlık&Mühendislik",
+    "phone": null,
+    "address": "No:, Şafak, Şht. Selami Atabey Cd. No:39, Gölbaşı",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Dikilitas Emlak",
+    "phone": "(0312) 485 31 08",
+    "address": "Karşıyaka, Haymana Yolu Blv. NO:10/B, Gölbaşı",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Gölbaşı göral emlak tapu arkası",
+    "phone": "0532 596 56 67",
+    "address": "Bahçelievler, 321. Sk. 8 / C, Gölbaşı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Yalcin Real Estate",
+    "phone": "0532 283 58 67",
+    "address": "Gaziosmanpaşa, Ankara Cd. 66/K, Gölbaşı",
+    "website": "http://www.myemlak.com.tr/",
+    "rating": 3,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Mermer Emlak",
+    "phone": "(0312) 484 18 15",
+    "address": "Karşıyaka, Haymana Yolu Blv. No:2 D:2, Gölbaşı",
+    "website": null,
+    "rating": 3.7,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Rüzgar Gayrimenkul",
+    "phone": "(0312) 484 94 44",
+    "address": "Bahçelievler, Cumhuriyet Sk, Gölbaşı",
+    "website": "http://www.rüzgargayrimenkul.com/",
+    "rating": 4.3,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "LAND WORLD",
+    "phone": "(0312) 484 81 88",
+    "address": "Market Üstü, Karşıyaka, Haymana Yolu Blv. No:136/1 A 101, Gölbaşı",
+    "website": "http://arsadunyasi.sahibinden.com/",
+    "rating": 4,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "Mogan Emlak",
+    "phone": "(0312) 484 20 21",
+    "address": "Gaziosmanpaşa, Ankara Cad., Vakıfbank Yanı 76/A, Gölbaşı",
+    "website": null,
+    "rating": 3.5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Dünya Grup İnşaat & Emlak & Galeri",
+    "phone": "(0312) 484 08 08",
+    "address": "Gaziosmanpaşa, Şht. Ali Gaffar Okan Cd. No:86 D:B, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "ATASEL EMLAK",
+    "phone": "0532 363 77 13",
+    "address": "Bahçelievler, 285. Sk. NO: 26/A, Gölbaşı",
+    "website": null,
+    "rating": 3.5,
+    "user_ratings_total": 31
+  },
+  {
+    "name": "Güzelyalı Gayrimenkul",
+    "phone": "0532 155 76 76",
+    "address": "Bahçelievler, 319. Sk. no: 3 / 2, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Altun emlak",
+    "phone": "0532 362 05 88",
+    "address": "Şafak, Şehit oğuz kağan cad 19/B, Gölbaşı",
+    "website": null,
+    "rating": 4.4,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "Gölbaşı emlak",
+    "phone": null,
+    "address": "Seğmenler, 935. Sk. No:14, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "HÜRRİYET GAYRİMENKUL GÖLBAŞI",
+    "phone": "(0312) 512 52 00",
+    "address": "Seğmenler, Cumhuriyet Cd. 110B D:A, Gölbaşı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "SÖZ EMLAK",
+    "phone": "0553 524 18 87",
+    "address": "Atapark, Gaziler Cd. 35/C, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 112
+  },
+  {
+    "name": "As Çelik Emlak",
+    "phone": "(0312) 356 00 23",
+    "address": "Osmangazi, Aşıkpaşa Cd. No:143 D:A, Keçiören",
+    "website": "http://ascelikemlak.com/index2.php?sayfa=emlak_sonuc&mode=hizli_arama&sube_id=-1",
+    "rating": 5,
+    "user_ratings_total": 11
+  },
+  {
+    "name": "zengin emlak",
+    "phone": "0536 658 05 82",
+    "address": "Fatih, Gazi Cd. 11/b, Pursaklar",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "DOST BAĞLUM EMLAK",
+    "phone": "0532 782 10 84",
+    "address": "Karakaya, Bağlum Blv, Keçiören",
+    "website": "http://baglumdostemlak.com/",
+    "rating": 5,
+    "user_ratings_total": 34
+  },
+  {
+    "name": "BAŞARAN EMLAK",
+    "phone": "0553 046 40 03",
+    "address": "Şenlik, Aşıkpaşa Cd. No:33/A, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 26
+  },
+  {
+    "name": "GÖKTAŞLAR EMLAK",
+    "phone": "(0312) 328 72 18",
+    "address": "Fatih, Gazi Cd. No:4 D:A, Pursaklar",
+    "website": "https://goktaslaremlak.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 103
+  },
+  {
+    "name": "SEVİLAY EMLAK KENTSEL DÖNÜŞÜM Ofisi ve projeleri",
+    "phone": "0505 872 27 32",
+    "address": "Bağlarbaşı, Fatsa Sk. no 6, Keçiören",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "Pusula Emlak Yatırım",
+    "phone": "(0312) 328 35 40",
+    "address": "Merkez, Mimar Sinan Cd. No: 1/B, Pursaklar",
+    "website": "https://pusulaemlakyatirim.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 32
+  },
+  {
+    "name": "DÜZGÜN EMLAK",
+    "phone": "(0312) 328 05 01",
+    "address": "Fatih, Devrez Sk. 2/A, Pursaklar",
+    "website": "http://www.duzgunemlak.net/",
+    "rating": 4.9,
+    "user_ratings_total": 198
+  },
+  {
+    "name": "specific Real Estate",
+    "phone": "(0312) 328 12 22",
+    "address": "Fatih, Yavuz Blv. No:46 D:C, Pursaklar",
+    "website": "http://www.ozgulemlak.com/",
+    "rating": 4.9,
+    "user_ratings_total": 274
+  },
+  {
+    "name": "ÇOK ACİL EMLAK OVACIK",
+    "phone": "(0312) 330 32 32",
+    "address": "Atapark, 540. Cd. no:52, Keçiören",
+    "website": "http://cokacilemlakovaciksube.sahibinden.com/",
+    "rating": 4.6,
+    "user_ratings_total": 11
+  },
+  {
+    "name": "Sultan Fatih Mosque",
+    "phone": "0542 762 24 54",
+    "address": "Yakacık, Fatih Cd. No:158 D:b, Keçiören",
+    "website": null,
+    "rating": 4.4,
+    "user_ratings_total": 85
+  },
+  {
+    "name": "Erhan Güler İnşaat Emlak",
+    "phone": "(0312) 329 86 85",
+    "address": "Karakaya, Bağlum Blv No:145 D:B, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 24
+  },
+  {
+    "name": "IŞIK EMLAK®",
+    "phone": "(0312) 355 28 21",
+    "address": "Merkez, Yavuz Blv. No:65 D:C, Pursaklar",
+    "website": "http://isikemlak1975.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "Eryıldızlar Emlak - Gayrimenkul İnşaat",
+    "phone": "0552 218 03 72",
+    "address": "Hisar, Bağlum Blv 54/B, Keçiören",
+    "website": "https://eryldzlaremlak.sahibinden.com/",
+    "rating": 4.7,
+    "user_ratings_total": 49
+  },
+  {
+    "name": "ENGİN EMLAK",
+    "phone": null,
+    "address": "Fatih, Belediye Cd. No:65, Pursaklar",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 28
+  },
+  {
+    "name": "Baðlum Real Estate Construction",
+    "phone": "0530 468 39 25",
+    "address": "Karakaya, Süleymaniye Sk. No:2 D:A, Keçiören",
+    "website": "https://baglum.com.tr/",
+    "rating": 4.9,
+    "user_ratings_total": 21
+  },
+  {
+    "name": "Jest Emlak",
+    "phone": "0552 329 63 32",
+    "address": "Jest Emlak, Karakaya, Bağlum Blv 103/B, Keçiören",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 36
+  },
+  {
+    "name": "Bent Emlak Pursaklar",
+    "phone": "(0312) 328 81 62",
+    "address": "Merkez, Yunus Emre Cd. No:64, Pursaklar",
+    "website": "http://www.bentemlak.com/",
+    "rating": 4.3,
+    "user_ratings_total": 56
+  },
+  {
+    "name": "ÖZ MAŞALLAH İNŞ EMLAK",
+    "phone": "0542 449 38 61",
+    "address": "HİSAR MAH BAĞLUM BULVARI, Bağlum Cd. 60/A, Keçiören",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 24
+  },
+  {
+    "name": "Kuzey Ankara Uzman Emlak",
+    "phone": null,
+    "address": "Baraj, Ticaret merkezi, Altındağ",
+    "website": "https://kuzeykentuzmanemlak.sahibinden.com/",
+    "rating": 3.8,
+    "user_ratings_total": 27
+  },
+  {
+    "name": "Koray Emlak",
+    "phone": "0535 846 45 56",
+    "address": "Şenlik, Kızlarpınarı Cd. No : 107, Keçiören",
+    "website": "https://korayemlak06.sahibinden.com/",
+    "rating": 4.5,
+    "user_ratings_total": 25
+  },
+  {
+    "name": "Kalecik Emlak",
+    "phone": "0542 328 11 23",
+    "address": "Fatih, Yavuz Blv. Hicret Camii Yanı 46/A, Pursaklar",
+    "website": "https://ofisim.sahibinden.com/ilanlarim?storeUserId=34265902",
+    "rating": 4.8,
+    "user_ratings_total": 14
+  },
+  {
+    "name": "KUZEY ANKARA KONUTLARİ EMLAK & GAYRİMENKUL",
+    "phone": "0532 764 63 24",
+    "address": "Şenyuva, Kuzey Ankara 7. Etap 7 A, Keçiören",
+    "website": null,
+    "rating": 3.7,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "Mehmet Zengin Property",
+    "phone": "(0312) 328 25 88",
+    "address": "Fatih, Belediye Cd. No:38 D:B, Pursaklar",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Tuna Emlak",
+    "phone": "(0312) 321 61 65",
+    "address": "İncirli, Refik Saydam Cd. 19/B, Keçiören",
+    "website": null,
+    "rating": 3.8,
+    "user_ratings_total": 9
+  },
+  {
+    "name": "Sacakli Gayrimenkul",
+    "phone": "(0312) 359 62 00",
+    "address": "Güçlükaya, Dizi Sk. No:1 D:B, Keçiören",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Erdoğan Emlak Ofisi",
+    "phone": "0555 997 59 58",
+    "address": "40/B, İncirli, Refik Saydam Cd., Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "GÖKTUĞ GAYRİMENKUL OVACIK",
+    "phone": "0541 622 94 06",
+    "address": "Atapark, 340. Cd 90/A, Keçiören",
+    "website": "http://www.goktuggayrimenkulovacik.com/",
+    "rating": 5,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "ERCAN TOSUN GAYRİMENKUL DANIŞMANLIK",
+    "phone": "0552 581 29 29",
+    "address": "Ufuktepe, Ufuktepe Cd. 13/A, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 12
+  },
+  {
+    "name": "Saral emlak",
+    "phone": "(0312) 580 12 34",
+    "address": "Bademlik, Itri Cd., Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Estergon Emlak",
+    "phone": "(0312) 361 14 74",
+    "address": "Tepebaşı, Çığ Sk. 17/C, Keçiören",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "VADİ EVİM GAYRİMENKUL",
+    "phone": "0542 371 10 10",
+    "address": "Güzelyurt, Güzelyurt Cd. 18/3, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 9
+  },
+  {
+    "name": "İncirli Çözüm Emlak",
+    "phone": "0507 651 65 76",
+    "address": "İncirli, Refik Saydam Cd. 33/A, Keçiören",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "ASYA EMLAK",
+    "phone": "(0312) 356 00 31",
+    "address": "Asya emlak, Kuşcağız, Kartaltepe Cd. 22-A, Keçiören",
+    "website": null,
+    "rating": 3.2,
+    "user_ratings_total": 19
+  },
+  {
+    "name": "EMLAK SEPETİM",
+    "phone": "0506 999 25 18",
+    "address": "Kuşcağız, 385. Sk. 2/c, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Yuvam Emlak Keçiören",
+    "phone": "0530 016 47 76",
+    "address": "Kafkas, Bağlum Blv No:128/A, Keçiören",
+    "website": "http://yuvamkeciorenemlak.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Sarıyıldız Gayrimenkul",
+    "phone": "(0312) 355 72 62",
+    "address": "Bademlik, Bademlik Yolu Cd. 20/A, Keçiören",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Akyurt Emlak",
+    "phone": "0543 675 03 16",
+    "address": "Beyazıt, Nurettin Cankurtaran Cd. No:104/A, Akyurt",
+    "website": "http://akyurtemlak.com.tr/",
+    "rating": 5,
+    "user_ratings_total": 44
+  },
+  {
+    "name": "AKYURT LİDER EMLAK",
+    "phone": "0541 663 96 71",
+    "address": "Yıldırım, Şht. Tezcan Özdemir Cd. NO:8/A, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 285
+  },
+  {
+    "name": "CömerT EMLAK",
+    "phone": "(0312) 844 33 34",
+    "address": "No:, Yıldırım, Nurettin Cankurtaran Cd. No:125, Akyurt",
+    "website": "https://comertemlakk.sahibinden.com/",
+    "rating": 4.6,
+    "user_ratings_total": 27
+  },
+  {
+    "name": "Çimen İnşaat Emlak",
+    "phone": "0535 421 97 71",
+    "address": "Beyazıt, Saray Sk. No:2E, Akyurt",
+    "website": "http://www.cimenemlak.com/",
+    "rating": 5,
+    "user_ratings_total": 165
+  },
+  {
+    "name": "Akyurt Yatirim Emlak",
+    "phone": "(0312) 844 01 52",
+    "address": "Beyazıt, Nurettin Cankurtaran Cd. No:123 D:9, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "ACAR EMLAK",
+    "phone": "0543 602 23 75",
+    "address": "Yıldırım, Nurettin Cankurtaran Cd. No:57/A, Akyurt",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 92
+  },
+  {
+    "name": "Tur İnşaat Emlak A.Ş",
+    "phone": "0552 282 52 06",
+    "address": "Yıldırım, Kavaklıdere Cd. No:101 D:C, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "M.ŞENTÜRK GAYRİMENKUL",
+    "phone": null,
+    "address": "Beyazıt, Şht. Kubilay Cd. 13/A, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "ZİRVE GAYRİMENKUL",
+    "phone": null,
+    "address": "Yıldırım, Nurettin Cankurtaran Cd. 99/D, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 51
+  },
+  {
+    "name": "NAİL DEMİREL GAYRİMENKUL",
+    "phone": "0533 206 30 96",
+    "address": "Yıldırım, Nurettin Cankurtaran Cd. No:99 D:c, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 20
+  },
+  {
+    "name": "Berat İnşaat Emlak akyurt",
+    "phone": "0533 819 09 97",
+    "address": "Yıldırım, Kızık Cd. No:18, Akyurt",
+    "website": null,
+    "rating": 4.3,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Star Gayrimenkul",
+    "phone": "0542 371 25 42",
+    "address": "Yıldırım, Nurettin Cankurtaran Cd. 119/A, Akyurt",
+    "website": "https://stargayrimenkul.sahibinden.com/",
+    "rating": 4.3,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "VAV GAYRİMENKUL",
+    "phone": "(0312) 844 20 19",
+    "address": "Beyazıt, Selimiye Cd. 5 / A, Akyurt",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "Yapraklı Emlak",
+    "phone": "0532 427 52 32",
+    "address": "no125/b, Yıldırım, Nurettin Cankurtaran Cd., Akyurt",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "ALİOĞLU İNŞAAT EMLAK",
+    "phone": "0532 799 83 06",
+    "address": "Yıldırım, Şht. Tezcan Özdemir Cd. No:6 D:C, Akyurt",
+    "website": "http://www.aliogluinsaatemlak.com/",
+    "rating": 5,
+    "user_ratings_total": 55
+  },
+  {
+    "name": "ALSANCAK GAYRİMENKUL 844 04 14",
+    "phone": "(0312) 844 04 14",
+    "address": "Yıldırım, Geçit SokağI No:10/A, Akyurt",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 21
+  },
+  {
+    "name": "AKYURT ŞEKER EMLAK & İNŞAAT",
+    "phone": "(0312) 844 21 11",
+    "address": "Beyazıt, Nurettin Cankurtaran Cd. No:28/A, Akyurt",
+    "website": null,
+    "rating": 3.5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "ÜÇ YILDIZ EMLAK İNŞAAT",
+    "phone": "0507 029 59 60",
+    "address": "Beyazıt, Şht. Kubilay Cd. 14-A, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Kupon Emlak",
+    "phone": "0552 208 51 97",
+    "address": "Yıldırım, Karaçam Sk. 22 B, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Şentürk Gayrimenkul",
+    "phone": "0545 376 39 76",
+    "address": "Yıldırım, Geçit SokağI 34/B, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Akyurt Emlak Borsası",
+    "phone": "0532 691 15 62",
+    "address": "Yıldırım, Gökyay Cd. No:8/C, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Aktürk Emlak",
+    "phone": null,
+    "address": "Yıldırım, Akyurt",
+    "website": "https://akturkemlak06.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 43
+  },
+  {
+    "name": "Kocabey Inşaat & Emlak",
+    "phone": null,
+    "address": "Yeşiltepe, Eğitim Sk. No:4, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Kazanç gayrimenkul danışmanlığı",
+    "phone": null,
+    "address": "Beyazıt, Nurettin Cankurtaran Cd. 30/D, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Yildiz Emlak",
+    "phone": null,
+    "address": "Yıldırım, Akyurt",
+    "website": null,
+    "rating": 2,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Büğdüz Emlak",
+    "phone": null,
+    "address": "Yıldırım, Nurettin Cankurtaran Cd. No:43, Akyurt",
+    "website": "https://bugduzemlak.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Akyurt Güneş Emlak",
+    "phone": "(0312) 844 35 35",
+    "address": "Beyazıt, Nurettin Cankurtaran Cd. 90/A, Akyurt",
+    "website": null,
+    "rating": 3.4,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "Prime Group",
+    "phone": "0541 504 30 08",
+    "address": "Beyazıt, Hilal Cd. NO:3/A, Akyurt",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Fawori Emlak Gayrimenkul",
+    "phone": "0539 289 56 69",
+    "address": "Beyazıt, Nurettin Cankurtaran Cd. No:72/A, Akyurt",
+    "website": null,
+    "rating": 3.7,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "MERT GAYRİMENKUL",
+    "phone": "0532 050 30 40",
+    "address": "Yıldırım, Ankara Cd. no 8/b, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "Nokta Gayrimenkul İnşaat Otomotiv LTD.ŞTİ.",
+    "phone": "(0312) 844 21 19",
+    "address": "Beyazıt, Süleymaniye Cd. No:2/A, Akyurt",
+    "website": null,
+    "rating": 4.2,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Garanti Emlak",
+    "phone": "0553 485 37 79",
+    "address": "Beyazıt, Nurettin Cankurtaran Cd. 48 B, Akyurt",
+    "website": "http://www.akyurtgarantiemlak.com/ilan/emlak-konut-satilik-kelepir-daire-3-plus1-607987148/detay",
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "MERT EMLAK OFİSİ",
+    "phone": "0542 403 06 40",
+    "address": "Yıldırım, Şht. Tezcan Özdemir Cd. 20/A, Akyurt",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "KAYA GAYRİMENKUL",
+    "phone": "0536 739 66 64",
+    "address": "Beyazıt, Hayat Sk. 5/B, Akyurt",
+    "website": "https://sites.google.com/view/kayagayrimenkul/ana-sayfa",
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "MESKEN GRUP EMLAK",
+    "phone": "0544 292 62 57",
+    "address": "Beyazıt, Şht. Kubilay Cd. 13/A, Akyurt",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "ALÇELİK İNŞAAT GAYRİMENKUL",
+    "phone": "0545 570 67 25",
+    "address": "Yıldırım, Karaçam Sk. 65/a, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "Toprak yatırım gayrimenkul danışmanlık Ahmet Yaşar Toprak",
+    "phone": null,
+    "address": "Yıldırım, Kaide Sk. No:14, Akyurt",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "İpek Gayrimenkul Emlak",
+    "phone": "0532 359 95 06",
+    "address": "Beyazıt, Huzur Sokağı No:14, Akyurt",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "SAĞLAM EMLAK",
+    "phone": "0541 496 81 19",
+    "address": "Yıldırım, Körfez Sk. 10/A, Akyurt",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Öz Akyol İnşaat Emlak",
+    "phone": "0542 157 04 19",
+    "address": "Yıldırım, Kemal Sk., Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "ASYA GRUP GAYRİMENKUL İNŞAAT OTOMOTİV",
+    "phone": "0544 559 24 57",
+    "address": "Yıldırım, Kılıç Sk. 20A, Akyurt",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Ce&is class home gayrimenkul",
+    "phone": null,
+    "address": "Yeşiltepe, Çubuk Cd. No:63, 06750, Akyurt",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "TOPRAK YATIRIM GAYRİMENKUL OTOMOTİV DANIŞMANLIK",
+    "phone": "0507 122 48 47",
+    "address": "Yıldırım, Kaide Sk. No:28, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Karabey Gayrimenkul - İnşaat",
+    "phone": null,
+    "address": "Beyazıt, Nurettin Cankurtaran Cd. No:48, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Kalaba Emlak",
+    "phone": null,
+    "address": "Galaba, Akyurt",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Arşın Emlak",
+    "phone": "(0312) 844 30 60",
+    "address": "Beyazıt, Nurettin Cankurtaran Cd. 40/A, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Deniz Emlak",
+    "phone": null,
+    "address": "Timurhan, Poyraz Sk., Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "CADDE GAYRİMENKUL",
+    "phone": null,
+    "address": "mesire alani, Beyazıt, Dolay Sk., Akyurt",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Ünallar Emlak",
+    "phone": null,
+    "address": "Beyazıt, Saray Sk. No:2/21, Akyurt",
+    "website": null,
+    "rating": 4.5,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Şentürk İnşaat & Emlak",
+    "phone": null,
+    "address": "Yıldırım, Akyurt",
+    "website": null,
+    "rating": 1,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "AKYURT ASYA EMLAK",
+    "phone": "0505 413 66 19",
+    "address": "Yıldırım, Nurettin Cankurtaran Cd. 93-B, Akyurt",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Sefa Macar Emlak",
+    "phone": "(0312) 844 13 33",
+    "address": "Yıldırım, Nurettin Cankurtaran Cd., Akyurt",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Alperen emlak",
+    "phone": null,
+    "address": "Beyazıt, Sultan Sk. No:4, Akyurt",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Demirel Gayrimenkul",
+    "phone": null,
+    "address": "Beyazıt, Nurettin Cankurtaran Cd. No:56, Akyurt",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "ÇINAR GRUP EMLAK GAYRİMENKUL",
+    "phone": "(0312) 844 11 33",
+    "address": "Yıldırım, Nurettin Cankurtaran Cd., Akyurt",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "MK Gayrimenkul",
+    "phone": "0535 712 36 22",
+    "address": "Yıldırım, Meltem Sk. no:1/A, Akyurt",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Asil Emlak",
+    "phone": null,
+    "address": "Beyazıt, Akyurt",
+    "website": "https://asilinsaatemlak.sahibinden.com/",
+    "rating": 4.6,
+    "user_ratings_total": 14
+  },
+  {
+    "name": "KARAHAN EMLAK DANIŞMANLIĞI",
+    "phone": "0540 844 06 06",
+    "address": "Yıldırım, Mezarlık Cd. No:1/A, Akyurt",
+    "website": "https://karahanemlakdanişmanliği.sahibinden.com/",
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Osc Insaat Emlak",
+    "phone": null,
+    "address": "Yıldırım, Nurettin Cankurtaran Cd., Akyurt",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Özdemirler İnşaat & Emlak Ofisi",
+    "phone": null,
+    "address": "Yıldırım, Akyurt",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Elmadag Emlak",
+    "phone": "(0312) 863 42 29",
+    "address": "Yenice, Cumhuriyet Cd. 72/A, Elmadağ",
+    "website": null,
+    "rating": 4.3,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Elmadağ vizyon emlak",
+    "phone": "0533 325 41 18",
+    "address": "Kemalpaşa, Cumhuriyet Cd. 27-1, Elmadağ",
+    "website": "https://elmadagvizyonemlak.sahibinden.com/",
+    "rating": 4,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Özgenler İnşaat Emlak",
+    "phone": "0554 912 61 99",
+    "address": "Kemalpaşa mahallesi altınbaş sokak bilecen apartmanın4-c, Elmadağ",
+    "website": "https://ozgenleremlak.sahibinden.com/",
+    "rating": 3,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Güven Emlak",
+    "phone": "0553 646 29 35",
+    "address": "İsmetpaşa, Arif Çalış Cd. No:48 D:C, Elmadağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "EKOL EMLAK ELMADAĞ",
+    "phone": "(0312) 863 65 66",
+    "address": "İsmetpaşa, Bülent Ecevit Cd. no40/b, Elmadağ",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "EKİCİ GAYRİMENKUL",
+    "phone": "0533 498 82 11",
+    "address": "İsmetpaşa, Bülbül Sk. 27 7, Elmadağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Yagcioglu Emlak",
+    "phone": "(0312) 866 15 66",
+    "address": "Kemalpaşa, Menderes Bulv. Çiğdem Apt. No:165 D:16, Elmadağ",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Prestij Emlak",
+    "phone": null,
+    "address": "Kemalpaşa, Cumhuriyet Cd. No: 42, Elmadağ",
+    "website": null,
+    "rating": 3.7,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "AYDINLAR GAYRİMENKUL",
+    "phone": "0532 275 36 06",
+    "address": "İsmetpaşa, Bülent Ecevit Cd. No:29, Elmadağ",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Tok Yapi Emlak",
+    "phone": null,
+    "address": "İsmetpaşa, Elmadağ",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Elifim Gayrimenkul",
+    "phone": "0532 280 37 99",
+    "address": "İsmetpaşa, Bülent Ecevit Cd. No : 33/5, Elmadağ",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "ME-TA GAYRİMENKUL POLATLI",
+    "phone": "0543 973 16 06",
+    "address": "Cumhuriyet, Adnan Menderes Cd. No:25, Polatlı",
+    "website": "https://metagayrimenkulpolatli.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 238
+  },
+  {
+    "name": "Ş.G GAYRİMENKUL POLATLI",
+    "phone": "0507 596 46 44",
+    "address": "Kurtuluş, Atatürk Cd. No:105/A, Polatlı",
+    "website": "https://sggayrimenkulpolatli.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 158
+  },
+  {
+    "name": "YIKILMAZ GAYRİMENKUL",
+    "phone": null,
+    "address": "Kurtuluş, Atatürk Cd., Polatlı",
+    "website": "https://m.facebook.com/Y%C4%B1k%C4%B1lmaz-gayrimenkul-880246625448921/",
+    "rating": 5,
+    "user_ratings_total": 98
+  },
+  {
+    "name": "UĞURLU EMLAK & İNŞAAT",
+    "phone": "0542 269 02 06",
+    "address": "Cumhuriyet, Selçuk Cd. 34/A, Polatlı",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/ugurlu-gayrimenkul-111966",
+    "rating": 4.8,
+    "user_ratings_total": 103
+  },
+  {
+    "name": "TURYAP Polatlı Temsilciliği",
+    "phone": "(0312) 622 06 42",
+    "address": "Kurtuluş, Atatürk Cd. No: 74, Polatlı",
+    "website": "https://www.instagram.com/polatli_turyap/",
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "HAKTAN EMLAK CUMHURİYET MH MENTESE CD 6A POLATLI",
+    "phone": "0546 286 45 53",
+    "address": "Cumhuriyet, Menteşe Cd. 6a, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "KARAKAYA GAYRİMENKUL DANIŞMANLIĞI",
+    "phone": "0539 924 25 46",
+    "address": "Cumhuriyet, Pazar Sk. No:5, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 31
+  },
+  {
+    "name": "Tasci Emlak",
+    "phone": "(0312) 623 18 65",
+    "address": "Cumhuriyet Mah. Çarşı Cami Dükkanları No:23 Polatlı Ankara",
+    "website": null,
+    "rating": 4.7,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "Esma Gökçe Gayrimenkul Polatlı",
+    "phone": "0543 727 65 17",
+    "address": "Cumhuriyet, Menteşe Cd. 34 /A, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "AN-KA EMLAK GAYRİMENKUL YATIRIM DANIŞMANLIĞI",
+    "phone": "0538 039 12 78",
+    "address": "Cumhuriyet, İnönü Cd. 58/B, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "SÖNMEZ EMLAK",
+    "phone": "0505 330 92 23",
+    "address": "Sönmez emlak battal gazi caddsi 91/A POLATLSÖNMEZ EMLAK BATTAL GAZİ, CAD.91/A POL, 06900, POLATLI",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "TAŞCI YATIRIM EMLAK",
+    "phone": "0535 642 65 45",
+    "address": "Cumhuriyet, Santral Sk. No:9 D:1, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Sezer Sözen | Polatlı Emlak Yatırım Danışmanı",
+    "phone": "0533 358 82 06",
+    "address": "Cumhuriyet, Pazar Sk., Polatlı",
+    "website": "https://www.instagram.com/sezersozen.emlak?igsh=MWU3cTBqbzJmbDAwdg%3D%3D&utm_source=qr",
+    "rating": 5,
+    "user_ratings_total": 11
+  },
+  {
+    "name": "Özbay Gayrimenkul",
+    "phone": "0507 997 42 56",
+    "address": "Cumhuriyet, Sümer Cd. No:7, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Yıldırım Emlak",
+    "phone": "0505 421 36 77",
+    "address": "Kurtuluş, Atatürk Cd. 85/A, Polatlı",
+    "website": "https://yildirimemlakpolatli.sahibinden.com/",
+    "rating": 4.6,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "ANADOLU EMLAK",
+    "phone": "0530 383 06 36",
+    "address": "Emek Apartmanı, Kurtuluş, Atatürk Cd. No:60/1, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Polatlı MyEmlak Gayrimenkul",
+    "phone": "0554 950 40 05",
+    "address": "Kurtuluş, Atatürk Cd. No: 71, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Onur Emlak Gayrimenkul",
+    "phone": "0539 811 07 77",
+    "address": "Cumhuriyet, Necatibey Cd. 20/A, Polatlı",
+    "website": null,
+    "rating": 4.6,
+    "user_ratings_total": 36
+  },
+  {
+    "name": "ÇETİNLER EMLAK",
+    "phone": "0552 706 68 45",
+    "address": "cumhuriyet mahallesi İnönü caddesi 73/b, Cumhuriyet, İnönü Cd. No:73 D:b, Polatlı",
+    "website": null,
+    "rating": 4.2,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "POLATLI KALE EMLAK",
+    "phone": "0555 574 85 85",
+    "address": "Cumhuriyet, Menteşe Cd. NO:36/1, Polatlı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Ayşe Abla Emlak",
+    "phone": "(0312) 623 81 57",
+    "address": "Cumhuriyet, İnönü Cd. 60/B, Polatlı",
+    "website": null,
+    "rating": 1,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Doğan Gayrimenkul Yatırım Danışmanlığı POLATLI ANKARA",
+    "phone": "0533 545 01 88",
+    "address": "Atmaca Apartmanı, Cumhuriyet, Eti Cd. No:19/1, Polatlı",
+    "website": "https://youtube.com/channel/UCUdw-lHhhWlsY_B_KznH6kw",
+    "rating": 4.9,
+    "user_ratings_total": 78
+  },
+  {
+    "name": "GÜVEN EMLAK",
+    "phone": "0542 762 48 15",
+    "address": "Kurtuluş Kurtuluş mahallesi, Atatürk Cd. no:93 A D:1, Polatlı",
+    "website": "http://guvenemlak3.tr.gg/",
+    "rating": 3.5,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Atakan Bala",
+    "phone": "0507 959 53 01",
+    "address": "Cumhuriyet, Peron Sk. NO: 2 D:4, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "YÜKSEL-İŞ EMLAK GAYRİMENKUL",
+    "phone": "0531 513 73 01",
+    "address": "Cumhuriyet, Peron Sk. NO: 2 D:4, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "ALTIN DEĞER GAYRİMENKUL",
+    "phone": "0555 099 06 72",
+    "address": "Cumhuriyet, Pazar Sk. Burak Ap D:4/E, Polatlı",
+    "website": "https://altindegergayrimenkul.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 40
+  },
+  {
+    "name": "Tuğra Emlak",
+    "phone": "0507 997 53 17",
+    "address": "Kurtuluş, Atatürk Cd. No64/1, Polatlı",
+    "website": null,
+    "rating": 2.3,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Polatlı Emlak ! EMLAKCIZADE",
+    "phone": "0542 744 60 65",
+    "address": "Cumhuriyet, Selçuk Cd. No:11, Polatlı",
+    "website": "http://www.emlakcizade.com/",
+    "rating": 4.4,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Ak Gayrimenkul",
+    "phone": "0544 545 29 58",
+    "address": "Kurtuluş, Battal Gazi Cd. No:14 D:2, Polatlı",
+    "website": "https://www.facebook.com/profile.php?id=100077341406974",
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Yusuf Emlak Polatlı",
+    "phone": "0507 735 76 07",
+    "address": "Cumhuriyet mahallesi , Ankara caddesi Dedeoğlu Pasajı, D:33/12, Polatlı",
+    "website": "http://yusufemlakgd.sahibinden.com/",
+    "rating": 4.7,
+    "user_ratings_total": 13
+  },
+  {
+    "name": "Tuna Gayrimenkul",
+    "phone": "0507 925 11 14",
+    "address": "Kurtuluş, Battal Gazi Cd. No:5/1, Polatlı",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 16
+  },
+  {
+    "name": "Rota 06 Gayrimenkul",
+    "phone": "0545 951 71 79",
+    "address": "Kurtuluş, Atatürk Cd. 64b, Polatlı",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Cengiz Emlak Polatlı",
+    "phone": null,
+    "address": "Cumhuriyet, Ankara Cd. No:50, Polatlı",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/cengiz-emlak-61518",
+    "rating": 3,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Atlas Gayrimenkul",
+    "phone": null,
+    "address": "Cumhuriyet, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Kuzey gayrimenkul ofisi",
+    "phone": "(0312) 621 13 13",
+    "address": "Cumhuriyet, Selçuk Cd. No:29, Polatlı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "POLATLI EMLAK",
+    "phone": "(0312) 623 62 52",
+    "address": "Cumhuriyet, Menekşe Cd. 47 C D:1, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Kugu Golu Emlak",
+    "phone": "(0312) 641 65 07",
+    "address": "Eskişehir Yolu 45. Km. No:52",
+    "website": null,
+    "rating": 4.3,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Polzen Gayrimenkul - Polatlı Emlak",
+    "phone": "(0312) 623 18 19",
+    "address": "Cumhuriyet Meydanı Mis İş merkezf, Polatlı",
+    "website": null,
+    "rating": 4.9,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "POLATLI AL EMLAK",
+    "phone": "0532 585 44 63",
+    "address": "Cumhuriyet, Karapınar Cd. NO:7/1, Polatlı",
+    "website": "https://www.hepsiemlak.com/emlak-ofisi/al-emlak-148948",
+    "rating": 5,
+    "user_ratings_total": 7
+  },
+  {
+    "name": "GAYRİMENKUL-EMLAK",
+    "phone": "0532 113 99 92",
+    "address": "Cumhuriyet, Altay Cd. No:13, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Baransel emlak Polatlı",
+    "phone": "0553 135 51 11",
+    "address": "Kurtuluş, Battal Gazi Cd. No:3, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "MK GAYRİMENKUL",
+    "phone": null,
+    "address": "Cumhuriyet, Atatürk Cd. No:94, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Eylül Gayrimenkul",
+    "phone": null,
+    "address": "Cumhuriyet, Adnan Menderes Cd. No:39, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Tuğçem Emlak",
+    "phone": "0530 204 28 30",
+    "address": "Kurtuluş Mah. Atatürk Cad. Tuğçem Emla k 67/C, Polatlı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "GÜVEN EMLAK(HAKAN DALDAL)",
+    "phone": "0542 762 48 15",
+    "address": "Zafer mahallesi nasrettin hoca bulvarı, Polatlı",
+    "website": "https://www.facebook.com/groups/1249665541772416/?ref=br_rs",
+    "rating": 2.7,
+    "user_ratings_total": 9
+  },
+  {
+    "name": "Kiliç Inşaat",
+    "phone": null,
+    "address": "Kurtuluş, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "FEHMİ EMLAK",
+    "phone": "0532 159 24 68",
+    "address": "Cumhuriyet, Altay Cd. 30 / D, Polatlı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Net Gayrimenkul ve Yatırım Danışmanlığı",
+    "phone": "0537 662 96 72",
+    "address": "Kurtuluş, Atatürk Cd. No:129 D:C, Polatlı",
+    "website": null,
+    "rating": 4.5,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Akın - Emlak",
+    "phone": "0541 234 56 78",
+    "address": "Cumhuriyet, Polatlı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Bağır İnşaat & Emlak",
+    "phone": "0554 977 27 37",
+    "address": "Kurtuluş, Battal Gazi Cd. No:18 D:1, Polatlı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "BEYAZ EMLAK",
+    "phone": "(0312) 623 53 02",
+    "address": "Cumhuriyet, Sivrihisar Cd. 33 E, Polatlı",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "MURAT EMLAK",
+    "phone": null,
+    "address": "Cumhuriyet, Menteşe Cd. No:8, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "SÜPERNOKTAM POLATLI",
+    "phone": "0553 566 64 68",
+    "address": "Cumhuriyet, Altay Cd. No:31/B, Polatlı",
+    "website": "http://www.supernoktam.com.tr/",
+    "rating": 5,
+    "user_ratings_total": 12
+  },
+  {
+    "name": "Tamer",
+    "phone": null,
+    "address": "Kurtuluş, Battal Gazi Cd. No:56, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "Nazar Emlak",
+    "phone": null,
+    "address": "Zafer, Yavuz Selim Cd. No:82, Polatlı",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Sabanci İnşaat & Emlak",
+    "phone": null,
+    "address": "Fatih, Gordion Cd. No:105, Polatlı",
+    "website": "https://sabanciinsaatemlakotomotiv.sahibinden.com/",
+    "rating": 4,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Başak Emlak",
+    "phone": "0505 517 21 62",
+    "address": "Kurtuluş, Battal Gazi Cd. No:14 D:2, Polatlı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Tan Real Estate",
+    "phone": "(0312) 621 07 27",
+    "address": "Cumhuriyet, Altay Cd. 37/A, Polatlı",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "AKKAYA Emlak",
+    "phone": "0539 689 80 44",
+    "address": "Cumhuriyet, Atatürk Cd. Çarşı Cami Pasajı D:19/4, Polatlı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Dost Emlak Gayrimenkul",
+    "phone": "0532 726 53 32",
+    "address": "Cumhuriyet, Necatibey Cd. 22/1, Polatlı",
+    "website": "http://dostemlakpolatli.sahibinden.com/",
+    "rating": 4.3,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Beypazarı Huzur Emlak",
+    "phone": "0542 391 66 28",
+    "address": "Kurtuluş, Uzun Sk. no:2/4, Beypazarı",
+    "website": null,
+    "rating": 4.4,
+    "user_ratings_total": 27
+  },
+  {
+    "name": "İPEKYOLU GAYRİMENKUL VE YATIRIM DANIŞMANLIĞI",
+    "phone": "0545 772 41 45",
+    "address": "Hacıkara, Şht. Ümit Bölükoğlu Cd. NO:21/B, Beypazarı",
+    "website": "https://www.ipekyolugayrimenkul.com/",
+    "rating": 5,
+    "user_ratings_total": 15
+  },
+  {
+    "name": "Genç emlak otomotiv",
+    "phone": "0544 500 02 02",
+    "address": "Kurtuluş mahallesi, Alparslan Türkeş Blv. no:170, Beypazarı",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 8
+  },
+  {
+    "name": "EMLAKCIM GAYRİMENKUL",
+    "phone": "0530 977 81 01",
+    "address": "Beytepe, İrfan Gümüşel Cd NO:59/22, Beypazarı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Hanzade Gayrimenkul & Otomotiv",
+    "phone": "0542 470 13 97",
+    "address": "Beytepe, Ahmet Levent Öztop Sk. İsmet Bilgiç İş Hanı No:58, Beypazarı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Çağdaş Gayrimenkul",
+    "phone": "0501 369 69 73",
+    "address": "Başağaç, Ülkü Sk. No:1 A 45, Beypazarı",
+    "website": "https://www.cagdasgayrimenkul.com.tr/",
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Beyzade Yapi Satiş Ofisi",
+    "phone": null,
+    "address": "Hacıkara, Fatih Cd., Beypazarı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Aksoy Otomotıv Emlak",
+    "phone": null,
+    "address": "Kurtuluş, Beypazarı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Şahin Gayrimenkul",
+    "phone": null,
+    "address": "Kurtuluş, Milli Egemenlik Cd. No:145, Beypazarı",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "BERAT EMLAK (SATILMIŞ ODACI)",
+    "phone": "0533 727 98 55",
+    "address": "SEYRAN MAHALLESİ ANKARA CADDESİ KIZILAY İŞ HANI KAT:1 NO:5, Haymana",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Bölge Emlak",
+    "phone": "0532 600 64 07",
+    "address": "Bölge Emlak, Seyran, Ankara Cd. No:80, Haymana",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "TALAT GAYRİMENKUL",
+    "phone": "0532 512 98 89",
+    "address": "ÇELEBİ LİFE SİTESİ, Yeni Mahalle Bünyamin Adacı Caddesi No:74AD, Haymana",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Özkan Gayrimenkul Emlak HAYMANA",
+    "phone": "0532 471 98 62",
+    "address": "Ankara/Haymana Ankara cad. Karalar park evleri, Haymana",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Satilik Devremülk",
+    "phone": null,
+    "address": "Seyran, Gölbaşı Haymana Yolu No:2, Haymana",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Yusuf Emlak Kızılcahamam",
+    "phone": "0546 723 93 55",
+    "address": "bal apartmanı Yusuf emlak, Yenice, Deli İmam Cd. no:10, Kızılcahamam",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 24
+  },
+  {
+    "name": "AKBAŞLAR EMLAK & İNŞAAT GAYRİMENKUL",
+    "phone": "0533 422 62 73",
+    "address": "Akçay, Gençlik Cd. No:1, Kızılcahamam",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 14
+  },
+  {
+    "name": "ÇELİK EMLAK KIZILCAHAMAM",
+    "phone": "(0312) 736 50 50",
+    "address": "Yenice, Kazım Karabekir Cd., Kızılcahamam",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 17
+  },
+  {
+    "name": "SEFA EMLAK",
+    "phone": "0536 836 50 88",
+    "address": "Akçay, Cengiz Topel Cd. No:6 D:b, Kızılcahamam",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Emin Emlak Kızılcahamam Gayrimenkul Daire Arsa",
+    "phone": "0505 838 72 21",
+    "address": "Yenice, Kazım Karabekir Cd., Kızılcahamam",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Kizilcahamam Emlak",
+    "phone": null,
+    "address": "Yenice, Kızılcahamam",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "ŞEREFLİKOÇHİSAR YİĞİT EMLAK",
+    "phone": "0505 288 45 00",
+    "address": "Bilal BOZYİĞİT, Yeni, Mescit Sk. No:13/B, Şereflikoçhisar",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 10
+  },
+  {
+    "name": "Öz&Er Inraat Emlak",
+    "phone": null,
+    "address": "Hacıenbiya, Şereflikoçhisar",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Doğan Emlak",
+    "phone": null,
+    "address": "Ekici, Şereflikoçhisar",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Fadıllıoğlu emlak, gayrimenkul, inşaat",
+    "phone": "0531 945 19 82",
+    "address": "Ekici, Kaymakam Sk. NO:5 C Ş, Şereflikoçhisar",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Çözüm emlak",
+    "phone": null,
+    "address": "Sarıkaya, Ankara Cd. No:181, Şereflikoçhisar",
+    "website": null,
+    "rating": 1,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Ak Yapi Inşaat Emlak",
+    "phone": null,
+    "address": "Ekici, Zafer Okulu Cd. No:6, Şereflikoçhisar",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Lider Emlak",
+    "phone": null,
+    "address": "Hacıenbiya, Aziz Hamdi Hüdai Blv., Şereflikoçhisar",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Ycl İnşaat Gayrimenkul",
+    "phone": null,
+    "address": "Ekici, Kaymakam Sk. No:9, Şereflikoçhisar",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Parlak Emlak",
+    "phone": null,
+    "address": "Yeni, Tayanç Sk., Şereflikoçhisar",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": ".",
+    "phone": null,
+    "address": "Hacıenbiya, 06310, Şereflikoçhisar",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "NALLIHAN EMLAK GAYRİMENKUL DANIŞMANLIĞI",
+    "phone": "0543 785 50 85",
+    "address": "Aliağa, Çınar Sk. No:2, Nallıhan",
+    "website": null,
+    "rating": 3.7,
+    "user_ratings_total": 6
+  },
+  {
+    "name": "Çekirdek Emlak Ve Harita",
+    "phone": null,
+    "address": "Ahikemal Şenyurt, İstasyon Cd. No:43, Kalecik",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Özkan Emlak Çubuk",
+    "phone": "0506 992 96 19",
+    "address": "Yavuz Selim Mahallesi Hükümet Caddesi, Sümbül Sk. No:15, Çubuk",
+    "website": "https://ozkanemlakcubuk.sahibinden.com/",
+    "rating": 4.8,
+    "user_ratings_total": 57
+  },
+  {
+    "name": "SAĞLAM EMLAK",
+    "phone": "0506 805 85 20",
+    "address": "Atatürk, Leylak Sk. NO:2/32, Çubuk",
+    "website": "http://saglamemlakcubuk.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 67
+  },
+  {
+    "name": "Hidayetoğulları Emlak",
+    "phone": "(0312) 837 14 53",
+    "address": "Yavuzselim, Hükümet Cd. No:7/2, Çubuk",
+    "website": "https://www.hidayetogullari.com.tr/",
+    "rating": 4.9,
+    "user_ratings_total": 39
+  },
+  {
+    "name": "EMLAKSER SERDARLAR GRUP ÇUBUK",
+    "phone": "0532 769 54 21",
+    "address": "Cumhuriyet, Gedik Sk., Çubuk",
+    "website": "https://emlakser.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 28
+  },
+  {
+    "name": "YAVUZ HANEFİOĞLU GAYRİMENKUL İNSAAT EMLAK /",
+    "phone": "0554 618 99 21",
+    "address": "Yıldırım Beyazıt, Ankara Blv. NO:63/B, Çubuk",
+    "website": "https://hanefioglugayrimenkul.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 96
+  },
+  {
+    "name": "KUZUCU İLETİŞİM EMLAK",
+    "phone": "(0312) 837 20 72",
+    "address": "Cumhuriyet, Atatürk Cd. 58c, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "AY PARS GAYRİMENKUL",
+    "phone": "0532 478 68 15",
+    "address": "Atatürk, Leylak Sk. 1/E, Çubuk",
+    "website": null,
+    "rating": 4.8,
+    "user_ratings_total": 18
+  },
+  {
+    "name": "Alparslan Emlak",
+    "phone": "0530 333 12 34",
+    "address": "Yıldırım Beyazıt, İzzet Begoviç Cd. 64a, Çubuk",
+    "website": "http://alparlsanemlak.com/",
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "PEHLİVANLAR GRUP GAYRİMENKUL",
+    "phone": "0507 753 30 52",
+    "address": "Yavuzselim, Park Caddesi No:4/A, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "HANEFİOĞLU A.Ş",
+    "phone": "0536 257 77 78",
+    "address": "Yıldırım Beyazıt, Ankara Blv. No:65, Çubuk",
+    "website": "https://www.hanefiogluas.com/",
+    "rating": 3.7,
+    "user_ratings_total": 9
+  },
+  {
+    "name": "ASMA EMLAK",
+    "phone": "0534 516 23 01",
+    "address": "Cumhuriyet, Cengiz Topel Cd. 27/A, Çubuk",
+    "website": "https://asmaemlak.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 70
+  },
+  {
+    "name": "GAYRİMENKUL ÇUBUK",
+    "phone": "0532 135 57 79",
+    "address": "Atatürk, Leylak Sk. NO2, Çubuk",
+    "website": "https://shbd.io/s/7duIIFdo",
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "ANKARA MRC GAYRİMENKUL İNŞAAT",
+    "phone": "0553 280 63 06",
+    "address": "Ankara Çubuk Ticaret Merkezi, Atatürk, kat:2 no:14, Çubuk",
+    "website": "http://mrcgayrimenkul.com/?fbclid=PAQ0xDSwLVJ3pleHRuA2FlbQIxMQABp39mnNBYGK0KJEeuGC0Vks3lCpmyQfTMArKA7028dsrFbDoByRWFfZ9GZM7x_aem_foeA6JAI2dQoAIVSfnmYaA",
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Gökkușağı Gayri̇menkul",
+    "phone": null,
+    "address": "Yıldırım Beyazıt, Ankara Blv. No:99, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "ŞİMŞEK REAL ESTATE",
+    "phone": "0507 396 78 61",
+    "address": "Cumhuriyet, Ankara Blv. No:30/B, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "YILMAZ EMLAK",
+    "phone": "0536 273 82 14",
+    "address": "Cumhuriyet, Başak Sk. No:9, Çubuk",
+    "website": "https://yilmazinsaatemlak06.sahibinden.com/",
+    "rating": 4.7,
+    "user_ratings_total": 14
+  },
+  {
+    "name": "Alkan Emlak",
+    "phone": "0543 968 37 68",
+    "address": "Cumhuriyet, Kıbrıs Cd., Çubuk",
+    "website": null,
+    "rating": 4,
+    "user_ratings_total": 4
+  },
+  {
+    "name": "Burak Emlak ve Otomotiv",
+    "phone": "0532 723 88 82",
+    "address": "Cumhuriyet, Stad Cd. 80/A, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "ÖZGÜN EMLAK ÇUBUK ESENBOĞA",
+    "phone": "0532 320 95 96",
+    "address": "Cumhuriyet, Çubuk",
+    "website": "https://www.facebook.com/pages/%C3%96zg%C3%BCn-Emlak-%C3%87ubuk-Esenbo%C4%9Fa/405993582753124?ref=bookmarks",
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Uluağaçlı inşaat emlak",
+    "phone": "0530 112 46 66",
+    "address": "Yavuzselim, Park caddesi 4/C, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Cihan Emlak ve Gayrimenkul Danışmanlığı",
+    "phone": "0532 062 52 40",
+    "address": "Yavuzselim, Hükümet Cd. No: 62/A, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Kayahan Emlak",
+    "phone": "(0312) 837 99 97",
+    "address": "Yavuzselim, Hükümet Cd. No:4 D:3, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "TEKİN İNŞAAT & EMLAK",
+    "phone": "0536 854 84 06",
+    "address": "Yavuzselim, Çağdaş Sk. No:3\\A, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 5
+  },
+  {
+    "name": "Öz Mert Emlak",
+    "phone": "0507 257 72 94",
+    "address": "Yavuzselim, Selimiye Sokağı No:15/A, Çubuk",
+    "website": "https://www.cubukemlak.com/detail-58-oz-mert-emlak.html",
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Hanefioğlu",
+    "phone": "0532 790 98 27",
+    "address": "Yıldırım Beyazıt, Beher Sk. 22 Taksim D:a, Çubuk",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "SELİM HANEFİOĞLU İNŞAAT EMLAK",
+    "phone": "0531 822 39 16",
+    "address": "Yıldırım Beyazıt, Ankara Blv. 27/A, Çubuk",
+    "website": "https://selimhanefiogluinsaatemlak.sahibinden.com/",
+    "rating": 4.9,
+    "user_ratings_total": 39
+  },
+  {
+    "name": "BEYOĞLU DEKORASYON İNŞAAT EMLAK",
+    "phone": "(0312) 837 00 25",
+    "address": "Cumhuriyet, Filiz Sk. 12/A, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Ahenk Emlak",
+    "phone": "(0312) 837 32 32",
+    "address": "No:104/A Hükümet Caddesi Yavuz Selim Mah, Yavuzselim, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Aslan İnşaat Gayrimenkul",
+    "phone": "0537 253 58 89",
+    "address": "Cumhuriyet, Sami Efendi Sk. 12/A, Çubuk",
+    "website": null,
+    "rating": 4.4,
+    "user_ratings_total": 11
+  },
+  {
+    "name": "EMLAK BORSASI",
+    "phone": null,
+    "address": "Cumhuriyet, Mehmet Akif Ersoy Cd. 92/A, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Express Emlak Çubuk",
+    "phone": "0507 174 39 03",
+    "address": "Cumhuriyet, Cengiz Topel Cd. No:23 D:B, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "KARDELEN EMLAK",
+    "phone": "0532 768 38 02",
+    "address": "Cumhuriyet, Mesaj Sk. NO : 14/A KAPI NO: 3, Çubuk",
+    "website": "https://kardelenemlak06.sahibinden.com/",
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "OSMAN GÜLCAN EMLAK & OTOMOTİV",
+    "phone": "0538 713 37 35",
+    "address": "Atatürk, Adnan Mendere Blv. NO: 20/B, Çubuk",
+    "website": "https://osmangulcangayrimenkul.sahibinden.com/",
+    "rating": 4.3,
+    "user_ratings_total": 3
+  },
+  {
+    "name": "Türkoğlu Emlak",
+    "phone": "0552 401 23 08",
+    "address": "Yavuzselim, Çağdaş Sk. No: 3/B, Çubuk",
+    "website": "https://turkogluemlak.sahibinden.com/",
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "RAVZA EMLAK",
+    "phone": "0531 279 80 80",
+    "address": "Cumhuriyet, Santral Sk. No:19 D:C, Çubuk",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Ünallar Emlak İnşaat",
+    "phone": "0532 728 12 26",
+    "address": "Yıldırım Beyazıt, Defne Sokağı, Çubuk",
+    "website": null,
+    "rating": 3,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Erhan Emlak",
+    "phone": "(0312) 837 43 13",
+    "address": "Yavuzselim, Selimiye Sok. 4/A, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Çubuk Toprak Emlak",
+    "phone": "(0312) 838 14 04",
+    "address": "Yıldırım Beyazıt, Ankara Blv. No:27, Çubuk",
+    "website": null,
+    "rating": 1,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "FATİH YILMAZ EMLAK",
+    "phone": "0532 063 53 06",
+    "address": "Cumhuriyet, Başak Sk. 24 B, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "MyElit Emlak",
+    "phone": null,
+    "address": "Cumhuriyet, Stad Cd. 22/a, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Ayanoğlu Grup Gayrimenkul",
+    "phone": "0555 700 50 99",
+    "address": "Yavuzselim, Hükümet Cd. 8 / C, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Volkan Sariyildiz 2 Emlak",
+    "phone": null,
+    "address": "Yıldırım Beyazıt, Beher Sk., Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Unallar Emlak",
+    "phone": "(0312) 837 38 48",
+    "address": "Yavuz Sultan Selim Mahallesi Hükümet Caddesi Karanfil Sokak No:2/a",
+    "website": null,
+    "rating": 4.1,
+    "user_ratings_total": 20
+  },
+  {
+    "name": "Gunay Emlak",
+    "phone": "(0312) 837 74 07",
+    "address": "Cumhuriyet, Deva Sk. 14/B, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "GÜVENAL EMLAK",
+    "phone": "0554 667 12 70",
+    "address": "YAvuz selim mah. Hükümet Cad. O:62/B, Yavuzselim, Hükümet Cd. no:62/B, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Gold Gayrimenkul",
+    "phone": "0532 283 78 19",
+    "address": "Yavuzselim, Belediye İşhanı Kat:1, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Serdar İnşaat & Gayrimenkul",
+    "phone": "0553 380 06 06",
+    "address": "Yavuzselim, Hükümet Cd. No:59, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "AYDOĞMUŞ EMLAK TRAKTÖR OTO GALERİ",
+    "phone": "0534 694 54 26",
+    "address": "Yıldırım Beyazıt, Beher Sk. 14/A, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "BAŞKENT GRUP GAYRİMENKUL",
+    "phone": "0554 509 32 04",
+    "address": "Yavuzselim, P.T.T. Cd No:38/A, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "LEVEL EMLAK",
+    "phone": null,
+    "address": "Cumhuriyet, Kıbrıs Cd. NO:58/B, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Yılmaz gayrimenkul inşaat",
+    "phone": "0531 646 44 97",
+    "address": "Yavuz selim mahallesi duru sokak, Yavuzselim, belediye işhanı 2/G, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Çubuk Bal Emlak",
+    "phone": "0534 818 50 59",
+    "address": "Yavuzselim, Hükümet Cd. 13/B, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "AYDOĞDU EMLAK",
+    "phone": "(0312) 837 85 88",
+    "address": "NO:12/A, Yavuz Sultan Selim Cd, Çubuk",
+    "website": "http://aydogduemlak.sahibinden.com/",
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "ÖZAR Grup İnşaat & Emlak",
+    "phone": "0541 640 77 44",
+    "address": "Yavuzselim, P.T.T. Cd 56/A, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Mutlu İnşaat & Emlak",
+    "phone": null,
+    "address": "Cumhuriyet, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "Birlik Emlak",
+    "phone": "(0312) 838 29 31",
+    "address": "Atatürk, Adnan Menderes Bulv. No:4/C, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "MERCAN İNŞAAT & EMLAK - MUSTAFA MERCAN",
+    "phone": "0534 696 78 43",
+    "address": "Yavuzselim, Hükümet Cd. No:22 D:3, Çubuk",
+    "website": "https://instagram.com/mercan__insaat?igshid=19xsq2vwmbp2c",
+    "rating": 5,
+    "user_ratings_total": 2
+  },
+  {
+    "name": "Ay Yıldız Gayrimenkul",
+    "phone": "0532 478 68 15",
+    "address": "Atatürk, Gazali Sk., Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "emlakrevizyon",
+    "phone": "0532 694 64 42",
+    "address": "Yavuzselim, P.T.T. Cd No:12/B, Çubuk",
+    "website": null,
+    "rating": null,
+    "user_ratings_total": null
+  },
+  {
+    "name": "BULVAR GAYRİMENKUL",
+    "phone": null,
+    "address": "Cumhuriyet, Arı Sk. No:3 D:c, Çubuk",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  },
+  {
+    "name": "Uğurçayırı-imar",
+    "phone": null,
+    "address": "Uğurçayırı, Egemen Sk. 26PQ+2X, Ayaş",
+    "website": null,
+    "rating": 5,
+    "user_ratings_total": 1
+  }
+]

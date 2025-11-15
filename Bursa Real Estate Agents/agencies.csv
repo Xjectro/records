@@ -1,0 +1,626 @@
+name,phone,address,website,rating,user_ratings_total
+"Bursa Çağdaş Emlak","(0224) 226 00 44","29/A Akarsu Apt, Yahşibey, 2. Murat Sk., Osmangazi̇","http://www.bursacagdasemlak.com/",5,64
+"Pindoli Gayrimenkul","0850 317 7017","Millet, Derya Cd. No: 14 D:1 A, Yıldırım","",4.9,10
+"Baris Emlak","(0224) 328 48 56","Karaağaç, İpekçilik Cd. 31/1, Yıldırım","http://www.bursabarisemlak.com/",4.9,75
+"Hakim Emlak Ofisi","0534 243 20 35","Maksen Mahallesi, Çinkolu Kahve Sk. Öztürk Apt D:1, Osmangazi/Osmangazi̇","",5,1
+"Fatoş Emlak Ofisi","(0224) 234 71 10","Kükürtlü Mahallesi Karagöz Caddesi, Kükürtlü, İşcan 1 Ap No:17, Osmangazi̇","",5,1
+"Nidam Emlak","0543 810 41 21","Yeşil, Emirsultan Cd. No:25 D:B, Yıldırım","",4.9,11
+"Uğur Yılmaz Emlak","(0224) 221 15 73","Altıparmak, 2. Anadolu Sk. Havuz Ap No: 4/C, Osmangazi̇","http://www.uyturizm.com.tr/",4.9,12
+"Bursa Mutlu Emlak","(0224) 234 75 75","Çeyiz, Kükürtlü, 5. Çeyiz Sk. D:Apartmanı 2/A, Osmangazi̇","",4.6,14
+"3Dörtgen Emlak Gayrimenkul Danişmanligi","0555 064 87 67","Çırpan, 1. Fırın Sk. no:15A, Osmangazi̇","",5,1
+"Kosif Emlak Gayrimenkul Danışmanlığı","0530 873 46 65","Hocaalizade, Konakardı Sk. Petek İşhanı No: 3 Giriş kat, Ofis No: 8, Osmangazi̇","",5,13
+"Gurcan Emlak","(0224) 223 30 77","İbrahimpaşa, Gökdere Cd. No:2, Osmangazi̇","http://www.gurcanemlak.com/",4,36
+"A1 Emlak Ofisi","0531 906 76 24","Hocahasan, Değirmen Cd. No:14, Osmangazi̇","",4,1
+"İnko Gayrimenkul Danışmanlık Hizmetleri","(0224) 223 30 23","Doğanbey Mah Doğanbey Toki Konutları Burçin 3 İş Hanı, Osmangazi̇","https://inkoemlak.sahibinden.com/",4.9,14
+"HANOĞULLARI EMLAK OTO","0536 515 87 45","152 Evler, Eğitim Cd. 20/A, Yıldırım","",4,3
+"BURSAM EMLAK","(0224) 225 26 47","KAYHAN MAHALLESİ ATATÜRK CADDESİ Kayhan mh Sönmez İŞ SARAYI K:4 D:413 Kayhan mh Sönmez İŞ SARAYI K:4 D:413 Kayhan mh Sönmez İŞ SARAYI K:4, D:413, Osmangazi̇","http://www.bursamemlak.com/",4.5,12
+"BURAK YAPI EMLAK","0542 304 04 97","152 Evler, 1. Ferah Sk. No:5, Yıldırım","",5,1
+"Mert emlak dekorasyon","0532 412 19 96","Hacı İlyas, 3. Dinç Sk. No:25, Osmangazi̇","",5,3
+"Dere Emlak","0544 402 79 82","Uzunoğlu Apt, Namazgah, Çelebi Mehmet Blv. D:4C, Yıldırım","http://dereemlak.sahibinden.com/",5,1
+"Ergüç Emlak","(0224) 220 10 16","Namazgah, Işıklar Cd. No:17, Yıldırım","",4.7,12
+"Yaşar Emlak","0532 696 44 97","Davutkadı, Teyyareci Mehmet Ali Cd. No:8, Yıldırım","",5,3
+"BİLGİN EMLAK","0532 728 17 45","SETBAŞI, Namazgah Cd. No:15, Yıldırım","",4.3,18
+"DEVA EMLAK","0532 266 29 94","Millet, Cengizhan Cd., Yıldırım","https://devaemlakk.sahibinden.com/",3.3,3
+"cengizoğlu emlak","0533 687 05 92","Ortabağlar, Prof. Tezok Cd. no 123 b, Yıldırım","",2.7,26
+"Şef Emlak Ofisi","(0224) 369 18 52","Ertuğrulgazi, Selçuk Bey Cd. No:26, Yıldırım","http://sefgayrimenkul.sahibinden.com/",4.4,5
+"Saygılı Gayrimenkul","0534 600 22 22","Millet, Gardenya Sk. No:11/A, Yıldırım","",4.7,21
+"Bursa Acar Emlak","0543 955 76 77","Yıldırım, Barutluk Cd. No:12/2, Yıldırım","http://bursaacaremlak.com/",4,3
+"Reis Emlak","0538 023 55 12","Yeşil, Çelebi Mehmet Blv. No:25/B, Yıldırım","https://reisinsaatemlak.sahibinden.com/",4.8,15
+"Soğanli Emlak","0538 287 25 01","Soğanlı, Nilüfer Cd. No:119, Osmangazi̇","",3.5,2
+"Galeri Emlak","0532 324 81 77","Muradiye, Prf. Dr. Halil İnalcık Sk. No:14, Osmangazi̇","",3,2
+"Nalbantoğlu Emlak","0535 340 63 27","Nalbantoğlu Mahallesi Ressam Şefik Bursalı cad, Nalbantoğlu, Taşkapı Sk. No:24/A, Osmangazi̇","",3.7,3
+"TURYAP BURSA CİTY","(0224) 232 02 07","Kükürtlü, Oulu Cd. Oylum Sitesi A Blok D:6, Osmangazi̇","http://www.turyap.com.tr/bursacity",4.3,23
+"İKİZCE EMLAK","0553 704 36 36","Küplüpınar, 3. Vatan Cd. No:24 A, Osmangazi̇","https://www.ikizceemlak.com/",5,1
+"Erdinç Emlak","(0224) 221 47 72","No:, Demirtaşpaşa, Abdal Cd. No:60, Osmangazi̇","https://erdincemlak.sahibinden.com/",4.7,3
+"ÇINAR EMLAK","0532 736 66 40","Selimiye, 2. Kutu Sk. No:4, Osmangazi̇","http://www.cinaremlak.com.tr/",5,2
+"Bursa Ulusal Emlak","0532 586 60 50","Çekirge, Mustafa Sk. No:39, Osmangazi̇","",4,5
+"Setbaşı Emlak","0507 447 55 16","Kayıhan, Ünlü Cd. no:29, Osmangazi̇","https://setbasiemlak.sahibinden.com/",4.5,14
+"Artıbir Emlak Gayrimenkul","0532 615 16 55","Namazgah, Çelebi Mehmet Blv. 14/C, Yıldırım","",4,8
+"Kaçmaz Emlak Bursa Osmangazi Temsilciliği","0542 263 47 85","Demirtaşpaşa Mah İnönü Cad. No:113 Yuvam İşhanı Kat:4 D:410, Osmangazi̇","https://www.kacmazemlak.com/bursa-osmangazi",4.5,11
+"BURSA TREND YAPI GAYRİMENKUL","0542 717 74 77","BURSA TRENDYAPI GAYRİMENKUL, Demirtaşpaşa, 2. Kocayunus Sk. No:19/A, Osmangazi̇","http://www.bursatrendyapigayrimenkul.com/",4.3,12
+"EMLAKÇILAR","0532 501 23 45","Kurtoğlu, 1. Yeşil Cd. No:18, Yıldırım","http://www.emlakcilar.tr/",5,11
+"Fetih emlak","0543 516 46 88","Kavaklı, 2. Kavaklı Cd. No:34/A, Osmangazi̇","http://www.fetihemlak.com/",5,2
+"Örsan Emlak Ofisi","","Çekirge, Çekirge Cd. No:95, Osmangazi̇","https://orsanemlakofisi.sahibinden.com/",5,1
+"Akser Emlak - Gayrimenkul & Proje Danışmanlık","(0224) 233 61 61","Kükürtlü, Kükürtlü Cd. TANER APT No:54, Osmangazi̇","",5,2
+"Tarkan Emlak","(0224) 223 00 15","Şehabettinpaşa, Bursalı Tahir Cd. No: 51, Osmangazi̇","",2.8,4
+"Olay Emlak","(0224) 253 91 99","Gazyılar Mah., 11. Ata Sk. Petek Bozkaya İşhanı 102/c, Osmangazi̇","http://www.olayemlak.com/",2.5,6
+"Bursa Emlak 24","0544 800 85 44","Emek Adnan Menderes, Osmangazi","",5,2
+"Morina Emlak Gayrimenkul","0533 913 16 00","Elmasbahçeler, 3. Yüksel Sk. no:47, Osmangazi̇","https://morinagayrimenkul.sahibinden.com/",4,4
+"Asamer Emlak Tapu Müşavirliği","0533 361 85 11","Beyazıt, Taraklı Sk. 3B, Yıldırım","",5,2
+"Yılmaz Emlak Ofisi","0537 763 14 68","Hacıseyfettin Mah., İncirli Cd., Yıldırım","",5,1
+"Gayrimenkul Emlak","(0224) 265 12 79","Demirtaşpaşa, 2. Sabunevi Sk. No:52, Osmangazi̇","",5,2
+"Nisanur Emlak Gayrimenkul Yatırım Danışmanlığı","0532 250 50 50","Hocahasan, Kanarbaşı Sk., Osmangazi̇","",3.5,15
+"Gaye Emlak","(0224) 230 00 00","Kükürtlü, Belde Cd. No:40, Osmangazi̇","https://bursagayeemlak.sahibinden.com/",5,1
+"Çağ Emlak","(0224) 225 52 27","Tahtakale, Maksem Cd. No:93, Osmangazi̇","http://www.cagemlak.com/",4.6,9
+"BURSA TOPRAK EMLAK GAYRİMENKUL","0532 120 14 23","Hacı İlyas, 4. Aral Sk. no 27, Osmangazi̇","",5,2
+"Royal Emlak","0552 577 17 41","Ahmetpaşa, Fevzi Çakmak Cd. No:69, Osmangazi̇","https://www.royal-emlak.com/","",""
+"Altan Emlak","(0224) 224 07 21","ALTAN EMLAK, Ulu, Takunyacılar Sk. NO:13/A, Osmangazi̇","",3,2
+"Esin Emlak","(0224) 254 00 22","Hocahasan, 2. İçli Sk. No:4 D:B, Osmangazi̇","https://esinesen.sahibinden.com/",5,2
+"Yeşil Cadde Emlak","(0224) 327 33 44","Kurtoğlu, Karşı Sk. 3 A, Yıldırım","","",""
+"Gölyazı Emlak Gayrimenkul","0532 579 47 84","Yahşibey Mah Altıparmak Cad., Çıkıntı Sokak Altıparmak Sitesi 6/B D:C Blok, Osmangazi̇","",4.8,5
+"Gedikli Emlak","","Millet, 8. Ova Sk., Yıldırım","",5,2
+"Alay Emlak Ofisi","0505 349 92 10","Güllük, Girne Cd. No:33/A, Yıldırım","",5,10
+"YAZGAN EMLAK","","Siteler, Selçuk Bey Cd. 144/A, Yıldırım","",4.6,14
+"Aladan emlak","0545 854 96 76","Millet, 8. Ova Sk. 42C, Yıldırım","",5,11
+"el alemiy emlak","","Millet, 8. Ova Sk. No:42, Yıldırım","",5,1
+"Mesken Emlak","(0224) 369 33 88","Selçukbey, Selçuk Bey Cd. No:45, Yıldırım","",4.4,12
+"Oguz Real Estate","(0224) 366 48 03","Ertuğrulgazi, Selçuk Bey Cd. No:108, Yıldırım","https://oguzemlakbursa.sahibinden.com/",5,2
+"Tez-El Emlak İnşaat","(0224) 367 13 36","Çınarönü, Çınarönü Cd. No:21, Yıldırım","",5,1
+"Uygun Emlak","0532 481 38 24","Selçukbey, Selçuk Bey Cd. 91/A, Yıldırım","",5,2
+"DENİZCAN Gayrimenkul & İnşaat ve Yatırım Danışmanlığı","0506 160 64 64","Yenidoğan, Yankı Sk. no:3/a, Gürsu","https://denizcangayrimenkulbursa.sahibinden.com/",5,16
+"Abdullah İlbaş İnşaat Emlak","0553 670 15 90","Bağlaraltı, Kaptan Gazi Cd. No:109 D:B, Yıldırım","",5,1
+"Dermu İnşaat & Gayrimenkul","0532 682 31 09","Değirmenönü Cumalıkızık Cd, Değirmenönü, 4. Güler Sk. No:2 D:B, Yıldırım","https://dermuemlakinsaat.sahibinden.com/",5,6
+"DİNÇ EMLAK","0538 209 67 48","Bağlaraltı, KAPLANGAZİ CADDESİ NO:109/B, Yıldırım","",5,3
+"Bursa Kral Emlak","0533 362 52 44","Esenevler, Erdoğan Cd. 5a, Yıldırım","https://bursakralemlak.sahibinden.com/",4.3,4
+"HANCI EMLAK OFİSİ","(0224) 367 92 69","Siteler, Selçuk Bey Cd. No:122, Yıldırım","https://hanciemlakbursa.sahibinden.com/",4.3,6
+"Yusuf Gayrimenkul","0541 422 20 56","Millet, Durmaz Sk. 8/D, Yıldırım","",3.9,10
+"BAĞIROĞLU EMLAK İNŞAAT","0507 245 25 18","Çınarönü, Çınarönü Cd. No/48 D:1A, Yıldırım","","",""
+"Pusula Gayrimenkul","0532 501 23 37","Mimarsinan, Mevlana Cd. No:30, Yıldırım","",4.7,3
+"SÖYLEMEZ EMLAK GAYRİMENKUL","0545 433 32 11","75. Yıl, MAHALESİ KAPLAN GAZİ CADDESİ 82/A, Yıldırım","",4,5
+"Kaçmaz emlak Maltepe temsilciliği","0540 066 10 16","Maltepe, Pekdağ Sk. no :18, Yıldırım","","",""
+"TEKİN EMLAK","0537 270 08 66","Selçukbey Selçuk Bey Caddesi No:69 D:A, Yıldırım","http://www.bursatekinemlak.com/",5,4
+"Güven Rentacar Emlak","0507 826 43 16","Duaçınarı, Uzun Cd. no:1/4, Yıldırım","","",""
+"Örnek Emlak","0532 254 58 18","Beyazıt Mh., Kasım Önadım Blv. 13/B, Yıldırım","",4.3,6
+"UĞUR EMLAK GAYRİMENKUL","0532 396 46 98","Siteler, Selçuk Bey Cd. NO: 140, Yıldırım","",3,2
+"Sertur İnşaat & Emlak","(0224) 331 94 70","Değirmenönü, 3. Doğru Sk. No:1 D:1a, Yıldırım","","",""
+"Ecem Emlak Gayrimenkul","0532 625 33 53","Bağlaraltı, 410. Sk. Tufanoğlu Sitesi D:16/1, Yıldırım","",3,2
+"İSTANBUL EMLAK investtime","0505 737 90 89","yeni mah, cumhuriyet meydanı no 5/B, yenipazar","","",""
+"Sahra Grup Emlak","0533 014 97 49","Arabayatağı, 1. Aykut Sk. No:16, Yıldırım","","",""
+"Bursa Çınar Emlak Gayrimenkul","0535 933 16 04","Değirmenönü, Şehitler Cd. no: 111, Yıldırım","http://bursacinargayrimenkul.tr.gg/",4,4
+"İNEGÖL İREM EMLAK","0535 841 59 05","152 Evler, Ara Sk., Yıldırım","",5,1
+"Şahane Yapı Dekorasyon Emlak","0542 663 29 49","Ortabağlar, Prof. Tezok Cd. No:30/2, Yıldırım","","",""
+"YK YUSFELİ İNŞAAT GAYRİMENKUL","0532 177 29 08","KAZIM KARABEKİR MAH YUNUSEMRE BULVARI TERAS 2 EVLERİ A BLOK 21 D, Yıldırım","",4.3,3
+"Teleferik İnşaat Emlak Müşavirliği","0505 270 11 10","Piremir, Teleferik Cd. No:68 D:B, Yıldırım","",3.3,3
+"Burak Yapi Emlak","","Esenevler, Yıldırım","",5,1
+"Ikbal Emlak","","Duaçınarı, Yıldırım","",4.5,2
+"ADN GRUP EMLAK","0543 226 92 26","Yiğitler, F108 Sk. No:13, Yıldırım","https://adngrupemlak.sahibinden.com/",5,2
+"Nehir Emlak","0533 216 61 47","75. Yıl, Ali Yazıcı Cad, Yıldırım","https://nehiremlakbursa.sahibinden.com/",5,1
+"Yavuz emlak","0533 403 90 16","Beyazıt, Taraklı Sk. No:7A, Yıldırım","",5,8
+"KAÇMAZ EMLAK YILDIRIM","0535 782 49 47","Bağlaraltı, 2. Cd. 24/A, Yıldırım","https://www.kacmazemlak.com/login/temsilci2.php?sessid=b3fnfkivk2cqcn7h65ht028hb3",5,1
+"Kardeşler Emlak İnşaat","0532 630 52 16","75.Yıl Mah., Kaplangazi Cad. 84/A, Yıldırım","",5,1
+"Lider Grup Gayrimenkul","0533 665 46 16","Sinandede, Volkan Cd. No:25, Yıldırım","https://www.lidergrupgayrimenkul.com/",4.5,61
+"Rodoplu Emlak","0533 816 70 59","Anadolu Mah. Karlıdağ Cad 2, 2. Cenk Sk. No:32, Yıldırım","",5,1
+"ŞEVKET EMLAK & GAYRİMENKUL A.Ş","0532 605 44 55","Beyazıt, Taraklı Sk. NO:17 KAT:4 D:7, Yıldırım","","",""
+"Öz Temel Emlak","","Değirmenönü, 3. Sönmez Sk. No:42, Yıldırım","",5,1
+"Yükseler Emlak","","Beyazıt, Taraklı Sk. No:11, Yıldırım","",5,1
+"Vahid Emlak","0532 325 55 35","Hacivat, 1. Sanayi Cd. 39/A, Yıldırım","",5,1
+"gedikli gayrimenkul","0541 951 61 61","Millet, Derya Cd. no:62/b, Yıldırım","http://gedikligyarimenkul.sahibinden.com/",5,6
+"AKAN EMLAK GAYRİMENKUL DANIŞMANLIĞI","0539 861 61 67","BURSA ÖMER AKAN","",5,3
+"Çiçek Emlak","0533 201 09 82","Esenevler, Erikli Cd. no:99 / A, Yıldırım","","",""
+"Emlak Biz Bursa","(0224) 452 03 33","Yiğitler, C5 Sk. No:412, Yıldırım","",5,1
+"Yıldız Emlak","(0224) 367 29 69","60 Z1, Ertuğrulgazi, Selçuk Bey Cd., Yıldırım","","",""
+"Nilüfer Gayrimenkul | Nilüfer Emlak | Nilüfer Kiralık ve Satılık Daire","0536 582 57 97","Konak Mahallesi, Beşevler Caddesi, Başer Apt, No:93 Kat:1, Nilüfe","http://bursagayrimenkulemlak.com/",5,128
+"SAĞ EMLAK GAYRİMENKÜL DANIŞMANLIK HİZMETLERİ","0541 210 16 60","Bağlarbaşı 2. Güzel Sokak no4A, Osmangazi̇","https://sagemlak.sahibinden.com/",4.9,47
+"ÖZCAN ÇİFTCİ GAYRİMENKUL NİLÜFER VE MUDANYA PROFESYONEL EMLAKCI","0532 632 16 37","Üçevler, Bayraktepe Sk. No:2 OFİS 11, Ni̇lüfer","https://ozcanciftcigayrimenkul.sahibinden.com/",5,23
+"Sinerji Nilüfer Gayrimenkul","","Konak, Ay Sk. No:25, Ni̇lüfer","",5,18
+"Recep Ortaç Gayrimenkul","0544 484 16 16","Akpınar, 3. Çamlıca Sk. No:2, Osmangazi̇","",4.9,124
+"Ihsaniye Real Estate Office","(0224) 245 84 90","İhsaniye, İsmetiye Cd No:10, Ni̇lüfer","",4.9,9
+"ARSLAN POLAT GAYRİMENKUL / EMLAK / Bursa / Nilüfer / Nurettin POLAT","0542 245 54 45","AKARE OFİS, Odunluk, İbrahim İşsevenler Cd. NO:12 K:3 D:23, Ni̇lüfer","http://www.arslanpolatgayrimenkul.com.tr/",4.9,54
+"Volkan Büyükdağ Gayrimenkul","0532 065 28 65","Hamitler Gür Caddesi 1, Kumlu Sk. No:1/A 16160, Osmangazi̇","",4.9,73
+"SÜMBÜLOĞLU GAYRİMENKUL","0545 383 63 63","Yunuseli, Recep Tayyip Erdoğan Blv 19/ B B blok, Osmangazi̇","https://sumbuloglugayrimenkul.sahibinden.com/",4.8,29
+"PENA Emlak Yatırım Ofisi","","Konak, Yüksel Sk. 2a, Ni̇lüfer","",5,2
+"FAVORİ GAYRİMENKUL BURSA","0532 570 92 19","OTAĞKUR APARTMANI, Esentepe, Tuna Cd. No:82/B, Ni̇lüfer","http://www.favorigayrimenkulbursa.sahibinden.com/",5,146
+"Melis Emlak Ofisi","(0224) 245 23 23","MELİS EMLAK MELİS EMLAK, iHSANİYE MAHALLESİ. Kanuni Cad./lefkoşe Sok. Manolya Siteleri A1 Blok No:31/A MANOLYA SİTELERİ A1 BLOK NO.31/A, Ni̇lüfer","https://melisemlak.sahibinden.com/",5,2
+"Ümit Kesmez | Gayrimenkul ve Yatırım Danışmanı","0532 650 26 26","Office 4200 iş merkezi, Balat, Sıhhiye Cd, Ni̇lüfer","",5,52
+"Dijitalemlak - e-emlak bursa TTBS ve MYK belgeli.","","Konak, Beşevler Cd. 82 / D, Ni̇lüfer","https://www.dijitalemlak.com/",4.6,26
+"KAYALAR GAYRİMENKUL YATIRIM OFİSİ","0507 237 96 80","Yunuseli, Çamlık Cd. No:76/b, Osmangazi̇","",4.9,66
+"Hamitler Emlak Gayrimenkul Danışmanlık Hizmetleri","0541 241 70 70","Hamitler, Hamidiye Cd. No:20, Osmangazi̇","",5,4
+"Has Emlak","0546 452 36 36","Beşevler mh beşevler cd, Beşevler, Atam Sk. 2/A, Ni̇lüfer","http://www.hasemlakofisi.com/",4.9,62
+"Redworld Gayrimenkul","0546 130 16 16","Fethiye, Fazıl Sk. Kat 1 Daire 3, Ni̇lüfer","",4.8,58
+"Lider Emlak","(0224) 452 10 24","Cumhuriyet, Nilüfer Hatun Cd. Atalay 3 Sites No:6-d, Ni̇lüfer","http://www.lidergayrimenkul.com/",4.2,34
+"Referans Safir Gayrimenkul","(0224) 443 15 50","Üçevler Mahallesi, Aysel Sk. No:4 D:13-14, Ni̇lüfer","",4.9,61
+"NİLÜFER EMLAK OFİSİ","0532 700 12 17","Konak mahallesi yaz sokak no=17/A Beşevler, Konak, Yaz Sk. 17/A, Ni̇lüfer","",4.7,12
+"Mızrak Emlak","(0224) 245 99 10","İstiklal, 4. Zafer Sk. No:17/A, Osmangazi̇","http://www.mizrakemlak.com/",4.5,39
+"KADİR ORTAÇ GAYRİMENKUL","0552 412 06 88","Bağlarbaşı, 1. Hürriyet Cd. No:1 90 İç kapı : 3, Osmangazi̇","",5,27
+"Yeşilkent U.Emlak Ofisi","0532 256 73 55","Konak, Yavuz Sk. No:46, Ni̇lüfer","",5,1
+"ODAK GAYRİMENKUL","(0224) 236 50 50","Balat Mah. Faruk Baykal Cd. Balat Neu Plaza B Blok No:2B, D:F, Ni̇lüfer","http://www.ofisodak.com.tr/",5,11
+"AFACAN GAYRİMENKUL","0542 301 45 46","Cumhuriyet, Anıt Sk. No:17, Ni̇lüfer","",4.2,39
+"İNCE GAYRİMENKUL","0532 490 16 07","Konak, Konak Cd. No:94, Ni̇lüfer","https://incegayrimenkulbursa.sahibinden.com/",4.9,28
+"Bursadabul","(0224) 322 03 23","Konak, Merkez Sk. No:25/A, Ni̇lüfer","http://www.bursadabul.com/",4.8,13
+"Çağdaş Emlak","","İhsaniye, Er Sk. Dilek Sitesi A Blok No:1, Ni̇lüfer","",3.9,7
+"GayrimenkuluM","0530 060 06 44","Fethiye, Rusçuklu Sk. No:29/1, Ni̇lüfer","",5,12
+"ÖZGÜR ÇAKMAK GAYRİMENKUL PROJE DANIŞMANLIĞI | KORUPARK OFİSİ |","(0224) 241 90 10","Mh, Emek Adnan Menderes, Armağan Sk 1A, Osmangazi̇","https://www.ozgurcakmakgayrimenkul.com.tr/",5,13
+"Dialog İdeal Gayrimenkul","0532 629 77 16","23 Nisan, Köroğlu Cd. 251. Sok No:10C / 14, Ni̇lüfer","https://www.dialogturkiye.com/",5,13
+"Hakan Durmuş HD EMLAK Gayrimenkul Yönetim Hizmetleri","0544 250 44 44","Beşevler, Bilginler Cd. No;30-B, Ni̇lüfer","http://www.hdemlak.com.tr/",4.4,34
+"Emlak Vagonu Beşevler Şubesi","(0224) 443 37 87","Beşevler Mah. Bilginler Cad.Güllühan Sok. No:2 Zemin kat, Ni̇lüfer","http://www.emlakvagonu.com/",4.9,9
+"ELFİ Gayrimenkul Bursa","(0224) 441 40 06","23 Nisan Mahallesi Köroğlu Caddesi, Beydağ Park Sitesi 1A-A, Ni̇lüfer","https://www.elfigayrimenkul.com.tr/",4.7,358
+"KRİSTAL FOCAL GAYRİMENKUL","0552 450 74 20","Konak mahallesi Lefkoşe caddesi bilgi plaza, Konak, 4 iç kapı no 4 no 14 kat, Ni̇lüfer","http://www.focalgayrimenkul.com/",4.9,46
+"Demir Emlak Ofisi","","Yunuseli, Alparslan Türkeş Caddesi No:65/B, Osmangazi̇","",5,3
+"Defnem Emlak","(0224) 453 06 83","No:, Beşevler, Yıldırım Cd. No:254, Ni̇lüfer","",5,2
+"Selen Emlak","(0224) 452 93 01","Beşevler, Bilginler Cd. No:18, Ni̇lüfer","https://selenemlak.sahibinden.com/",5,1
+"Çelik Emlak Dünyası","0555 176 25 54","Barış Mah. Fuzuli cad, Sevil Sk. No:3","",5,3
+"Real Emlak Bursa Ofisleri","0544 449 14 90","Dikkaldırım, 3. Afacan Sk., Osmangazi̇","https://realemlakbursa.sahibinden.com/",4,10
+"AL OĞLU İNŞAAT EMLAK","0536 486 36 92","Hüdavendigar, Dikkaldırım Cd. No:45, Osmangazi̇","",5,1
+"Geçit Emlak","0532 057 63 80","Geçit, 1. Gürbüz Sk. No:69, Osmangazi/Osmangazi̇","http://gecitemlak.com/",5,1
+"As Emlak","(0224) 247 05 19","No:44,Bağlarbaşı,16160 Osmangazi/Bursa,Türkiye, Bağlarbaşı, Mümin Gençoğlu Cd., Osmangazi̇","",4.1,20
+"EKSPER Bursa Emlak Gayrimenkul Ofisi","0543 838 16 32","Beşevler, Bilginler Cd. Yeşilkent Sitesi 28/H A Blok, Ni̇lüfer","",2.8,11
+"Salkim Emlak","0532 410 01 44","İhsaniye, Genç Sk. AKSEL 106 APT NO:2/A, Ni̇lüfer","http://wwwsalkımemlak.com/",4,8
+"Altıntaş Emlak","0533 733 19 43","Bağlarbaşı Mh, 3. Burçak Sk. No.14/B, Osmangazi̇","",3.5,2
+"Sekerler Emlak","(0224) 453 12 85","Konak, Bilginler Cd. 33 F, Ni̇lüfer","",4.7,15
+"Bursa Gayrimenkul | Bursa'nın Emlak Alım Satım Uzmanı | 26 Yıllık Tecrübe ile Hızlı Sonuç","0546 898 94 89","Konak, Konak Cd. No: 95, Ni̇lüfer","http://www.bursagayrimenkul.com/",4.8,16
+"Ata Emlak","0544 307 94 94","Odunluk, Kavram Sk., Ni̇lüfer","",4.3,3
+"Şen Emlakgayrimenkul.mustafa şen","0538 028 37 28","Adnan Menderes Mahallesi, Yılmaz Akkılıç Cd. No:35, Osmangazi̇","http://www.senemlak.com.tr/",5,1
+"1050 Emlak","(0224) 243 86 50","Akpınar Mah. Hancı Cad. Hayırlıoğlu Pasajı No:20","",4.1,11
+"Güneşler Emlak","0533 466 61 13","Yunuseli, Fuat Kuşçuoğlu Caddesi. 790. Sok No:21, Osmangazi/Osmangazi̇","",3,3
+"Emlak Vagonu İhsaniye Temsilciliği","(0224) 245 88 18","İhsaniye Mah. Barbaros Cad. Eserkent Sit, No:10/A A blok, Ni̇lüfer","http://www.emlakvagonu.com/",4.7,12
+"Uygar Emlak","0532 236 55 61","ilgün apartmanı, İhsaniye, Cami Sk. D:no 26, Ni̇lüfer","",4.2,5
+"RE/MAX BEYAZ BURSA","(0224) 249 16 16","LOTUS OFFICE, Konak, İzmir Yolu Cd A BLK NO 96, Ni̇lüfer","https://www.remaxbeyaz.com/",4.4,46
+"Yazgılı Emlak","(0224) 245 56 11","İhsaniye, Tuna Cd. No:63, Nilüfer/Ni̇lüfer","http://yazgiliemlak.com/",3.4,5
+"Uçaravcı Emlak ® / Kurumsal Gayrimenkul /Yatırım Şirketi / Danışmanlık Şirketi /Sahibinden/✅🏡🗝️📞","0538 246 55 23","Emlakçı Uçaravcı Emlak Kurumsal Gayrimenkul Danışmanlık Şirketi, Emlak Dükkanı /Emlakçı /Sahinden.com, Yenice, Kasım Efendi Cd. No:105, İnegöl","https://ucaravciemlak.sahibinden.com/",4.6,57
+"Ümit Gayrimenkul Yatırım Ofisi /İnegöl emlak gayrimenkul","0505 399 45 85","Kemalpaşa, Bahçıvan Sk. No 1 D:7B, İnegöl","https://umitgayrimenkulofisi.sahibinden.com/",5,176
+"Tümerler Emlak","0534 792 86 96","Cuma, Ali Hatipoğlu Sk. No:39, İnegöl","http://www.tunerleremlak.com/",5,2
+"ÇÖZÜM EMLAK","0537 397 93 93","Osmaniye, Ahmet Akyolu Cd. no:1/6, İnegöl","https://cozumemlakinegol.sahibinden.com/",5,9
+"KOZANOĞLU EMLAK","0545 202 19 23","Sinanbey, Zafer Cd. No:3 D:B, İnegöl","",5,2
+"Kafkaslar Emlak","0535 256 42 70","Mahmudiye, Cevat Parman Sk. no:2, İnegöl","https://www.kafkaslaremlak.com/",5,5
+"BEYLİK EMLAK GAYRİMENKUL","0552 274 21 64","Cuma, Belediye Meydanı Sk. no:9 kapı no:4, İnegöl","https://www.facebook.com/groups/366915502526/?ref=share_group_link",5,3
+"Akar Emlak Gayrimenkul Ofisi","0543 259 14 86","Mahmudiye, Kasım Efendi Cd. no:125/c, İnegöl","",5,3
+"İnegöl LİDER EMLAK","0532 581 11 65","Mesudiye, Harman Sk. No:10, İnegöl","",4,1
+"Aydınlık Emlak","0545 649 91 49","Bursa İnegöl, Yeni, Yunus Emre Cd. 1E, İnegöl","https://ofisim.sahibinden.com/ilanlarim",5,6
+"Dülgeroğlu İnşaat & Emlak","0532 766 07 72","Turgutalp, Kemalettin Sami Paşa Cd. No:85/A, İnegöl","",5,4
+"Turyapi Inşaat & Emlak","","Turgutalp, İnegöl","",5,1
+"ÖĞMEN EMLAK","0535 217 24 07","Sinanbey, Murat Cd. No:10, İnegöl","",5,1
+"Mimar Sinan Emlak Yönetimi","0536 997 92 76","Burhaniye, Kemalettin Sami Paşa Cd. No:42/B, İnegöl","http://www.mimarsinanemlak.com/",5,4
+"Hitit Emlak & İnşaat","(0224) 713 45 92","Sinanbey, Murat Cd. No:21, İnegöl","",4.3,3
+"Eylül Emlak","0541 235 55 19","Kemalpaşa mh bayrak sokak, Kemalpaşa, muhtarlığı yani 4 4, İnegöl","",5,1
+"AKOĞULLARI EMLAK&OTOMOTİV","0532 748 21 37","AKOĞULLARI EMLAK, ALANYURT YENİ MAH. MERKEZ CAMİ ALTI DÜKKANLARI, İnegöl","",5,4
+"ULAŞ EMLAK GAYRİMENKUL & DANIŞMANLIK İNEGÖL","0531 733 49 16","Yeni, Hamzabey Cd. No:20, İnegöl","https://ulasemlakinegol.sahibinden.com/emlak",5,5
+"BİLGE EMLAK","(0224) 712 19 54","Sinanbey, Hekimzade Sk. No:3, İnegöl","",3,1
+"Kerim Emlak Müşavirliği","0531 784 08 10","Kemalpaşa, Mahmut Esat Bey Cd. No:167, İnegöl","http://www.kerimemlakinegol.com/",5,1
+"ARSLAN EMLAK & İNŞAAT","0544 880 61 49","Sinanbey, Murat Cd. no:4/B, İnegöl","https://arslaninsaatemlak.sahibinden.com/",4.5,10
+"DEMİRCİ GAYRİMENKUL","0543 735 55 67","Sinan Bey Mahallesi Yeni Şehir Caddesin, Nazif Sk. No:9, İnegöl","",5,36
+"EAST REAL ESTATE","0533 541 41 03","Kemalpaşa, Mahmut Esat Bey Cd. no:77, İnegöl","http://dogu.sahibinden.com/",4.2,5
+"Başyiğit İnşaat Emlak Alım Satım","0533 364 24 69","Cumhuriyet, Atılgan sokak no 61A, İnegöl","https://basyigitinsaatemlakmerkez.sahibinden.com/",4.4,13
+"Anadolu Emlak","0532 223 08 67","Adnan Menderes Bulvarı, Kemalpaşa, Hoşgörü Sk. No:2/A, İnegöl","",3,4
+"Dialog Tan Gayrimenkul","(0224) 777 02 77","Hamidiye, Park Cd. 1 A, İnegöl","",4.5,8
+"SEZGİN YAVUZ GAYRİMENKUL DANIŞMANLIĞI","0532 204 06 95","Yenice, Kasım Efendi Cd. No:35/A, İnegöl","",5,8
+"Nakit Emlak GAYRİMENKUL","","Sinanbey, Zafer Cd. No:78/A, İnegöl","http://www.nakitemlak.sahibinden.com/",4.6,20
+"BERA Gayrimenkul ®","0535 100 40 25","BERA Emlak Kurumsal Gayrimenkul Danışmanlık Şirketi, Emlak Dükkanı /Emlakçı /Sahinden.com, Sinanbey, Murat Cd. No:17 A, İnegöl","https://beragayrimenkulinegol.sahibinden.com/emlak",5,2
+"Realty World Onur Gayrimenkul","0543 309 87 15","Kemalpaşa, Yeşilçayır Cd. NO:79/A, İnegöl","http://www.realtyworldonurgayrimenkul.com/",4.4,16
+"İNEGÖL DOBİCELL EMLAK MÜŞAVİRLİĞİ OFİSİ","0536 351 91 05","Turgutalp, İsmail Hakkı Timur Sk. NO:16/A, İnegöl","http://www.dobicell.com.tr/",5,4
+"Final Emlak","0536 355 48 28","Kemalpaşa, Mutlu Sk. No:6, İnegöl","","",""
+"Akgün İnşaat & Emlak","0507 591 13 13","OSMANİYE mah Merkez sok, Osmaniye, Yeşil Köprü Sk. No:16B, İnegöl","https://akguninsaatemlak.com/",4.5,4
+"LİDER GYO","0532 581 11 65","Cuma, Ali Hatipoğlu Sk. No: 37/B, İnegöl","",3,2
+"Asrın Gayrimenkul","0536 636 37 36","Hamidiye, Özkonak Sk No:2, İnegöl","",5,4
+"Şeref Gayrimenkul","0533 518 73 57","Kemalpaşa, Adnan Menderes Blv. 73/A, İnegöl","http://www.serefgayrimenkul.com/",4.8,20
+"Serra Piliç Ṣenol Emlak","","Osmaniye, Mehmet Akyolu Cd. No:11, İnegöl","",5,2
+"ELMAS EMLAK","0507 961 51 21","Sinanbey, Sinan Sk. NO 5, İnegöl","","",""
+"Er Emlak Gayrimenkul","","Kemalpaşa, Orta Okul Sk., İnegöl","",5,1
+"Şenol Emlak","(0224) 712 33 31","Osmaniye, Dere Sk. NO: 27/C, İnegöl","",3.5,4
+"İNEGÖL EMLAK OFİSİ","0541 711 88 48","Sinanbey, Lütfiye Sk. 4/a, İnegöl","https://shbd.io/s/b1QIfyoA",5,4
+"İNEGÖL ÇELİK EMLAK LTD.ŞTİ.","","Osmaniye, Mehmet Akyolu Cd. No:3, İnegöl","",5,1
+"Kahveci Inşaat-Emlak","","Kemalpaşa, İnegöl","",5,1
+"Dua Emlak ve Otomotiv","0533 077 55 72","Burhaniye, Şht. Er Turan Culfa Sk. No:08/A, İnegöl","",5,1
+"Prestijler Gayrimenkul Emlak Dan. A.Ş","0536 654 35 24","Osmaniye, Ahmet akyollu cad No: 7/3, İnegöl","","",""
+"PARADA GAYRİMENKUL","0537 953 90 00","Burhaniye, Ali Çilek Sk No:3/A, İnegöl","http://www.paradagayrimenkul.com/",5,6
+"İKLİM EMLAK GAYRİMENKUL DANIŞMANLIĞI","0533 644 38 08","Mahmudiye, Suyolu Cd. No:105 / B, İnegöl","",5,1
+"ROMA GAYRİMENKUL","(0224) 777 00 49","Alanyurt, Akpınar Cd., İnegöl","",5,2
+"ÇMS EMLAK & GAYRİMENKUL","","Osmaniye, Dere Sk. No:13, İnegöl","",5,1
+"Emlak Seden","","Turgutalp, Büyükdere Sk. No:20, İnegöl","",4.7,3
+"SAFİR EMLAK İNEGÖL","0539 643 60 43","Cuma, Hal Yanı Sk. No:8/1, İnegöl","http://www.safiremlakgd.com/",5,6
+"Inegöl Hizmet Emlak","","Turgutalp, Mahmut Esat Bey Cd. No:96, İnegöl","",5,1
+"Karalar Emlak Ofisi","","Akhisar, Karalar Yolu Sk No:5, İnegöl","",5,2
+"Ay-Taş Gayrimenkul","0537 300 29 55","Osmaniye, Atalar Sk. No: 7 D:11, İnegöl","",4.9,7
+"Aslanbay Emlak","","Akhisar, Fatih Cd. No:43, İnegöl","",5,1
+"Gözde Emlak","","Sinanbey, Nuri Doğrul Cd. 47A, İnegöl","",5,1
+"Erbey Emlak Ofisi","","Cuma, Nuri Doğrul Cd. No:44, İnegöl","",3.7,3
+"Nish Broker Gayrimenkul – İnegöl Eşyalı Kiralık Daire","0532 730 14 60","yeni mahalle,alanyurt yeni mahalle merkez camii,5, İnegöl","https://www.instagram.com/nishbroker",4.9,76
+"PLATİN GAYRİMENKUL","0536 435 30 40","eski, Ankara Cd. No:4 D:B, İnegöl","",5,2
+"DERMU GAYRIMENKUL","","Osmaniye, Mehmet Akyolu Cd. No:5, İnegöl","https://dermuemlakinsaat.sahibinden.com/",5,3
+"Asil Uzunkaya Emlak Ofisi Limited Şirketi","(0224) 513 00 23","Eşref Dinçer Mahallesi Dere Sk Asilhan iş merkezi, No:3/D, Gemli̇k","http://www.asiluzunkaya.com/",5,383
+"Century21 Cius Gayrimenkul","0532 209 76 29","Eşref Dinçer, Irmak Sk. No:129/A, Gemli̇k","https://ciusgayrimenkul.com/",5,365
+"Gemlikte emlakçı forum emlak","(0224) 513 42 36","Hamidiye, İstiklal Cd. 30/1, Gemli̇k","",4.6,11
+"Yalçın ve Aykut Emlak ve Gayrimenkul Danışmanlığı","0541 517 40 00","Eşref Dinçer, Eski Pazar Cd. No:76, Gemli̇k","",5,14
+"Realtors Rafet","(0224) 513 09 69","Hamidiye, İstiklal Cd. No:15/1, Gemli̇k","",3.6,12
+"Enes Emlak ve Gayrimenkul Dekorasyon Ofisi","0537 702 03 79","ŞEHİT İDRİS BÜYÜK DÖNMEZ CAD. NO 19/B, Gemli̇k","",4.2,5
+"EYLÜL GAYRİMENKUL DANIŞMANLIK ve EMLAK OFİSİ","0534 526 32 19","İbrahim Akit Caddesi No:3 Şirin Plaza, Gemli̇k","https://eylulgayrimenkulgemlik.sahibinden.com/",5,2
+"Saim Gencay Gayrimenkul","0531 400 70 00","Orhaniye, Şaşırtmak Sokak No:2, Gemli̇k","",5,4
+"TEZEL EMLAK","0536 961 14 94","Av özgür Aksoy cad, Kayhan, 4.seç sitesi 58/A, Gemli̇k","",5,2
+"DOKTOR EMLAK GAYRİMENKUL DANIŞMANLIĞI","(0224) 514 40 41","Hamidiye, Orhangazi Cd. 119 A, Gemli̇k","",5,2
+"CANAN GAYRİMENKUL Emlak Bürosu Realtors","0554 119 65 18","Eşref Dinçer Mah. 1. Güneş Sk. No:12/B, Eşref Dinçer, 1.Gunes SK 12/B PK.16600, Gemli̇k","",2.3,3
+"Yumru Emlak","0545 248 51 39","Mahallesi, Dr. Ziya Kaya, Ilıca Cd. No:23, Gemli̇k","",4.5,2
+"Gemlik emlak Mahir Onay Gayrimenkul","(0224) 517 28 28","Dr. Ziya Kaya, Orhangazi Cd. No:54 D:1, Gemli̇k","http://www.mahironaygayrimenkul.com/",4.3,16
+"Gemlik Net Emlak","0532 542 98 08","Demirsubaşı, Mesudiye Sk. 6B, Gemli̇k","",5,3
+"GÜNER EMLAK","0537 389 43 71","Güner emlak, Umurbey, Gemli̇k","",4,5
+"Hayri Emlak","0532 436 68 73","Hamidiye, kuvayi milliye caddesi no 18 /1A, Gemli̇k","",5,4
+"GEMLİK PRESTİJ EMLAK & GAYRİMENKUL","0532 455 16 31","Demirsubaşı, Şht. Mustafa Sk. no7/B, Gemli̇k","",5,2
+"Pir Ticaret Emlak ve Gayrimenkul Danışmanlığı","0536 279 95 62","Demirsubaşı, Avukat Özgür Aksoy Cd. no:21, Gemli̇k","",5,2
+"AS EMLAK İNŞAAT","(0224) 513 40 81","Hamidiye, Kumsal Sk. No:9/A, Gemli̇k","http://www.asemlakbursa.com/",4.2,20
+"Tuğra Emlak","(0224) 514 43 32","Eşref Dinçer, Irmak Sk. 173/A, Gemli̇k","",5,2
+"ES KARADENİZ GAYRİMENKUL","0541 882 71 61","AHMET SÜREN MEYDANI, Osmaniye, Eski Pazar Cd. NO:55/A, Gemli̇k","",5,1
+"Venn Gayrimenkul","0532 699 59 16","Cihatlı, Sokak No:215 C10, Gemli̇k","https://www.venngm.com/",5,9
+"Acar Royal Emlak","0532 419 83 85","Hamidiye, Orhangazi Cd. No:167, Gemli̇k","",5,5
+"Umurbey Emlak","(0224) 514 15 75","Dr. Ziya Kaya, Fatih Cd. Karalar Apt. D:57, Gemlik/Gemli̇k","https://umurbeyemlak.sahibinden.com/",5,1
+"Ozan Bayır - Gayrimenkul Danışmanı","0536 033 16 37","Hamidiye, Irmak Sk. No:110, Gemli̇k","",5,15
+"Ballandı Emlak Danışmanlığı","0543 839 33 36","Demirsubaşı Mahallesi Semerciler Yokuşu Sokak No:25, Gemli̇k","",5,1
+"Buğra Danışmanlık Gayrimenkul","0532 416 58 81","Demirsubaşı, 1 Nolu Caddesi No:9, Gemlik/Gemli̇k","https://bugraemlakgayrimenkul.sahibinden.com/satilik-daire?sorting=price_asc",5,1
+"ALPASLAN emlak","0535 734 93 61","Dr. Ziya Kaya, Hürriyet Cd. no 39, Gemli̇k","https://alpaslanemlak1981.sahibinden.com/",4.6,9
+"Çatak Emlak","","Demirsubaşı, Mesudiye Sk. No:5, Gemli̇k","",5,12
+"Öncü Yapı Gayrimenkul","0542 607 67 54","Hamidiye, Menekşe Sk. No:14A, Gemli̇k","","",""
+"Uysallar İnşaat","(0224) 513 58 00","Dr. Ziya Kaya, Hürriyet Cd. No:25 D:B, Gemli̇k","",5,1
+"VAROL EMLAK GAYRİMENKUL","0533 423 23 67","Hamidiye, İstiklal Cd. Gürle iş hanı Zemin kat No:13-14, Gemli̇k","http://varolemlakgemlik.sahibinden.com/",5,1
+"Halil Emlak Ofisi","","Eşref Dinçer, Irmak Sk. No:33, Gemli̇k","https://halilgayrimenkulemlak.sahibinden.com/",4.1,7
+"Ksm İnşaat & Emlak Ltd.Şt","","Hamidiye, Irmak Sk. No:48, Gemli̇k","",5,1
+"ZİRVE GAYRİMENKUL DANIŞMANLIK","0534 236 41 54","Cihatlı Mahallesi 2. Cihatlı Caddesi No:35, Gemli̇k","","",""
+"Serkan Emlak Gayrimenkul & Danışmanlık","","Demirsubaşı mh, Av.Ali Aksoy Sokak No:4/A, Gemli̇k","",2.5,2
+"Stil Emlak","(0224) 513 38 98","Demirsubaşı, Semerciler Ykş. No:16, Gemli̇k","",3,1
+"Gemlik Soylu Emlak & Insaat","(0224) 512 17 70","Osmaniye, Eski Pazar Cd. no:13 / a, Gemli̇k","",2,7
+"R.S emlak danışmanlığı ve alım satım","","Eşref Dinçer, Eski Pazar Cd. No:80/c, Gemli̇k","",5,1
+"Cevik Emlak","","20, Hamidiye, Irmak Sk., Gemli̇k","",4.1,10
+"Manastır Emlak","(0224) 517 33 10","Cumhuriyet mahallesi hastane caddesi nehir sokak küçük sitesi, c blok no:4, Gemli̇k","",4.1,27
+"Galeri 25","0531 255 23 82","Hamidiye, Orhangazi Cd. 167a, Gemli̇k","",5,1
+"Onur Emlak","0532 521 79 73","Hamidiye, Papatya Sk. No:4A, Gemli̇k","https://onuremlakgemlik.sahibinden.com/",5,8
+"ROTA EMLAK GAYRİMENKUL","0530 274 22 80","Eşref Dinçer, Eski Pazar Cd. 62 b, Gemli̇k","","",""
+"Yurtlu Emlak","","Hamidiye, Kumsal Sk., Gemli̇k","",5,1
+"Yiğit Emlak Gayrimenkul Danışmanlığı","0536 969 99 11","Demirsubaşı, Ahmet Dural Meydanı Akmanlar İş Hanı, Gemli̇k","",5,1
+"Uzman Emlak Gayrimenkul Danışmanlığı","0555 661 03 36","Eşref Dinçer, Irmak Sk. No:101 D:1, Gemli̇k","https://uzman-emlak-real-estate-consultant.business.site/?utm_source=gmb&utm_medium=referral",5,2
+"İdeal Gayrimenkul","0553 101 08 90","Dr. Ziya Kaya, Atatürk Cd. No:44/A, Gemli̇k","https://www.idealgm.com.tr/",4.4,7
+"İsmail Şirin Gayrimenkul","","Demirsubaşı, Şht. Gökhan Aydınlı Sk. No:23, Gemli̇k","",5,3
+"HAMZA AYGÜN GAYRİMENKUL YATIRIM YÖNETİMİ","(0224) 512 13 14","Cumhuriyet Mah . Gül Cad. No : 198 DD/Blok Bulvarpark Gemlik Manastır, Gemli̇k","http://www.hamzaaygun.com/",5,9
+"KARAKOÇ GAYRİMENKUL & EMLAK","0542 698 16 21","Gazhane caddesi, Fırınlı Sk., Gemli̇k","",5,2
+"ER Grup İnşaat & Gayrimenkul","0552 597 65 78","Hisar, Dal Sk. 26B, Gemli̇k","",4.9,99
+"Merkez Emlak","0535 358 37 09","Balıkpazarı, 2 Nolu Caddesi, Gemli̇k","https://merkezemlakgemlik.sahibinden.com/","",""
+"Kuzenler Gayrimenkul","","Demirsubaşı, Şht. Gökhan Aydınlı Sk. No:22, Gemli̇k","",5,7
+"Kızılaltun İnşaat Satış Ofisi","0533 234 38 90","Eşref Dinçer, Taçsız Sokak 1/A, Gemli̇k","",3,2
+"Dobruca Emlak Gayrimenkul Danışmanlığı","0544 330 05 72","Dr. Ziya Kaya, 2. Hürriyet Sokak D:7c, Gemli̇k","","",""
+"Paşa Gayrimenkul","0532 784 40 50","Hamidiye, Gazhane Cd. No:20, Gemli̇k","https://pasagayrimenkulgemlik.sahibinden.com/",4.7,3
+"Kaptan Emlak","","Mahallesi, Dr. Ziya Kaya, 1. Aralık Sk. No:5, Gemli̇k","",4,3
+"Gemlak","","Demirsubaşı, Gemlik","",1,1
+"Mete Emlak","","Hisar, Özdilek, Gemli̇k","https://meteemlak.sahibinden.com/",5,6
+"BK Investment","0531 732 22 46","BUDO İskelesi Karşısı, Ömerbey Şehit K. Ahmet Sokak, PTT Arkası Akarsu Sitesi C.Blok,No :5A, Mudanya","https://bkyatirim.sahibinden.com/emlak?sorting=date_desc",5,44
+"Bizim Emlak","0533 666 00 94","Güzelyalı Mudanya, Yalı mh, Atatürk Cd. 94/B","http://www.bizimemlakmudanya.sahibinden.com/",4.6,40
+"GREY GAYRİMENKUL Mudanya Emlak","0531 942 31 13","Mütareke, Merdivenli Sk. No:65, Mudanya","http://greydesigngayrimenkul.com/",5,108
+"GENCEBAY EMLAK","0538 561 94 97","BURGAZ MAHALLESİ, Güzelyalı Burgaz, Kazım Karabekir Cd. YURDEŞEN APT NO 19 DÜKKAN 4, Mudanya","http://mudanyadasahibindensatilikdaireler.com/",4.9,11
+"Koçak Group İnşaat","(0224) 544 18 81","Ömerbey, Halitpaşa Cd. No:72/1, Mudanya","",5,1
+"AKYOL GAYRİMENKUL Güzelyalı Yalı MAh. Gemi sokak Mudanya/ Bursa","0533 301 55 97","Güzelyalı Yalı, Gemi Sk. Gencal Ap D:5.c, Mudanya","",5,3
+"Artı Değer Gayrimenkul & Mimarlık","0531 215 38 33","halitpaşa mah. yeni cad. gamze 3 apt, mudanya","",4.7,3
+"Güleroğlu Emlak","0535 238 94 62","Eğitim Mahallesi, Atatürk Cd. No:2, Mudanya","https://gulerogluinsaatgayrimenkul.sahibinden.com/",2.3,3
+"TÜRK EMLAK KONUT Gayrimenkul Danışmanlığı","0530 467 95 21","Hasanbey Mahallesi Selvilik Caddesi No:78, Hasanbey, Dikbayır Sk. No: 2 D:4, Mudanya","","",""
+"Acar Emlak","0541 435 63 02","Güzelyalı Yalı, Fatih Cd. su apt c blok no 8/a, Mudanya","","",""
+"Özcan Oto Emlak Ofisi","0542 232 17 17","A2/B Blok, No.114 Kamberoğlu Apt Atatürk Caddesi Yalı Mahallesi, Mudanya Blv.","","",""
+"Anıl Emlak & Gayrimenkul","(0224) 554 21 10","Yalı Mah. Atatürk Cad. Kanberoğlu İnan Sitesi D Blok 108/B, Mudanya","https://anilgayrimenkul.sahibinden.com/",4.8,9
+"Koçak Group Gayrimenkul","0533 773 18 81","Halitpaşa, Mustafa Kemal Paşa Cd. No:115, Mudanya","",5,2
+"Güven-Al Emlak","(0224) 554 79 99","Burgaz Mah, Şht. Mehmet Cd. 3/5A A Blok, Mudanya","https://guvenalgayrimenkuloto.sahibinden.com/",2.8,5
+"YERLİKAYA GAYRİMENKUL","0539 788 81 22","mahallesi Ersezenler Sitesi, Ömerbey, Bahçıvan Hasan Sk. no 1A, Mudanya","https://yerlikayagayrimenkul.sahibinden.com/",5,2
+"Kuzey Emlak","(0224) 554 65 66","2/A Atatürk Cad. &, Güzelyalı Yalı, Şeker Sk., Mudanya","https://kuzeyemlakmudanya.sahibinden.com/",4.6,11
+"Gençay Gayrimenkul","0538 888 19 99","Hasanbey, İpar Cd. No:46, Mudanya","http://www.gencaygayrimenkul.com/",4.1,31
+"Atabeyoğlu Grup","(0224) 554 41 66","Burgaz Mah, Kazım Karabekir Cd. Esen Apt. No:15, Mudanya","",4.2,5
+"Aydınpınar Emlak","0532 012 36 08","Ömerbey, Deniz Cd. No:42, Mudanya","","",""
+"Semih Emlak","0535 972 70 09","Mütareke, Fevzi Paşa Cd. 13/A, Mudanya","",5,1
+"TIRPAN GAYRİMENKUL İNŞAAT MUDANYA","0505 019 29 16","Ömerbey, 1. Şirin Sk. 40/C, Mudanya","http://www.tirpan.gayrimenkul.com/",4.3,11
+"Aldatmaz Gayrimenkul Danışmanlığı","0532 290 16 93","Ömerbey, Deniz Cd. Özşen sit No:23/E-F, Mudanya","https://www.efirmalar.com.tr/firma/9856933-aldatmaz-gayrimenkul-mudanya-emlak-danismanlik-ofisleri",5,7
+"imparator gayrimenkul&danışmanlık","0536 223 68 41","Mütareke, Sağlık Sk. no, Mudanya","",5,1
+"KAPİTAL GAYRİMENKUL YATIRIM","0555 159 75 55","Halitpaşa, Yeni Cd. Gamze Apt No:15/C, Mudanya","",5,7
+"Atalay emlak","0536 778 81 82","Ömerbey, Deniz Cd. 23 A, Mudanya","",5,4
+"Emlak Limanı","","güzelyalı yalı mah atatürk cad aydın sit.no:19, Atatürk Cd., Mudanya","",2,3
+"ÜLKER GAYRİMENKUL MUDANYA EMLAK","0533 935 25 09","Eğitim Mah, İstiklal Cd. 27B, Mudanya","http://www.ulkergayrimenkul.com/",5,11
+"Tekin Emlak","(0224) 554 26 26","Ömerbey, Halitpaşa Cd. No:80 D:80, Mudanya","http://www.tekinyatirim.com/",5,1
+"Bulvar Gayrimenkul","0536 593 24 65","Hasanbey, Selvilik Cd. kapı no - 54/A, Mudanya","",5,3
+"ZENOLLİ GAYRİMENKUL YATIRIM DANIŞMANLIĞI","0533 471 68 25","Ömerbey, Deniz Cd. 23 A, Mudanya","",3,2
+"İDENOVA GAYRİMENKUL MUDANYA","","Ömerbey, Bursa Asfaltı Cd. no:34 /a, Mudanya","",5,1
+"Tuder Gayrimenkul Danışmanlık Ltd. Şti. - Mudanya Şube","0542 667 57 00","Güzelyalı Siteler, Bursa Asfaltı Cd No:184/B, Mudanya","http://www.bursatudergayrimenkul.com/",5,3
+"Uçar İnşaat & Emlak Ofisi","0532 207 03 30","Güzelyalı Eğitim, Funda Sk. No:8/B, Mudanya","","",""
+"EKA Gayrimenkul","0542 519 17 83","Eğitim mh, Sağlık Sk. No:5/A, Mudanya","http://www.ekaemlak.com/",5,31
+"Kardeşler Emlak","","Güzelyalı Yalı, Mudanya","",5,1
+"Gerçek Emlak","0533 214 70 82","Şükrüçavuş, M.Kemalpaşa Cad No:33, Mudanya","","",""
+"Burak İnşaat Emlak","0532 620 96 97","Güzelyalı Yalı, Atatürk Cd. Uğur Ap 69a B Blok No: 71/A, Mudanya","","",""
+"Adresse Emlak","0506 582 83 83","Ömerbey Mahallesi Şehit Küçük Ahmet Sok. No:17/A, Mudanya","",5,1
+"VEGA GAYRİMENKUL DANIŞMANLIĞI","0553 267 77 83","dayıoğulları kardeşler apt, Güzelyalı Yalı, Atatürk Cad. no:96 A, Mudanya","http://vegagayrimenkul.sahibinden.com/",5,6
+"alan emlak","0536 765 48 63","Hasanbey, Selvilik Cd. No:70 D:72B, Mudanya","",5,1
+"Öztan Emlak","","Şükrüçavuş, Mudanya","https://oztanemlakgayrimenkul.sahibinden.com/",5,1
+"Yilmaz Emlak","","Güzelyalı Yalı, Mudanya","",3,1
+"Bc Group Gayrimenkul","(0224) 543 01 00","Eski Sokak, Yeni Mahalle, Bursa Asfaltı Cd. No:34/B, Mudanya","",5,2
+"Olivium Gayrimenkul & Real Estate","0542 746 13 12","Halitpaşa, Şht. Ömer Halisdemir Cd Tansoy Apartmanı No6/A, Mudanya","",5,5
+"Guzelyali Emlak","(0224) 554 32 82","Şükrüçavuş, Bursa Asfaltı Eroğlu Sitesi B Blok No:1, Mudanya","",4.4,15
+"Satılık Hesaplı Emlak","0538 386 26 66","Mütareke, Hükümet Sk. 6A, Mudanya","",5,1
+"Arsacı Emlak","","Güzelyalı Eğitim, Defne Cd No:6/A, Mudanya","",5,1
+"İDENOVA GAYRİMENKUL MUDANYA","0505 160 11 60","Ömerbey, Özen Sk. No:6/A, Mudanya","",5,2
+"Arsacı & Deniz Emlak","0535 964 60 60","Şükrüçavuş, Atatürk Cd. 18B, Mudanya","",5,1
+"Damla Gayrimenkul","0533 711 89 74","Çayırbaşı Apartmanı, Güzelyalı mahallesi, Sandal Sk. no:6/B, Mudanya","",5,4
+"Pınar Gayrimenkul Danışmanlığı","(0224) 544 58 35","Ömerbey, Halitpaşa Cd. No:236, Mudanya","",5,2
+"İleri Emlak Ofisi","0532 783 33 15","Halitpaşa, Geniş Sk. No:11, Mudanya","","",""
+"Gayrimenkul Dünyası","0535 659 93 95","Güzelyalı Yalı, Burgaz Cd 7 Sk 35. Sok No:2, Mudanya","http://gayrimenkuldunyasibursa.sahibinden.com/",5,4
+"Myrleia Istanbul Satiş Ofisi","","Güzelyalı Yalı, Mudanya","",4.7,3
+"Elibol Gayrimenkul Danışmanlığı","0543 761 57 13","Halitpaşa, Mudanya Merkez 1 Nolu So, Mudanya","",5,2
+"ÇEPNİ EMLAK","0552 719 82 41","Hasanbey, Şht. Osman Sk. NO:10 D:12A, Mudanya","",5,1
+"ÖZTARLACI GAYRİMENKUL YATIRIM DANIŞMANLIK","(0224) 613 61 68","Güzelyalı Yalı, Sandal Sk. No:7, Mudanya","","",""
+"Cafer gayrimenkul danışmanlığı","0532 651 76 63","Şükrüçavuş, Harmanlar Sk., Mudanya","",4.8,6
+"Nil Gayrimenkul","0532 267 88 68","NİL GAYRİMENKUL, Halitpaşa, Münir Paşa Sk., Mudanya","https://nilgayrimenkulmudanya.sahibinden.com/",5,3
+"Zeki Maz Gayrimenkul & Emlak","0532 589 83 60","Ömerbey, Özen Sk. No:6, Mudanya","","",""
+"Karacabey Mutlu Emlak","0533 720 08 26","Mutlu Emlak, Sırabademler, 14 Eylül Cd. No:77, Karacabey","",4.7,3
+"Çalı Emlak","0530 338 54 74","Tavşanlı, Şht. Kemal Köse Sk. Süzer Apartmanı D:10/B, Karacabey","",5,20
+"Dear Auto Emlak","0505 333 10 02","Selimiye, İmaret Cd. No:59/61, Karacabey","",5,1
+"ANLI YAPI GAYRİMENKUL","0538 811 70 00","Gazi, 143. Sk. No:57, Karacabey","",4.3,6
+"Ka Yapı İnşaat Emlak","0531 652 01 04","Gazi, 147. Sk. No:33, Karacabey","",5,2
+"EMİR EMLAK","0538 811 70 00","Gazi, Ortaokul Cd. No:45 D:B, Karacabey","",3.7,7
+"Onur Kondur Gayrimenkul danışmanlık","0555 496 07 36","Drama, 119. Sk. no:28/B, Karacabey","",5,3
+"Zirve Emlak","0532 468 22 30","Selimiye, Yeniköy Cd. No :90, Karacabey","",5,3
+"Dostlar Emlak Gayrimenkul","0534 979 70 80","Sırabademler, 143. Sk. 41-35, Karacabey","",5,1
+"Ak Emlak","0532 551 74 80","Runguşpaşa, Atatürk Blv. No:39 D:B, Karacabey","",3,4
+"Hisar Gayrimenkul Karacabey","0535 354 96 18","Runguşpaşa, 75. Sk. No: 10/A, Karacabey","",5,2
+"Bahar Duman Emlak Ofisi Karacabey","0533 092 12 52","Runguşpaşa, Runguçpasa cad no:38/1, Karacabey","","",""
+"Melak Melak","","Drama, Karacabey","",5,1
+"Metrekare Gayrimenkul","0533 307 25 88","Sırabademler, Hakan Sepetçi Sk. No: 6 A, Karacabey","","",""
+"ADR EMLAK DANIŞMANLIĞI","","Sırabademler, rungunçpaşa cad yeni vergi dairesi karşısı - tapu müdürlüğü yanı no:149/1, Karacabey","","",""
+"Serez Emlak","(0224) 676 16 99","Tavşanlı, Bandırma Cd. 26/E, Karacabey","https://karacabeyserezemlak.sahibinden.com/",4.8,8
+"Yildiz Emlak","","Karacaahmet, 143. Sk. No:30, Karacabey","",5,1
+"KARACABEY TAPU EMLAK","0538 683 56 99","Bayıraltı Tarlaları Sırabademler mahallesi, Karacabey Bursa","",5,3
+"Oğuz Emlak ve Gayrimenkul Danışmanlığı","","Tavşanlı, Şht. Kemal Köse Sk. No:19 D:13, Karacabey","","",""
+"Laçin Gayrimenkul","","Sırabademler mh. Runguçpaşa cd. no: 153, D:155B, Karacabey","https://lacingayrimenkul.sahibinden.com/",5,7
+"KARADENİZ OTO EMLAK","0535 245 20 52","BURSA,KARACABEY,GAZİ MAHALLESİ,147 SOKAK,NO 35, KARACABEY","http://www.facebook.com/senel.guzel.96",4,3
+"Güner Emlak Danişmanliği Aracilik Hizmetleri","","Tavşanlı, Bandırma Cd. No:37, Karacabey","",3,2
+"Gider Emlak","","Runguşpaşa, Panayır Cd. No:5, Karacabey","http://www.bursagideremlak.com/iletisim",4,2
+"Karacabey Tapu Emlak Fabrika Ve Tarım Arazileri","0532 481 97 33","Cumhuriyet Alanı Karacabey/bursa İş: (0224) 677 01 90 – (0532) 481 97 33, 16700","",4.5,2
+"Köşe Emlak","0541 789 47 89","Sırabademler, Şht. Kemal Köse Sk. no 31 D:31 /1, Karacabey","","",""
+"Erbir Emlak","(0224) 676 27 17","Drama, 125. Sk., Karacabey","",4,2
+"Karacabey Tapu Emlak","0532 481 97 33","Sırabademler, Runguçpaşa Caddesi No: 153-155, Karacabey","",4,4
+"HALİS EMLAK","0507 252 31 99","Garipçe, Karacabey","",2.3,3
+"Türe Emlak","0532 160 68 91","Tabaklar, Dr. Rüştü Özüt Cd. No:6, Karacabey","","",""
+"Dündar Emlak","(0224) 662 29 56","Runguşpaşa, Panayır Cd. 26 B, Karacabey","","",""
+"Tarik Ayhan Inşaat","","Selimiye, İmaret Cd. No:18, Karacabey","",5,2
+"Gün İnşaat Müteahhitlik","","Tabaklar, Atatürk Blv. 1 A, Karacabey","",5,1
+"Aydemi̇r Emlak Tapu Taki̇p","","Karacaahmet, Karacabey","","",""
+"Güven Türkİye Karacabey","","Sırabademler, Şht. Kemal Köse Sk. No:39, Karacabey","",5,1
+"ŞEHİR ON6 GAYRİMENKUL YATIRIM DANIŞMANLIĞI LTD ŞTİ","0545 161 61 63","BURSA, Tavşanlı, 141. Sk. No:2 KAT 1 DAİRE 2, Karacabey","","",""
+"Ka Yapı İnşaat & emlak","0530 894 31 85","Gazi, 147. Sk. no: 33 A, Karacabey","",4.6,10
+"Hira İletişim & Gayrimenkul 2","0538 548 03 66","Tavşanlı, İsmail Hakkı Bilgin Cd. no:28/b, Karacabey","","",""
+"İmza Gayrimenkul","","Drama, 119. Sk. No:24, Karacabey","",5,2
+"Arc gayrimenkul","","Tavşanlı, 93. Sk. no 16, Karacabey","",5,1
+"Sayıoğlu-Çakır Emlâk","","Runguşpaşa, Atatürk Blv. No.:10, Karacabey","","",""
+"Sandalci Yapi Gayrimenkul & Otomotiv","","Runguşpaşa, Karacabey","","",""
+"Ersu İnşaat & Gayrimenkul","0532 366 07 14","Drama, 125. Sk. No:3, Karacabey","","",""
+"Toprak Emlak Gayrimenkul Danışmanlığı","(0224) 676 02 32","Toprak Emlak Gayrimenkul Danışmanlığı, Runguşpaşa, Karacabey","","",""
+"Bahar Duman Emlak","(0224) 676 62 72","Runguşpaşa, 119. Sk. no:5, Karacabey","https://bahardumanemlakofisi.sahibinden.com/","",""
+"Kor Yapi Gayrimenkul","","Sırabademler, 149. Sk. No:43, Karacabey","",1,1
+"Göymen Emlak","","Garipçe, Park Cd. 18A, Karacabey","","",""
+"3 As Si̇gorta A.Ș","","Garipçe, Karacabey","","",""
+"Bouğaz Emlak","","Runguşpaşa, Panayır Cd. No:42, Karacabey","","",""
+"Karacabey Emlak","","Tavşanlı, Bandırma Cd. No:43 D:39, Karacabey","","",""
+"Karacabey FSM Gayrimenkul","0535 665 43 20","Tavşanlı, Şht. Kemal Köse Sk. No : 26, Karacabey","","",""
+"Garip Gayrimenkul","0533 381 82 10","Tavşanlı, 131. Sk. No:5/A, Karacabey","","",""
+"ASİL EMLAK GAYRİMENKUL","0535 625 19 26","Nasrettin, 64. Sk. No:1, Karacabey","","",""
+"Duymaziar Oto Emlak Ofısı","","Yenice, Bursa Cd. No:117, Karacabey","","",""
+"Karacabey Tapu Emlak Fabrika Ve Tarım Arazileri","0532 481 97 33","Sırabademler, Runguçpaşa Caddesi No: 153-155, Karacabey","","",""
+"BRAND GAYRİMENKUL","0532 710 36 38","Sırabademler, 220. Sk. No:76, Karacabey","","",""
+"Ulvi Emlak","","Drama, 78. Sk. No:12, Karacabey","","",""
+"Yokuş Emlak","","Drama, 125. Sk. 7C, Karacabey","","",""
+"ÜZÜMLÜ EMLAK","","Tabaklar, Dr. Rüştü Özüt Cd. No:26, Karacabey","","",""
+"Kanber Emlak","","Gazi, 143. Sk. No:74, Karacabey","","",""
+"İnceoğlu Gayrimenkul","0507 285 22 36","Çırpan, Fevzipaşa Cd. No:26, Mustafakemalpaşa","https://www.inceoglugayrimenkul.com.tr/",5,29
+"Erden Yapi Muteahhitlik Emlak","0536 524 52 11","Hamidiye, Yalıntaş Cd. No:6, Mustafakemalpaşa","",5,3
+"KASREVİ GM YATIRIM GAYRİMENKUL","0538 548 25 66","Tatkavaklı, 62 Nolu Sk. no:46/a, Mustafakemalpaşa","",5,1
+"Kafkas Ticaret ve Gayrimenkul","0536 213 74 32","Lalaşahin, Setboyu Sk. No:11/A, Mustafakemalpaşa","https://www.emlakjet.com/emlak-ofisleri-detay/kafkas-emlak-ve-gayrimenkul-1360057/",5,2
+"Çerkezoğlu Emlak","0537 831 78 99","Şeyhmüftü, Balıkesir Cd. No:129/C, Mustafakemalpaşa","http://cerkezogluemlakk.sahibinden.com/",5,17
+"EVSAR YAPI","0554 569 41 47","Yunus Emre, Fevzipaşa Cd. No:211/A, Mustafakemalpaşa","",5,1
+"Kasrevi GM yayırım ve gayrimenkul","","Tatkavaklı, 62 Nolu Sk. no:46/a, Mustafakemalpaşa","","",""
+"Trio Gayrimenkul","","Atatürk, Sadettin Sarcan Cd., Mustafakemalpaşa","https://triogayrimenkul16.sahibinden.com/",5,1
+"BAKAN GAYRİMENKUL VE EMLAK DANIŞMANLIĞI","0532 230 96 64","Atariye, Sırma Cd. No:56, Mustafakemalpaşa","",5,1
+"Mustafakemalpaşa Gayrimenkul","0545 516 35 25","Cumhuriyet, Bursa Cd. No:101/A, Mustafakemalpaşa","",4.5,8
+"KAAN EMLAK & OTOMOTİV","0543 431 34 16","Atatürk, Sadettin Sarcan Cd. No: 2-4/A, Mustafakemalpaşa","",5,1
+"Paşam Gayrimenkul ve Emlak Danışmanlığı","0535 914 47 80","Hamzabey, Şht. Zeki Gökgöz Sk. no:25, Mustafakemalpaşa","",4,3
+"ÖZTARLACI NETWORK GAYRİMENKUL MUSTAFAKEMALPAŞA","(0224) 613 61 68","Züferbey, İsmet Paşa Cd. No:24, Mustafakemalpaşa","http://www.oztarlacigayrimenkul.com/",3.8,10
+"Akbahar Gayrimenkul","0535 728 07 48","Hamidiye, Fevzipaşa Cd. No:49, Mustafakemalpaşa","",5,12
+"Caner PROPERTY","0533 615 68 92","Vıraca, Benli Ahmet Sk. 1/E, Mustafakemalpaşa","",4,2
+"Aslanoğlu İnşaat ve Emlak Hizmetleri","(0224) 613 83 83","Hamidiye Mh. Mineviz Cd., Pazartesi Pazarı Girişi","",4,3
+"Arslan Emlak","0532 723 17 10","Şeyhmüftü, Balıkesir Cd. No:127, Mustafakemalpaşa","",3.6,5
+"Hayat Emlak Gayrimenkul Danışmanlığı","0536 921 45 49","Şeyhmüftü, Balıkesir Cd. No: 107/B, Mustafakemalpaşa","","",""
+"Bursadabul Gayrimenkul","0552 343 48 08","Barış, Fatih Cd., Mustafakemalpaşa","",5,1
+"Özkan Emlak","","Hamidiye, Fevzipaşa Cd. No:47, Mustafakemalpaşa","",3,2
+"Yaşar Emlak","","Züferbey, Nejat Uğur Sk., Mustafakemalpaşa","",4,1
+"TEKO EMLAK","0532 205 17 06","Şeyhmüftü, Cami Sk. No 51/A, Mustafakemalpaşa","","",""
+"NETA GAYRİMENKUL","0532 684 02 86","Yunus Emre, Mustafakemalpaşa","","",""
+"Nestia Gayrimenkul","0531 870 43 31","Vıraca, Mustafakemalpaşa","https://www.nestiagayrimenkul.com/","",""
+"art emlak hizmetleri","(0224) 614 09 88","lalaşahin Mah.Set Boyu Sok.Sönmez Apt.No:15/1, Mustafakemalpaşa","","",""
+"ENES GAYRİMENKUL","0534 691 45 26","Hamzabey, Hüseyin Özlü Sk. no:22, Mustafakemalpaşa","https://instagram.com/enesgayrimenkull?igshid=YmMyMTA2M2Y=","",""
+"ES GAYRİMENKUL","0533 667 12 62","Şeyhmüftü mah. Balıkesir cad. No:107/b mustafakemalpaşa bursa bursia, Mustafakemalpaşa","","",""
+"YETİŞ EMLAK GAYRİMENKUL DANIŞMANLIĞI","(0224) 613 93 83","Hamidiye, Fevzipaşa Cd. NO: 57 D:59A, Mustafakemalpaşa","","",""
+"Fikret Otomotiv & Emlak","(0224) 613 47 77","Yunus Emre, Fevzipaşa Cd. No:207, Mustafakemalpaşa","","",""
+"Kuzucu EMLAK","0546 546 32 16","Suyhmuftu mah, Balıkesir Cd., Mustafakemalpaşa","","",""
+"Toprak Emlak","","Şeyhmüftü, Balıkesir Cd. No:107, Mustafakemalpaşa","","",""
+"Kibarli Satiş Merkezi","","Şeyhmüftü, Balıkesir Cd. No:40, Mustafakemalpaşa","","",""
+"Heykel Emlak","","Züferbey, Nejat Uğur Sk., Mustafakemalpaşa","","",""
+"Yarış Emlak Gayrimenkul","","Çırpan, Fevzipaşa Cd. No:132, Mustafakemalpaşa","","",""
+"Loyanlar gayrimenkul","","Hamzabey, Bursa Cd. No:108, 16500, Mustafakemalpaşa","","",""
+"Can Emlak Danişmanlik","","Şeyhmüftü, Balıkesir Cd. No:7, Mustafakemalpaşa","","",""
+"Durak Emlak Gayrimenkul","","Şeyhmüftü, Balıkesir Cd. No:111, Mustafakemalpaşa","","",""
+"Gözde Emlak","","Selimiye, Balıkesir Cd. NO:86, Mustafakemalpaşa","","",""
+"Erler Emlak","","Züferbey, İsmet Paşa Cd. No:22, Mustafakemalpaşa","","",""
+"Köşk Emlak","","Şeyhmüftü, Balıkesir Cd. No:40, Mustafakemalpaşa","","",""
+"Aslan inşaat","0537 338 40 95","Barış, Osmangazi Cd no:52 A blok, Mustafakemalpaşa","","",""
+"Çözüm Emlak","","Şeyhmüftü, Balıkesir Cd. No:121, Mustafakemalpaşa","","",""
+"mustafaerengayrimenkul","0532 208 10 59","hamzabey mah.uzgurlu ibrahim sok, Hamzabey, saray plaza NO:13/14, Mustafakemalpaşa","","",""
+"Kimpaş İnşaat-Müteahhitlik","","Yalıntaş, Recep Yazıcıoğlu Cd., Mustafakemalpaşa","","",""
+"OVA EMLAK ORHANGAZİ","0538 888 20 20","Hürriyet, Tozkoparan Cd. No:72 A Blok, Kat:1, Büro No:24, Orhangazi̇","https://ovaemlak.com/",5,46
+"ÖZCAN EMLAK GAYRİMENKUL VE YATIRIM DANIŞMANLIĞI","0533 427 73 27","Arapzade, Selvili Sk. NO:26, Orhangazi̇","",5,1
+"Öz Çağdaş Emlak","(0224) 573 64 19","Muradiye mahallesi ibrahim önal caddesi 2, Camiikebir, pazar yeri aralığı no:5, Orhangazi̇","http://çağdaşemlak.com/",4.8,4
+"ÇAĞLAR AVCI EMLAK VE YATİRİM DANİŞMANI","0545 476 87 00","Muradiye Yeşil SK kapı no 1 daire no A, Orhangazi̇","https://www.emlakjet.com/emlak-ofisleri-detay/turan-emlak-gayrimenkul-1330253/",5,2
+"Orhangazi Kaya Emlak","0532 585 20 25","Camiikebir, Orhan Bey Cd. No:15, Orhangazi̇","http://www.orhangazikayaemlak.com/",5,8
+"Aydoslu Emlak Müşavirliği","0551 633 11 33","Camiikebir, Dervişbey Cd. no:13 Kat:4, Orhangazi̇","",3,2
+"KARDEŞLER EMLAK GAYRİMENKUL ALIM SATIM","(0224) 573 72 52","Muradiye, Yeşil Sk., Orhangazi̇","",5,2
+"Talep Emlak","0505 688 50 28","Muradiye, Garaj Sk. Doğan Güllü İş Merkezi No:32 / A, Orhangazi̇","http://talepemlak.sahibinden.com/",5,2
+"Orhangazi Sümer Emlak","0532 294 24 57","Muradiye, Kaynarca Cd. No:5, Orhangazi̇","",5,2
+"Marmara Emlak Gayrimenkul Danışmanlık Hizmetleri","0535 946 38 22","muradiye mah. yağhane sok. konak iş merkezi no:16, Orhangazi̇","",5,2
+"ELBİR EMLAK","","Camiikebir, Garaj Sk. no:4, Orhangazi̇","https://elbiremlakbursa.sahibinden.com/",4.4,7
+"Nova Realty Gayrimenkul-Emlak","0545 643 16 15","Arapzade, Yalova Cd., Orhangazi̇","",5,1
+"Dirilis emlak ofisi","0537 745 51 63","Camiikebir, İstiklal Cd., Orhangazi̇","",5,1
+"The World Seller emlak ofisi","","camikebir mahallesi, Turist Yolu Cd. apaydın apt no 41, Orhangazi̇","","",""
+"ADA Gayrimenkul Yatırım Danışmanlığı","0532 724 74 70","Muradiye Mah. Gazi Orhanbey Camii Altı No: 37, D:c, Orhangazi̇","https://adagayrimenkul.sahibinden.com/",5,1
+"Emlak On6 Siteler ORHANGAZİ","0537 985 17 54","Arapzade, Arkaltı Cd. NO:61/A, Orhangazi̇","https://ofisim.sahibinden.com/",5,14
+"Orhangazi Birleşmiş Emlakçılar Acentesi","(0224) 572 39 39","2.Pazaryeri Aralığı 13/A Orhangazi/BURSA, Muradiye, Orhangazi̇","",5,1
+"AŞIK EMLAK","0505 707 40 30","CAMİKEBİR MAH.İSTİKLAL CAD, Uludağ Sk. No:6, Orhangazi̇","",5,5
+"Komutan Otobank & Emlak","","Camiikebir, Orhangazi","",5,3
+"Aytemür Emlak","0537 888 15 75","Camiikebir, Pazarköy Sk. no:2, Orhangazi̇","",3.7,3
+"Soydaş Emlak","0532 256 74 33","16800, Muradiye Mah, Merkez Camii Altı No:66, Orhangazi","",2,2
+"TOPRAK EMLAK GAYRİMENKUL","0530 635 16 58","Camikebir Mahallesi, Yalova Cd. No:7 c blok, Orhangazi̇","https://www.instagram.com/toprakemlakgayrimenkulorhngz?igsh=MXhmcDdhZndubHQ4eQ==","",""
+"çınar emlak","0532 165 56 87","Camiikebir, Mustafa Kemal Paşa Cd., Orhangazi̇","",5,1
+"Demirkan Emlak","0534 710 07 43","arapzade mah cumhuriyet caddesi hafiz hamit ap no 69","","",""
+"Karaca Emlak","(0224) 573 27 70","Muradiye, Turist Yolu Gizem1 Blok D:62, Orhangazi̇","",5,3
+"Orhangazi Emlak","(0224) 573 27 07","Muradiye, Garaj Sk. 32 d, Orhangazi̇","",4.3,4
+"ÇOKLAR EMLAK GAYRİMENKUL","0533 527 67 86","Camiikebir, Garaj Sk. No:14/a, Orhangazi̇","",4,7
+"Aksoy Emlak Ve Gayrimenkul Danışmanlığı","","Camiikebir, Mustafa Kemal Paşa Cd. No:12, Orhangazi̇","",5,1
+"makyatırım gayrimenkul hizmeteri","0537 985 17 54","camikebir mah, Dağcıoğlu Cd. no3, Orhangazi̇","","",""
+"BERLİN GAYRİMENKUL ORHANGAZİ","0532 296 73 70","Hürriyet, Cami Sk. NO:39, Orhangazi̇","",5,3
+"Anka Yapı Gayrimenkul","0530 656 46 90","Camikebir Mahallesi, Mustafa Kemal Paşa Cd. 42/B, Orhangazi̇","https://www.facebook.com/ankayapigayrimenkul16",5,1
+"İNCE Gayrimenkul Danışmanlık","(0224) 573 00 61","Muradiye, Kızılay Sk. 4/A, Orhangazi̇","","",""
+"Emlak Yapi","","Arapzade, Orhangazi","","",""
+"Gümüş Emlak","","Camiikebir, Orhangazi","","",""
+"Salih Emlak","","Camiikebir, Orhangazi","","",""
+"El-Ver Gayrimenkul","","Muradiye, Orhangazi","","",""
+"Başkan Emlak","","Muradiye, Orhangazi","","",""
+"ÖLMEZ İNŞAAT","(0224) 573 12 12","Camiikebir, Turist Yolu Cd. NO: 49 B, Orhangazi̇","",5,1
+"Kardeşler Gayrimenkul & Yatirim","","Camiikebir, Orhangazi","","",""
+"Aktürk Gayrimenkul","0532 059 85 51","Camiikebir, Garaj Sk. NO: 15/B, Orhangazi̇","",4.2,5
+"Osm Danışmanlık Emlak Sigorta ve Dekorasyon","(0224) 371 01 11","zafer mah zafer cad no:72/A Ş.cüneyt yıldız hastenesi yolu üzeri, Gürsu","",5,3
+"KESTEL EMLAK DANIŞMANLIK","0532 451 40 19","Kale, Uzun Cd., Kestel","",4.4,20
+"Emniyet Emlak Ofisi","0505 210 80 35","Zafer, Dere Sk. No:9/A, Gürsu","",4.5,4
+"Osmanoğlu Emlak / Gayrimenkul /İnşaat","0552 188 07 16","Ahmet Vefik Paşa, Pınar Sk. no 6C, Kestel","",5,2
+"HAFSA SULTAN GAYRİMENKUL & AUTO","0543 761 45 49","Karapınar, 178. Sk. 10 A A BLOK AB, Yıldırım","http://hafsasultangayrimenkul.sahibinden.com/",5,2
+"HAREM EMLAK","0544 263 18 31","Kurtuluş, Mithat Paşa Cd. 17/A, Gürsu","",3.5,4
+"MT EMLAK DEKORASYON","0537 258 45 20","Zafer, Melek Sk. No:8 6, Gürsu","",4.3,7
+"ÖZ EMLAK GAYRİMENKUL","0537 265 08 23","Vanimehmet, Pazaryeri Sk. No:13, Kestel","",5,8
+"GÜVEN EMLAK & OTOMOTİV","0532 413 49 29","Kurtuluş Mah. Atatürk Cad.No:104 E:1, Kurtuluş, Atatürk Cd. No:104, Gürsu","",5,1
+"Umut Emlak","0536 629 66 87","Ahmet Vefik Paşa, Laleli Sk. No:4 D:c, Kestel","https://umutemlakbursa.sahibinden.com/",4.5,10
+"ND Gayrimenkul ve Yatırım Danışmanlığı","0543 523 18 30","Kurtuluş, Atatürk Cd. No:159-A, Gürsu","",5,2
+"Gür-Aktaş İnşaat Ve Emlak","0533 610 05 20","Kurtuluş, Gürsu","https://www.sahibinden.com/emlak-konut/bursa-gursu?a27=59650",5,1
+"KAYI EMLAK","","Vanimehmet, Namık Kemal Cd. 80 A, Kestel","http://www.kayiemlak.net/",5,2
+"Yıldız Emlak Ve Otomotiv","","Zafer, Beşevler Cd. No:24, Gürsu","",5,1
+"KRİSTAL ROYAL GAYRİMENKUL","0535 476 02 24","Vanimehmet, Eğitim Cd 17/a, Kestel","",4.5,2
+"AĞABEY EMLAK GAYRİMENKUL","0532 587 82 16","BURSA&KESTEL&VANİMEHMET MAH.ŞEHİT NİZAMETTİN YAVLAK CAD, NO:30 D:1, Kestel","","",""
+"Artvin Emlak","","Zafer, Gürsu","",5,1
+"Çelik Emlak Dünyası","0543 472 91 99","Vanimehmet, Vani Mehmet Cad. No:35, Kestel","",4.5,2
+"EVİM EMLAK KESTEL","0539 491 62 25","Ahmet Vefik Paşa, Pazar Cd. No:2, Kestel","https://www.hurriyetemlak.com/evim-emlak-kestel/bursa-kestel-vanimehmet/emlak-ofisleri/KXRcGS2Cikk=/DjCVhESiNJk=&new=1","",""
+"NUR EMLAK İNŞAAT GALERİ","0544 258 66 02","Kale mah uzun cadde, Belediye Arkası, Uzun Cd. no : 8/A, Kestel","",4.8,5
+"Halis&Beynur Group Yapı Gayrimenkul","0543 945 49 13","Vanimehmet, Eğitim Cd no: 35/A, Kestel","","",""
+"Gürsu Gayrimenkul","(0224) 371 43 73","Kurtuluş, Atatürk Cd. 65/C, Gürsu","",3,1
+"Aysu Emlak & Dekorasyon","0530 038 35 07","Zafer, Zafer Cd. No:53, Gürsu","https://aysuemlakdekarasyon.sahibinden.com/","",""
+"EFE GAYRİMENKUL EMLAK","0543 748 20 41","Mahallesi, Ahmet Vefik Paşa, Merdivenli Sk. no:2 D:a, Kestel","","",""
+"Uludağ Emlak","0537 226 79 49","Ahmet Vefik Paşa, Arı Sk., Kestel","",5,1
+"Kaçmaz Emlak","","Ahmet Vefik Paşa, Fevzi Çakmak Cd. No:17, Kestel","",5,1
+"Bursa/Gürsu'da","","Zafer, Gürsu","",4.4,27
+"Şadırvan Emlak Borsası","(0224) 376 00 75","Kurtuluş, Atatürk Cd. No:41, Gürsu","",2,4
+"ALİSA EMLAK","0532 637 40 92","Kurtuluş, NAZIMMADENCIOGLU CD no 10, Gürsu","https://alisaemlak.sahibinden.com/",1,1
+"Öz Yuvam İnşaat & Emlak","0535 455 01 20","İstiklal, Atatürk Cd. 25a, Gürsu","https://ozyuvamemlakgursu.sahibinden.com/",4.3,11
+"YILDIRIM ARSLAN","0532 791 09 47","Kestel iş Bankası üstü, Ahmet Vefik Paşa, Pazar Cd. No:6, Kestel","",4.8,74
+"Peker Emlak","0532 667 16 54","Vanimehmet, Cuma Cd. No:34, Kestel","",4,1
+"Anadolu Emlak","(0224) 373 02 93","Ahmet Vefik Paşa Tezel, Ahmet Vefik Paşa, Konserve Sk. İş Merkezi No:5, Kestel","","",""
+"İncel Emlak","","Ahmet Vefik Paşa, Bursa Cd. No:9, Kestel","http://www.bursaisrehberi.org/12327-incel-emlak-kestel.html",3,2
+"Çınar Emlak","0535 740 11 86","Ahmet Vefik Paşa, Edizer Cd. No:1, Kestel","","",""
+"Çelik Emlak Dünyası","0555 176 25 54","Kale, Kurtuluş Cd. no:24/A, Kestel","","",""
+"İVA GAYRİMENKUL ve MİMARLIK","0537 561 06 87","Tekinalp kuyumcu aralığında, Değirmenönü, 3. Dicle Sk. No:12 D:1A, Yıldırım","http://www.ivagayrimenkul.com/",4.9,43
+"Kumlukalan Gayrimenkul","0535 542 00 16","Kumlukalanı, Muharrem Türk Cd. No:2, 16300 Gürsu/Bursa 16580, Gürsu","",5,2
+"Şehri Yapı Gayrimenkul & İnşaat","(0224) 371 40 41","Zafer, Karanfil Cd. 45/A, Gürsu","","",""
+"Yenişehir Merkez Emlak","0532 797 50 32","Kurtuluş, Palabıyık Sk No:4, Yeni̇şehi̇r","",4.9,16
+"emd emlak&yatırım","0532 349 82 77","Kurtuluş, Zühre Sk. no:60, Yeni̇şehi̇r","",5,16
+"Müftüoğlu Emlak","0530 646 48 16","Heykel Meydanı, yenişehir","",4.3,11
+"Selimoğlu Emlak","0533 235 10 15","Yenigün mah. Gül sok. No:f/c devlet Hastanesi karşısı, Yeni̇şehi̇r","http://selimogluemlakyenişehir.sahibinden.com/",5,3
+"Buluç Emlak","0533 707 69 09","Hıdırbali, Yenişehir","",5,21
+"PORTA EMLAK MÜŞAVİRLİĞİ","0541 680 91 04","Yenigün, Piri Ateş Cd. No:19/1, Yeni̇şehi̇r","http://www.facebook.com/groups/246129353909047/",5,3
+"ZİRVE GAYRİMENKUL","0535 582 97 52","Hıdırbali, Alican Cd. No:37/B, Yeni̇şehi̇r","",4.7,3
+"Melike emlak","","Kurtuluş, Palabıyık Sk No:5 D:1, Yeni̇şehi̇r","",5,1
+"Bal Emlak Gayrimenkul Ofisi","0532 063 41 37","Hıdırbali, Alican Cd. No:45/D, Yeni̇şehi̇r","","",""
+"ÇAĞLAR EMLAK VE FİNANSAL DANIŞMANLIK","0539 382 22 74","Gündoğan, Lapacı Sk. No:19, Yeni̇şehi̇r","http://www.bursayenisehiremlak.com/",4.5,6
+"İSTANBUL ARSA OFİSİ 1998 den beri,","(0224) 773 57 72","Çayır, Cumhuriyet Cd. No:92, Yeni̇şehi̇r","","",""
+"TAC GAYRİMENKUL İNŞAAT","0555 662 16 16","Yenigün, Şabanağa Sk. No:1/3, Yeni̇şehi̇r","http://www.tacgayrimenkulinsaat.com/",5,6
+"Has Emlak","0537 959 70 35","Hıdırbali, Alican Cd. No:25, Yeni̇şehi̇r","",5,6
+"BURSA YENİŞEHİR Ottoman REAL ESTATE","0532 164 61 86","Kurtuluş, Palabıyık Sk No:7-1/A, Yeni̇şehi̇r","https://osmanligayrimenkull.sahibinden.com/",3.8,4
+"Emir","","Kurtuluş, Yenişehir","",4.5,2
+"İMC Gayrimenkul","0532 700 74 62","Hıdırbali, Alican Cd. No: 37/B, Yeni̇şehi̇r","",5,1
+"GARANTİ EMLAK","0532 688 16 11","GÜNDOĞAN MAH BİLECİK CAD N2, D:1, Yeni̇şehi̇r","",5,1
+"KUTAY TİCARET","","Kurtuluş, Yzb. İsmail Hakkıbey Blv. No:27, Yeni̇şehi̇r","",5,3
+"Emre ÇEVİK Gayrimenkul","0535 953 11 40","Hıdırbali, Sağır Osman Sk. No:7, Yeni̇şehi̇r","",3,4
+"YILDIRIM GAYRİMENKUL YATIRIM","0533 700 49 66","Hıdırbali, Alican Cd. 4/C, Yeni̇şehi̇r","",3,2
+"Dost Emlak","0538 662 35 70","Hıdırbali, Alican Cd. No:23, Yeni̇şehi̇r","",5,1
+"SEMİH GROUP GAYRİMENKUL","0532 069 36 57","Hıdırbali, Mescit Yolu Sk. 2/A, Yeni̇şehi̇r","https://semihemlakyenisehir.sahibinden.com/",5,5
+"KARATAŞ GAYRİMENKUL","0534 686 89 66","Kurtuluş, Palabıyık Sk NO:4, Yeni̇şehi̇r","","",""
+"Zülkarneyn","","Hıdırbali, Yenişehir","",4,1
+"ay group gayrimenkul","","Kurtuluş, Atatürk Cd. No:16, Yeni̇şehi̇r","",5,1
+"Bin Yapi Emlak","","Hıdırbali, Sağır Osman Sk. No:19, Yeni̇şehi̇r","","",""
+"ZAFER EMLAK","0532 252 60 09","Hıdırbali, Alican Cd. NO=6 D:C, Yeni̇şehi̇r","",2.3,4
+"Öztürk Emlak","","Kurtuluş, Yenişehir","","",""
+"Müftüoğlu Emlak & Yatirim","","Kurtuluş, Zühre Sk., Yeni̇şehi̇r","","",""
+"SC RADİKAL GAYRİMENKUL","0539 811 15 14","Hıdırbali, Alican Cd. No:37, Yeni̇şehi̇r","","",""
+"Invest City Gayrimenkul ve Tarımsal Danışmanlık","0506 161 61 00","Hıdırbali, Alican Cd. No:1 D:5, Yeni̇şehi̇r","","",""
+"Pera Gayrimenkul","","kurtulus mah. yuzbasi ismail hakkibey bulvari basaran apt, Yeni̇şehi̇r","","",""
+"Olkun Emlak","","Hıdırbali, Yenişehir","","",""
+"Yemişçioğlu Emlak","","Gündoğan, Yenişehir","","",""
+"Orhan Zengin","","Kurtuluş, Palabıyık Sk, Yeni̇şehi̇r","https://orhanzengingayrimenkul.sahibinden.com/","",""
+"Nur İpek İnşaat","","Kurtuluş, Palabıyık Sk, Yeni̇şehi̇r","",4,1
+"Yemi̇şçi̇oğlu Emlak","","Çayır, Tahıl Cd. No:28, Yeni̇şehi̇r","","",""
+"Öğün Emlak","","Gündoğan, Yenişehir","","",""
+"Babasultan Emlak Gayrimenkul","","Yenigün, Şht. İrfan Yılmaz Sk. 1a, Yeni̇şehi̇r","","",""
+"Altin Emlak","","Kurtuluş, Palabıyık Sk 5A, Yeni̇şehi̇r","","",""
+"Semih Group gayrimenkul","0532 069 36 57","Hıdırbali, Mescit Yolu Sk. No:2 D:a, Yeni̇şehi̇r","","",""
+"Lokman Otomotiv & Gayrimenkul","0506 773 50 51","Hıdırbali, Hacı Hasan Sk. LokmanAVM Sit No: 10 Kat:3, Yeni̇şehi̇r","https://www.lokmanavm.com/",5,1
+"Alperen İnşaat Satik Gayrimenkul","","Hıdırbali, Yenişehir","","",""
+"Sahra Emlak","","Kurtuluş, Süpürtülü Sk. No:3, Yeni̇şehi̇r","","",""
+"BİZİM ARTVİN EMLAK","","Hıdırbali, Alican Cd. no:23, Yeni̇şehi̇r","","",""
+"OĞUZ GAYRİMENKUL","0532 686 49 39","Yenigün, Santral Sk. No:8, Yeni̇şehi̇r","","",""
+"Yavuz Emlak","","Kurtuluş, Yenişehir","","",""
+"Öz Karadeniz Emlak","","Hıdırbali, Yenişehir","","",""
+"Ferah Emlak","","Çayır, Bursa Cd. No:27, Yeni̇şehi̇r","","",""
+"Neşe Gayrimenkul","","Hıdırbali, Yenişehir","","",""
+"Bayburt Emlak","","Ulucami, Dr. Ahmet Esin Sk. No:7, Yeni̇şehi̇r","","",""
+"Umut Emlak","","Kurtuluş, Şifa Sk. No:6, Yeni̇şehi̇r","","",""
+"Karali Gayrimenkul","","Kurtuluş, Süpürtülü Sk., Yeni̇şehi̇r","","",""
+"Akm Gayrimenkul","","Gündoğan, Yenişehir","","",""
+"Özdemİr Gayrİmenkul Inşaat & Emlak","","Yenigün, Kozdere Cd. No:18, Yeni̇şehi̇r","","",""
+"Umut Emlak","","Hıdırbali, Kahya Sk., Yeni̇şehi̇r","","",""
+"Hacıoğlu Emlak İnşaat","0535 233 05 95","Hıdırbali, Alican Cd. No:29, Yeni̇şehi̇r","","",""
+"Rcs Gayrimenkul","0532 467 23 61","KURTULUŞ MAH, Osmangazi Cd. NO:32A, Yeni̇şehi̇r","","",""
+"Özdemir Emlak & Yatırım ve Gayrimenkul","0553 971 53 53","Mustafa Kemal Paşa, Kaymakam S. Koloğlu Sk. No:5/2, İzni̇k","",5,29
+"Iznik Real Estate","0542 770 57 94","Beyler Mh., Meydan Sk. No:23, İzni̇k","http://www.iznikemlak.com/",5,1
+"İZNİK EMLAK","0541 819 16 00","9 Arap, Selçuk, Kaymakam Sk., İzni̇k","http://www.iznikemlak.com/",4.5,4
+"KOÇAK GAYRİMENKUL BANKASI İZNİK TEMSİLCİLİĞİ","(0224) 757 32 23","Mustafa Kemal Paşa, Kılıçaslan Cd. no 63 b, İzni̇k","http://kocakgayrimenkul.com/",4.6,10
+"HAN EMLAK","0532 783 97 86","Beyler, Hüseyin Oktay Sk. NO:16/B, İzni̇k","https://iznikhanemlakbursa.sahibinden.com/satilik-arsa",5,11
+"İZNİK HATIPOGLU EMLAK","0537 945 40 80","Bursa, Beyler, Hüseyin Oktay Sk. no:8, İzni̇k","https://g.co/kgs/YHECAk",3,2
+"Iznik Merkez Emlak","0536 467 12 15","Mahmut Çelebi, Maltepe Cd. No:17, İzni̇k","",3.5,21
+"ASİL GROUP GAYRİMENKUL","0531 105 56 15","Mahmut Çelebi, MAHÇ KILICASLAN_1 CAD BELEDİYE İŞ HANI NO:82 İÇ KAPI NO: Z14, İzni̇k","https://asilgroupgayrimenkul.sahibinden.com/",5,1
+"İznik Can Emlak","0532 165 41 39","Selçuk Mh, Atatürk Cd. NO: 91/F, İzni̇k","",4.8,5
+"İznik Aydoğdu Emlak","0542 363 66 44","Beyler, Atatürk Cd. No:132/A, İzni̇k","https://aydogduemlak.sahibinden.com/",2.5,8
+"Yılmaz Emlak","(0224) 757 45 46","İznik, Kılıçaslan Caddesi, no:1/115 kat:2, iznik","",5,1
+"İpekyolu Emlak İznik","0532 510 61 71","Şahin Emlak Selçuk Mahallesi Kılıçaslan Caddesi D:No.66 Kat.2, İzni̇k","","",""
+"İZNİK EMLAK (Ertuğrul ALP)","0536 546 70 48","Selçuk, Atatürk Cd. No:91/D, İzni̇k","https://izniikemlak.sahibinden.com/",5,2
+"Nicea Emlak","","Beyler, Atatürk Cd. No:132, İzni̇k","",5,1
+"Acar Emlak","(0224) 757 43 64","Selçuk, Atatürk Cd. No:91/H, İzni̇k","",5,1
+"İznik Yeşil Emlak","0532 066 52 39","Selçuk, Atatürk Cd. No:91/I, İzni̇k","",2.5,2
+"Asya Emlak Gayrimenkul Danışmanlığı","0532 207 58 51","Mahmut Çelebi, Atatürk Cd. no:42, İzni̇k","","",""
+"Benim Dünyam Emlak","0553 633 18 75","Beyler, Derman Sk. No:3, İzni̇k","","",""
+"Altin emlak","0531 721 39 28","Yeni, Kaymakam Salim Taşkın Sk. No: 3/3, İzni̇k","","",""
+"7kıta gayrimenkul","(0224) 757 75 57","mustafa kemalpaş Mahallesi, Kılıçaslan Cd. No:43/B, İzni̇k","","",""
+"2M Gayrimenkul Yatırım Danışmanlık","0532 583 42 43","Selçuk, Rauf Denktaş Cd 21-B, İzni̇k","https://2mgayrimenkul.sahibinden.com/",5,1
+"Iznik Merkez Emlak","(0224) 757 42 42","Beyler, Hüseyin Oktay Sk. No:3/B, İzni̇k","",3,2
+"Yaşa Emlak","(0224) 757 32 23","Mustafa Kemal Paşa, gölcük caddesi no 22, İzni̇k","","",""
+"Kaçmazlar Emlak İznik","0507 932 28 55","Mustafa Kemal Paşa, Osman Tufan Sk. No:3/a, İzni̇k","http://www.kacmazlaremlak.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6829976252838787689","",""
+"Turan Emlak","0539 947 19 17","Selçuk, Atatürk Cd. no:91/B, İzni̇k","","",""
+"Kula Oto & Emlak","","Mustafa Kemal Paşa, Orhangazi Cd. No:43, İzni̇k","",4,1
+"Sema Grup Gayrimenkul","0536 783 02 85","Mustafa Kemal Paşa, Tarlabaşı Sk. No:6D, İzni̇k","","",""
+"Olcar Emlak Gayrimenkul ve Yatırım Danışmanlığı","0532 461 98 00","Yeni, Canbaz Sk. 29/A, İzni̇k","","",""
+"ERKANOĞLU GAYRİMENKUL (ÇARŞI)","0532 798 29 59","Beyler, Kılıçaslan Cd. no:103, İzni̇k","http://www.erkanoglu.com/","",""
+"Koyutürk Emlak","","Beyler, İznik","","",""
+"May Global Müteahhitlik İznik Şubesi","0530 918 40 13","Beyler, M. Davarci Sk. No:8, İzni̇k","https://mayglobalinsaat.com.tr/","",""
+"ÖNER Otomotiv&Emlak","0544 224 24 42","ÖNER Otomotiv&Emlak, Mustafa Kemal Paşa, Orhangazi Cd. No:64, İzni̇k","http://www.onerotoemlak.com/","",""
+"EMEK GAYRİMENKUL","(0224) 757 33 66","Mustafa Kemal Paşa, İznik","","",""
+"34 Gayrimenkul İznik Temsilciliği","0532 622 04 42","Mustafa Kemal Paşa, Kılıçaslan Cd. No:69/D, İzni̇k","https://34gayrimenkul.sahibinden.com/","",""
+"İZNİK FATİH EMLAK","(0224) 757 46 36","Selçuk, Atatürk Cd. Ayasofya Müzesi, Karşısı","http://www.firmasec.com/firma/mdbrfc-fatih-emlak/","",""
+"Meriç","","Mustafa Kemal Paşa, İznik","","",""
+"Göl Emlak","","Mustafa Kemal Paşa, K. Emin Ersoy Sk., İzni̇k","https://iznikcanemlak.sahibinden.com/","",""
+"Reis Gayrimenkul Inşaat","","Mustafa Kemal Paşa, İznik","","",""

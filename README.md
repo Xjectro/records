@@ -19,11 +19,36 @@
 - <b>Istanbul Real Estate Agents/</b> 📁
   - <code>agencies.csv</code> 📄: Raw data of agencies (CSV)
   - <code>agencies.json</code> 🗂️: Agency data in JSON format
+- <b>Abu Dhabi Real Estate Agents/</b> 📁
+  - <code>agencies.csv</code> 📄: Raw data of agencies (CSV)
+  - <code>agencies.json</code> 🗂️: Agency data in JSON format
+- <b>Ankara Real Estate Agents/</b> 📁
+  - <code>agencies.csv</code> 📄: Raw data of agencies (CSV)
+  - <code>agencies.json</code> 🗂️: Agency data in JSON format
+- <b>Bursa Real Estate Agents/</b> 📁
+  - <code>agencies.csv</code> 📄: Raw data of agencies (CSV)
+  - <code>agencies.json</code> 🗂️: Agency data in JSON format
+- <b>Diyarbakir Real Estate Agents/</b> 📁
+  - <code>agencies.csv</code> 📄: Raw data of agencies (CSV)
+  - <code>agencies.json</code> 🗂️: Agency data in JSON format
+- <b>Dubai Real Estate Agents/</b> 📁
+  - <code>agencies.csv</code> 📄: Raw data of agencies (CSV)
+  - <code>agencies.json</code> 🗂️: Agency data in JSON format
+- <b>Gaziantep Real Estate Agents/</b> 📁
+  - <code>agencies.csv</code> 📄: Raw data of agencies (CSV)
+  - <code>agencies.json</code> 🗂️: Agency data in JSON format
+- <b>Izmir Real Estate Agents/</b> 📁
+  - <code>agencies.csv</code> 📄: Raw data of agencies (CSV)
+  - <code>agencies.json</code> 🗂️: Agency data in JSON format
+- <b>Comments/</b> 📁
+  - <code>random-tr.json</code> 🗂️: Random Turkish comments (JSON)
+- <b>Trendyol/</b> 📁
+  - <code>categories.json</code> 🗂️: Trendyol categories (JSON)
 
 ## 🚀 Quick Start
 1. Clone the repo:
    ```sh
-   git clone https://github.com/Xjectro/recors.git
+   git clone https://github.com/Xjectro/records.git
    ```
 2. Use the data in your own analyses or projects.
 
