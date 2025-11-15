@@ -40,6 +40,9 @@
 - <b>Izmir Real Estate Agents/</b> 📁
   - <code>agencies.csv</code> 📄: Raw data of agencies (CSV)
   - <code>agencies.json</code> 🗂️: Agency data in JSON format
+- <b>London Real Estate Agents/</b> 📁
+  - <code>agencies.csv</code> 📄: Raw data of agencies (CSV)
+  - <code>agencies.json</code> 🗂️: Agency data in JSON format
 - <b>Comments/</b> 📁
   - <code>random-tr.json</code> 🗂️: Random Turkish comments (JSON)
 - <b>Trendyol/</b> 📁
